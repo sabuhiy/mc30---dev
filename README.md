@@ -101,10 +101,6 @@ Each day's content includes:
 
 This is a learning resource. Feel free to adapt the content for your own organization or learning needs.
 
-## 📄 License
-
-Educational content for prompt engineering learning.
-
 ---
 
 *Developed as a comprehensive prompt engineering curriculum for marketing professionals.* 
