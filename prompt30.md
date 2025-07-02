@@ -1464,6 +1464,11 @@ You've used Zero-Shot CoT to encourage step-by-step thinking. Today, we make tha
 #### Task
 Create a Few-Shot CoT prompt showing the AI how to analyze customer needs and recommend NextMobile solutions.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Few-Shot CoT Guide - https://www.promptingguide.ai/techniques/cot]
+- [Link to Customer Analysis Framework - https://blog.hubspot.com/service/what-is-customer-analysis]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've mastered Few-Shot Chain-of-Thought - the advanced technique that teaches AI your exact reasoning process through examples, ensuring consistent and thorough analysis!
@@ -1579,6 +1584,11 @@ You've explored various ways to guide AI reasoning, including Chain-of-Thought. 
 #### Task
 Use Step-Back Prompting to help AI explain NextMobile's 5G technology by first establishing the broader context of wireless communication evolution.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Step-Back Prompting Guide - https://www.promptingguide.ai/techniques/stepback]
+- [Link to Technical Communication - https://developers.google.com/tech-writing]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've mastered Step-Back Prompting - the strategic technique that builds comprehensive understanding by establishing broader context before diving into specific details!
@@ -1683,6 +1693,11 @@ You've explored techniques for guiding AI reasoning. Today, we apply a strategy 
 
 #### Task
 Use Decomposition to start creating a content plan for the launch of a new NextMobile high-speed internet tier.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Tom's Guide: Prompt Breakdown - https://www.tomsguide.com/ai/most-chatgpt-users-make-this-one-common-mistake]
+- [Link to Tom's Guide: Step-by-Step Prompting - https://www.tomsguide.com/ai/i-test-chatgpt-for-a-living-7-secrets]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -1790,6 +1805,11 @@ You've already practiced Decomposition by breaking down a task into parts. Today
 
 #### Task
 Use Least-to-Most Prompting to generate a comparison between a NextMobile Fiber plan and a NextMobile Cable plan.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Sequential Problem Solving - https://www.promptingguide.ai/techniques/leasttomost]
+- [Link to Product Comparison Guide - https://blog.hubspot.com/marketing/how-to-create-comparison-pages]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
