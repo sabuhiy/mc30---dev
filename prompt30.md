@@ -106,6 +106,11 @@ Yesterday you wrote your first prompt. Today, we explore a crucial distinction: 
 #### Task
 Take yesterday's prompt and improve it using prompt engineering principles. Consider adding context, specifying the audience, and defining the desired tone.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Prompt Engineering Guide - https://www.promptingguide.ai/techniques/basics]
+- [Link to Marketing Messaging Best Practices - https://blog.hubspot.com/marketing/improve-marketing-messages]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've experienced the transformative difference between basic prompting and strategic prompt engineering! This is where the real power begins.
@@ -136,11 +141,6 @@ Add: audience, tone, format, and specific benefits to highlight.
 ❌ Over-engineering simple tasks
 ❌ Conflicting instructions (formal + casual tone)
 ✅ Clear, specific, aligned requirements
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Prompt Engineering Guide - https://www.promptingguide.ai/techniques/basics]
-- [Link to Marketing Messaging Best Practices - https://blog.hubspot.com/marketing/improve-marketing-messages]
 
 ---
 
@@ -176,6 +176,11 @@ You've learned the basics and understood the difference between prompting and pr
 1. Write a prompt asking the AI to create a social media post about NextMobile's customer service
 2. Review the output and identify what could be improved
 3. Refine your prompt based on the results and try again
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Iterative Design Principles - https://www.interaction-design.org/literature/article/iterative-design]
+- [Link to Social Media Best Practices - https://blog.hootsuite.com/social-media-best-practices/]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -215,11 +220,6 @@ Refine by adding: target audience, specific benefits, format, and tone.
 ✅ Test different approaches
 ❌ Don't give up after the first attempt
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Iterative Design Principles - https://www.interaction-design.org/literature/article/iterative-design]
-- [Link to Social Media Best Practices - https://blog.hootsuite.com/social-media-best-practices/]
-
 ---
 
 ## Day 4: Prompting vs. Prompt Engineering
@@ -252,6 +252,11 @@ You've now experienced basic prompting and the iterative nature of prompt engine
 
 #### Task
 Create both a basic prompt and an engineered prompt for generating a product comparison between NextMobile's fiber and cable internet plans. Note the differences in approach and output quality.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Strategic Communication - https://www.coursera.org/learn/strategic-communication]
+- [Link to Product Comparison Best Practices - https://blog.hubspot.com/marketing/how-to-create-comparison-pages]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -294,11 +299,6 @@ Add: audience, purpose, format, tone, and specific requirements.
 ✅ Clear, specific, aligned requirements
 ✅ Appropriate complexity for the task
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Strategic Communication - https://www.coursera.org/learn/strategic-communication]
-- [Link to Product Comparison Best Practices - https://blog.hubspot.com/marketing/how-to-create-comparison-pages]
-
 ---
 
 ## Day 5: Master Role Prompting
@@ -334,6 +334,11 @@ Write prompts that assign different roles to the AI to explain NextMobile's 5G n
 1. As a technical expert
 2. As a friendly customer service representative
 3. As an excited early adopter
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Role-Based Communication - https://www.mindtools.com/pages/article/RoleBasedCommunication.htm]
+- [Link to Audience Targeting - https://blog.hubspot.com/marketing/target-audience]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -375,11 +380,6 @@ Use role prompting to explain NextMobile's fiber internet as:
 ❌ Conflicting roles: "As a technical salesperson"
 ✅ Specific, clear roles: "As a NextMobile network engineer"
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Role-Based Communication - https://www.mindtools.com/pages/article/RoleBasedCommunication.htm]
-- [Link to Audience Targeting - https://blog.hubspot.com/marketing/target-audience]
-
 ---
 
 ## Day 6: Define Your AI's Style
@@ -410,6 +410,11 @@ You've learned to assign roles to influence AI output. Today, we refine that con
 
 #### Task
 Use style prompting to create two versions of the same NextMobile product announcement - one for a professional LinkedIn post and another for a casual Instagram story.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Brand Voice Guidelines - https://blog.hubspot.com/marketing/brand-voice-and-tone]
+- [Link to Platform-Specific Content - https://sproutsocial.com/insights/social-media-content-strategy/]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -460,11 +465,6 @@ Write the same NextMobile 5G announcement for:
 ✅ Clear, specific style instructions
 ✅ Platform-appropriate adaptations
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Brand Voice Guidelines - https://blog.hubspot.com/marketing/brand-voice-and-tone]
-- [Link to Platform-Specific Content - https://sproutsocial.com/insights/social-media-content-strategy/]
-
 ---
 
 ## Day 7: Control AI Output Format
@@ -495,6 +495,11 @@ You've learned to guide the AI's content and style. Now, let's focus on how the 
 
 #### Task
 Create a formatted comparison chart between NextMobile's fiber and cable internet plans using specific formatting instructions.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Data Visualization Best Practices - https://www.tableau.com/learn/articles/data-visualization]
+- [Link to Table Formatting Guide - https://blog.hubspot.com/marketing/how-to-create-html-table]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
