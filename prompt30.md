@@ -566,11 +566,6 @@ Request these formats for NextMobile content:
 - Consider mobile readability
 - Include visual elements (emojis, symbols) when appropriate
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Content Formatting Guide - https://blog.hubspot.com/marketing/content-formatting]
-- [Link to Comparison Chart Examples - https://venngage.com/blog/comparison-chart/]
-
 ---
 
 ## Day 8: Introduction to ICL
@@ -601,6 +596,11 @@ You've mastered basic prompting, templates, refinement, roles, and formatting. N
 
 #### Task
 Use In-Context Learning to generate NextMobile customer success stories by providing examples within your prompt.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to In-Context Learning Guide - https://www.promptingguide.ai/techniques/icl]
+- [Link to Customer Story Examples - https://blog.hubspot.com/service/what-is-a-customer-success-story]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -649,11 +649,6 @@ Use ICL to create patterns for:
 ❌ Use contradictory examples
 ❌ Provide too many examples (cognitive overload)
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to In-Context Learning Guide - https://www.promptingguide.ai/techniques/icl]
-- [Link to Customer Story Examples - https://blog.hubspot.com/service/what-is-a-customer-success-story]
-
 ---
 
 ## Day 9: Implement Few-Shot Prompting
@@ -684,6 +679,11 @@ Yesterday, you were introduced to In-Context Learning (ICL), the AI's ability to
 
 #### Task
 Create a few-shot prompt to generate NextMobile product feature descriptions by providing 2-3 examples of how features should be described.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Few-Shot Learning Guide - https://www.promptingguide.ai/techniques/fewshot]
+- [Link to Product Description Examples - https://blog.hubspot.com/marketing/product-description-examples]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -737,11 +737,6 @@ Create few-shot examples for:
 ❌ Don't use contradictory examples
 ❌ Avoid too many examples (diminishing returns)
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Few-Shot Learning Guide - https://www.promptingguide.ai/techniques/fewshot]
-- [Link to Product Description Examples - https://blog.hubspot.com/marketing/product-description-examples]
-
 ---
 
 ## Day 10: Master Zero-Shot Prompting
@@ -772,6 +767,11 @@ You've seen how examples can guide AI with Few-Shot Prompting. Today, we explore
 
 #### Task
 Use zero-shot prompting to generate a comprehensive explanation of NextMobile's network technology advantages without providing any examples.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Zero-Shot Learning Guide - https://www.promptingguide.ai/techniques/zeroshot]
+- [Link to Technical Writing Tips - https://developers.google.com/tech-writing]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -825,11 +825,6 @@ Use Zero-Shot for:
 ❌ Use for highly specialized proprietary information
 ❌ Expect perfect accuracy without verification
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Zero-Shot Learning Guide - https://www.promptingguide.ai/techniques/zeroshot]
-- [Link to Technical Writing Tips - https://developers.google.com/tech-writing]
-
 ---
 
 ## Day 11: Experiment with Exemplar Quantity
@@ -860,6 +855,11 @@ You're getting comfortable with using examples in your prompts through Few-Shot 
 
 #### Task
 Test how different numbers of examples affect AI output by creating prompts with 1, 3, and 5 examples for generating NextMobile customer testimonials.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Example Optimization - https://www.promptingguide.ai/techniques/fewshot]
+- [Link to Testimonial Writing - https://blog.hubspot.com/service/customer-testimonial-page]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -917,11 +917,6 @@ Test different quantities for:
 - Monitor output quality as you add examples
 - Use fewer examples for creative tasks
 - Use more examples for strict formatting requirements
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Example Optimization - https://www.promptingguide.ai/techniques/fewshot]
-- [Link to Testimonial Writing - https://blog.hubspot.com/service/customer-testimonial-page]
 
 ---
 
