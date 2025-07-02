@@ -1918,6 +1918,11 @@ You've learned to break down problems and reason step-by-step. Today, we introdu
 #### Task
 Write a prompt using a Program-of-Thoughts approach to outline the steps for calculating the potential monthly cost savings for a NextMobile customer switching from a tiered data plan to a new unlimited data plan.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to PromptingGuide.ai: CoT Evaluation - https://www.promptingguide.ai/techniques/cot]
+- [Link to OpenGenus IQ: Self-Consistency in CoT - https://iq.opengenus.org/different-prompting-techniques]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've mastered Program-of-Thoughts (PoT) - a powerful technique that structures AI reasoning like a program with clear, verifiable logical operations!
@@ -2021,6 +2026,11 @@ You're now exploring more advanced techniques. Today's concept, Ensembling, isn'
 #### Task
 Write a prompt to generate multiple short, catchy taglines for a NextMobile campaign focusing on network reliability. Generate at least 5-10 different options.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to LevelAct: Prompt Engineering 2.0 - https://levelact.com/prompt-engineering-2-0-role-specific-context-agents]
+- [Link to French Wikipedia: Prompt Sketching - https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_de_prompt]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've mastered Ensembling - a powerful strategy that generates multiple AI outputs to improve results and provide creative options for your marketing campaigns!
@@ -2122,6 +2132,11 @@ You've learned to generate multiple outputs (Ensembling) and structure reasoning
 
 #### Task
 Write a prompt asking the AI to recommend the best NextMobile internet plan for a family of four that streams 4K video daily and plays online games frequently. To check for self-consistency, ask the AI to provide its top 3 plan recommendations with brief justifications.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Self-Consistency Guide - https://www.promptingguide.ai/techniques/consistency]
+- [Link to Decision Making Framework - https://blog.hubspot.com/marketing/decision-making-process]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -2232,6 +2247,11 @@ You're refining your skills with techniques like Ensembling and Self-Consistency
 
 #### Task
 Use a two-step prompting process to implement Self-Criticism: First, ask the AI to generate a short social media ad for the new NextMobile Smart Home Security Sensor, then ask the AI to critique the ad and suggest 2-3 specific ways to improve it.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Chinese Wikipedia: Prompt Chaining - https://zh.wikipedia.org/wiki/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B]
+- [Link to i-rather-be-writing: CoT Chaining - https://idratherbewriting.com/ai/prompt-engineering-iterative-chain-of-thought.html]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -2354,6 +2374,11 @@ You're in the advanced stages of your prompt engineering journey, exploring the 
 #### Task
 Write a prompt to generate a short promotional message for the new NextMobile customer loyalty program, then make a very small change and compare the results to experience prompt sensitivity firsthand.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Prompt Sensitivity Research - https://www.promptingguide.ai/risks/adversarial]
+- [Link to AI Output Consistency - https://blog.hubspot.com/marketing/ai-content-consistency]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've discovered prompt sensitivity - the critical understanding that minor prompt variations can significantly impact AI outputs, essential knowledge for consistent, professional results!
@@ -2471,6 +2496,11 @@ As you become more adept at generating content with AI, it's crucial to be aware
 #### Task
 Write a prompt asking the AI to generate a description of a typical customer profile for a specific demographic interested in NextMobile's smart home services, then critically evaluate it for any signs of bias.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Educative.io: Auto-CoT and APE - https://www.educative.io/blog/advanced-prompt-engineering-pt-1]
+- [Link to arXiv: Zero-shot Prompt Optimization - https://arxiv.org/abs/2405.20252]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've developed critical bias awareness - an essential skill for responsible AI usage in marketing! This ensures your content is inclusive, accurate, and represents all customers fairly.
@@ -2567,6 +2597,11 @@ You're nearing the completion of your prompt engineering journey, exploring more
 
 #### Task
 Write a short, ambiguous prompt asking the AI to generate a marketing message about NextMobile's "connectivity," then consider the different valid ways the AI might interpret this ambiguous prompt.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Clear Communication Guide - https://blog.hubspot.com/marketing/clear-communication]
+- [Link to Prompt Clarity Best Practices - https://www.promptingguide.ai/introduction/basics]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -2686,6 +2721,11 @@ You're nearing the completion of your prompt engineering journey, exploring adva
 #### Task
 Write a prompt that instructs the AI to generate a short, compelling marketing message in Spanish for a new NextMobile international calling feature that offers great rates to Latin America.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to GitHub: Duriri Prompt Patterns - https://github.com/duriri/prompt-engineering]
+- [Link to arXiv: Context-Aware Prompt Templates - https://arxiv.org/html/2506.20815v1]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've mastered Multilingual Prompting - the global marketing technique that enables culturally relevant, linguistically accurate content creation across diverse markets!
@@ -2800,6 +2840,11 @@ You've become proficient in text-based prompt engineering. Today, we look ahead 
 #### Task
 Imagine you have a video of someone quickly and easily installing the NextMobile Smart Home Security Camera. Conceptually design a prompt that you would provide to a multimodal AI model to generate a short, engaging social media caption for this video.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Multimodal AI Guide - https://www.promptingguide.ai/models/multimodal]
+- [Link to Future of AI Marketing - https://blog.hubspot.com/marketing/future-of-ai-marketing]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've explored Multimodal Concepts - the cutting-edge approach that integrates text, images, video, and audio for comprehensive, engaging marketing experiences!
@@ -2904,6 +2949,11 @@ You've made it! Over the past month, you've built a solid foundation in prompt e
 
 #### Task
 Read the prompt engineering case study in the provided document and write a summary of the key takeaways, including the challenges faced, the techniques explored, and the overall conclusions about the prompt engineering process in a real-world application. Consider how the lessons learned in this case study and throughout this 30-day challenge can inform your future work at NextMobile.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to arXiv: PEER Agent Framework - https://arxiv.org/abs/2407.06985]
+- [Link to arXiv: CoMM Agent Collaboration - https://arxiv.org/abs/2404.17729]
 
 #### Solution (Right Side Content)
 **🎉 CONGRATULATIONS! You have successfully completed the NextMobile Prompt Engineering Challenge!** 
