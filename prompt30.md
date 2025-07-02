@@ -45,6 +45,11 @@ Today, we're diving into the absolute fundamentals: understanding what a prompt 
 #### Task
 Write a simple prompt asking an AI to generate a short marketing message for NextMobile's new high-speed internet service.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to AI Prompting Basics - https://www.promptingguide.ai/introduction/basics]
+- [Link to Marketing AI Guide - https://blog.hubspot.com/marketing/ai-prompts]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've written your first prompt and experienced the power of AI-assisted content creation! This is the foundation of all prompt engineering.
@@ -67,11 +72,6 @@ Test these variations and see how small changes affect the output:
 ❌ Being too vague: "Write something about internet"
 ❌ No context: "Create marketing content"
 ✅ Clear and specific: "Write a short marketing message for NextMobile's new high-speed internet service"
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to AI Prompting Basics - https://www.promptingguide.ai/introduction/basics]
-- [Link to Marketing AI Guide - https://blog.hubspot.com/marketing/ai-prompts]
 
 ---
 
