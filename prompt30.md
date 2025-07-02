@@ -1319,11 +1319,6 @@ Use CoT to explain:
 ✅ Problem-solving content
 ❌ Simple, straightforward tasks
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Chain-of-Thought Guide - https://www.promptingguide.ai/techniques/cot]
-- [Link to Logical Reasoning - https://blog.hubspot.com/marketing/logical-reasoning]
-
 ---
 
 ## Day 16: Implement Zero-Shot CoT
@@ -1427,11 +1422,6 @@ Use Zero-Shot CoT to explain:
 ✅ Request justification for each step
 ✅ Use for complex, multi-factor decisions
 ❌ Don't use for simple, straightforward tasks
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Zero-Shot CoT Guide - https://www.promptingguide.ai/techniques/cot]
-- [Link to Strategic Thinking - https://blog.hubspot.com/marketing/strategic-thinking]
 
 ---
 
@@ -1548,11 +1538,6 @@ Create Few-Shot CoT examples for:
 ❌ Don't skip intermediate reasoning steps
 ❌ Avoid inconsistent analytical approaches
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Few-Shot CoT Examples - https://www.promptingguide.ai/techniques/cot]
-- [Link to Customer Analysis - https://blog.hubspot.com/service/what-is-customer-analysis]
-
 ---
 
 ## Day 18: Implement Step-Back Prompting
@@ -1657,11 +1642,6 @@ Use Step-Back Prompting for:
 ✅ Use for complex or technical topics
 ✅ Build from general principles to specific applications
 ❌ Don't skip the connecting step between context and specifics
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Step-Back Prompting Guide - https://www.promptingguide.ai/techniques/stepback]
-- [Link to Technical Communication - https://developers.google.com/tech-writing]
 
 ---
 
@@ -1769,11 +1749,6 @@ Decompose these complex NextMobile projects:
 ✅ Allow for iteration and refinement of individual pieces
 ❌ Don't make components too small (over-decomposition)
 ❌ Don't forget the integration and synthesis phase
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Tom's Guide: Prompt Breakdown - https://www.tomsguide.com/ai/most-chatgpt-users-make-this-one-common-mistake]
-- [Link to Tom's Guide: Step-by-Step Prompting - https://www.tomsguide.com/ai/i-test-chatgpt-for-a-living-7-secrets]
 
 ---
 
