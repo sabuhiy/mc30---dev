@@ -949,6 +949,11 @@ You've learned that the quantity of examples matters in Few-Shot Prompting. Toda
 #### Task
 Create the same prompt with examples in different orders and observe how the sequence affects the AI's output patterns.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Cognitive Bias in AI - https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation/]
+- [Link to Prompt Order Effects - https://www.promptingguide.ai/techniques/fewshot]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've discovered the hidden power of exemplar ordering - how the sequence of examples can subtly influence AI output and create strategic biases!
@@ -1046,6 +1051,11 @@ You've learned about the quantity and order of examples. Today, we focus on thei
 
 #### Task
 Test different formatting styles for your examples and observe how they affect the AI's output structure.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Formatting Best Practices - https://developers.google.com/tech-writing/one/formatting]
+- [Link to Structured Prompting - https://www.promptingguide.ai/techniques/fewshot]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
@@ -1153,6 +1163,11 @@ You've learned that the quantity, order, and format of examples matter. Today, w
 #### Task
 Compare the results of using high-quality, relevant examples versus generic examples for the same prompting task.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Example Quality Guidelines - https://www.promptingguide.ai/techniques/fewshot]
+- [Link to Content Quality Standards - https://blog.hubspot.com/marketing/content-quality]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've mastered exemplar selection - the critical skill of choosing high-quality, relevant examples that directly determine your AI output success!
@@ -1256,6 +1271,11 @@ You've covered the fundamentals and various aspects of using examples. Now, we m
 #### Task
 Use Chain-of-Thought prompting to help AI explain a complex NextMobile service benefit step by step.
 
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Chain-of-Thought Guide - https://www.promptingguide.ai/techniques/cot]
+- [Link to Logical Reasoning - https://blog.hubspot.com/marketing/logical-reasoning]
+
 #### Solution (Right Side Content)
 **What You Accomplished:**
 You've unlocked Chain-of-Thought (CoT) prompting - a technique that makes AI reasoning transparent and dramatically improves accuracy for complex explanations!
@@ -1334,6 +1354,11 @@ You've learned how Chain-of-Thought (CoT) prompting can make AI reasoning explic
 
 #### Task
 Use Zero-Shot CoT to get the AI to explain NextMobile's pricing strategy step by step without providing examples.
+
+#### Resources
+Use the following resources to help you complete this challenge:
+- [Link to Zero-Shot CoT Guide - https://www.promptingguide.ai/techniques/cot]
+- [Link to Strategic Thinking - https://blog.hubspot.com/marketing/strategic-thinking]
 
 #### Solution (Right Side Content)
 **What You Accomplished:**
