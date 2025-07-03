@@ -4,7 +4,7 @@
 
 ## Common HTML Patterns Used in WordPress
 
-### Prompt Layout
+### Prompt Solution Layout
 ```html
 <div class="p-4 bg-white my-5 rounded-4">
 	<div class="bg-light ms-5 p-4 rounded-4">

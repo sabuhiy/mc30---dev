@@ -58,11 +58,14 @@ Write prompts that assign different roles to the AI to explain NextMobile's 5G n
 - Maps to field key `_links` and field id field_64dd1a2199239
 
 ### Solution
-- It includes step-by-step solution guide. Sometime multiple example prompt and outputs will be displayed
+- Each Solution will have the content in this order
+1. Quick summary - Example: Writing your first prompt demonstrates the power of AI-assisted content creation - this is the foundation of all prompt engineering.
+2. One line before prompt ()
 - Each solution should include one or maximum two prompts and outputs based on the use case scenario. One prompt and output is preferred but some use case scenarios may requires multiple prompts and outputs
+- Each solution will have 
 - Each solution should have at least Key Insight, Try This Yourself, Common Pitfalls, Pro Tips sub-sections on top of other existing content on the Solution side
 - Maps to field key `_solution` and field id field_64dd1a2d9923a 
-- Example prompts and outputs has particular html format like the following
+- Example prompts and outputs has particular html format like the following:
 
 ```html
 <p>Writing your first prompt demonstrates the power of AI-assisted content creation - this is the foundation of all prompt engineering.</p>
