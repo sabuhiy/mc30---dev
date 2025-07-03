@@ -1,105 +1,6 @@
-# WordPress HTML Structure Reference for Prompt30
+# WordPress SQL Reference for Prompt30
 
-*This reference guide contains HTML patterns and database mapping information extracted from the mc30-20250701.sql database. Use this when creating UPDATE queries for WordPress content.*
-
-## Common HTML Patterns Used in WordPress
-
-### Form Structure for Email Signup
-```html
-<div class="fs-5">
-<p>Improve your prompt engineering skills with a 30-day challenge and learn to create effective AI prompts for marketing.</p>
-</div>
-
-<div class="row">
-<div class="col-12 col-lg-9">
-[sendgrid-form btn="Join Waitlist" list_id="YOUR_LIST_ID" btn_css="btn-secondary"]
-<p class="mb-0 text-white">You're in! Keep an eye out for the welcome email 📬</p>
-[/sendgrid-form]
-</div><!-- col -->
-</div><!-- row -->
-```
-
-### Prompt Layout
-```html
-<div class="p-4 bg-white my-5 rounded-4">
-	<div class="bg-light ms-5 p-4 rounded-4">
-		[Example prompt goes here]
-	</div>
-	<div class="mt-4">
-		[Example prompt output goes here]
-	</div>	
-</div>
-
-### Media Information Layout
-```html
-<div class="d-block d-md-flex flex-row justify-content-between gap-5 mt-5">
-    <!-- Media -->
-    <div class="d-flex" style="flex-basis:0;">
-        <div class="flex-shrink-0">
-            <span class="svg-icon svg-icon text-tertiary">
-            [theme_embed_svg svg='/space/dist/assets/vendor/duotone-icons/gen/gen017.svg']
-            </span>
-        </div>
-        <div class="flex-grow-1 ms-4">
-            <p class="text-muted fw-normal mb-0">Platform</p>
-            <p class="text-white fs-6">NextMobile AI Tools</p>
-        </div>
-    </div>
-    <!-- End Media -->
-    
-    <!-- Additional Media Items -->
-    <div class="d-flex" style="flex-basis:0;">
-        <div class="flex-shrink-0">
-            <span class="svg-icon svg-icon text-tertiary">
-            [theme_embed_svg svg='/space/dist/assets/vendor/duotone-icons/map/map003.svg']
-            </span>
-        </div>
-        <div class="flex-grow-1 ms-4">
-            <p class="text-muted fw-normal mb-0">Level</p>
-            <p class="text-white fs-6">Intermediate</p>
-        </div>
-    </div>
-    
-    <div class="d-flex" style="flex-basis:0;">
-        <div class="flex-shrink-0">
-            <span class="svg-icon svg-icon text-tertiary">
-            [theme_embed_svg svg='/space/dist/assets/vendor/duotone-icons/map/map001.svg']
-            </span>
-        </div>
-        <div class="flex-grow-1 ms-4">
-            <p class="text-muted fw-normal mb-0">Participants</p>
-            <p class="text-white fs-5">560</p>
-        </div>
-    </div>
-</div>
-```
-
-### Tab Content Structure
-```html
-<!-- row start -->
-<div class="row">
-<!-- col left start -->
-<div class="col-md-12">
-<h5>Section Title</h5>
-<p>Content description goes here...</p>
-<ul>
-<li class="mb-2">Learn how to create effective prompts</li>
-<li class="mb-2">Master AI communication techniques</li>
-<li class="mb-2">Build practical marketing skills</li>
-</ul>
-</div>
-<!-- col left end -->
-</div>
-<!-- row end -->
-```
-
-### Quick Links Structure
-```html
-<ul>
-<li><a href="https://example.com/resource1" class="text-dark" target="_blank">Resource Title 1</a></li>
-<li><a href="https://example.com/resource2" class="text-dark" target="_blank">Resource Title 2</a></li>
-</ul>
-```
+*This reference guide contains database mapping information extracted from the mc30-20250701.sql database. Use this when creating UPDATE queries for WordPress content.*
 
 ## WordPress Database Structure
 
@@ -186,18 +87,6 @@ WHERE term_id = 10 AND meta_key = '_content';
 UPDATE wp_posts 
 SET post_status = 'publish'
 WHERE post_type = 'challenge' AND ID BETWEEN 789 AND 818;
-```
-
-## WordPress Shortcodes Used
-
-### SendGrid Forms
-```
-[sendgrid-form btn="Button Text" list_id="LIST_ID" btn_css="btn-secondary"]
-```
-
-### Theme SVG Icons
-```
-[theme_embed_svg svg='/path/to/icon.svg']
 ```
 
 ## CSS Classes Reference

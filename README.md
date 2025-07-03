@@ -10,54 +10,12 @@ This repository contains a complete 30-day learning journey that teaches prompt 
 
 ```
 ├── promp30.md                    # Complete 30-day course document (all content)
-├── prompt30-em-day[01-30].md     # Daily email content (30 files)
-├── prompt30-lp-day[01-30].md     # Daily landing page content (30 files)
 └── README.md                     # This file
 ```
 
 ## 🎯 Course Content
 
-### Days 1-7: Fundamentals
-- **Day 1**: Understanding Prompts - Crafting basic product descriptions
-- **Day 2**: Prompt Templates - Building reusable structures  
-- **Day 3**: Iterative Refinement - Improving prompts through iteration
-- **Day 4**: Prompting vs. Prompt Engineering - Understanding the difference
-- **Day 5**: Role Prompting - Giving AI a persona
-- **Day 6**: Style Prompting - Controlling tone and voice
-- **Day 7**: Output Formatting - Structuring AI responses
-
-### Days 8-14: In-Context Learning & Examples
-- **Day 8**: Introduction to ICL - Learning from examples
-- **Day 9**: Few-Shot Prompting - Guiding with examples
-- **Day 10**: Zero-Shot Prompting - Instructions only
-- **Day 11**: Exemplar Quantity - Impact of example count
-- **Day 12**: Exemplar Ordering - Effect of example sequence
-- **Day 13**: Exemplar Format - Structuring examples
-- **Day 14**: Exemplar Selection - Choosing the right examples
-
-### Days 15-20: Advanced Reasoning
-- **Day 15**: Chain-of-Thought - Understanding AI reasoning
-- **Day 16**: Zero-Shot CoT - Reasoning without examples
-- **Day 17**: Few-Shot CoT - Reasoning with examples
-- **Day 18**: Step-Back Prompting - High-level questions first
-- **Day 19**: Decomposition - Breaking down complex tasks
-- **Day 20**: Least-to-Most Prompting - Sequential problem solving
-
-### Days 21-24: Specialized Techniques
-- **Day 21**: Program-of-Thoughts - Structured reasoning steps
-- **Day 22**: Ensembling - Multiple outputs for better results
-- **Day 23**: Self-Consistency - Verifying AI responses
-- **Day 24**: Self-Criticism - AI evaluating its own work
-
-### Days 25-28: Important Considerations
-- **Day 25**: Prompt Sensitivity - Impact of small changes
-- **Day 26**: Bias and Stereotypes - Responsible AI usage
-- **Day 27**: Ambiguity - Addressing unclear requests
-- **Day 28**: Multilingual Prompting - Cross-language capabilities
-
-### Days 29-30: Advanced Applications
-- **Day 29**: Multimodal Prompting - Beyond text (conceptual)
-- **Day 30**: Review and Case Study - Real-world applications
+[To be populated]
 
 ## 🚀 Getting Started
 
