@@ -19,6 +19,17 @@
 </div><!-- row -->
 ```
 
+### Prompt Layout
+```html
+<div class="p-4 bg-white my-5 rounded-4">
+	<div class="bg-light ms-5 p-4 rounded-4">
+		[Example prompt goes here]
+	</div>
+	<div class="mt-4">
+		[Example prompt output goes here]
+	</div>	
+</div>
+
 ### Media Information Layout
 ```html
 <div class="d-block d-md-flex flex-row justify-content-between gap-5 mt-5">
