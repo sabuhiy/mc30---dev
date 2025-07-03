@@ -51,8 +51,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Marketing AI Guide - https://blog.hubspot.com/marketing/ai-prompts]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've written your first prompt and experienced the power of AI-assisted content creation! This is the foundation of all prompt engineering.
+Writing your first prompt demonstrates the power of AI-assisted content creation - this is the foundation of all prompt engineering.
 
 **Example Prompt:**
 Write a short marketing message for NextMobile's new high-speed internet service.
@@ -112,8 +111,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Marketing Messaging Best Practices - https://blog.hubspot.com/marketing/improve-marketing-messages]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've experienced the transformative difference between basic prompting and strategic prompt engineering! This is where the real power begins.
+Prompt engineering reveals the transformative difference between basic prompting and strategic AI communication - this is where the real power begins.
 
 **Basic Prompt:**
 Write a short marketing message for NextMobile's new high-speed internet service.
@@ -183,8 +181,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Social Media Best Practices - https://blog.hootsuite.com/social-media-best-practices/]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered the iterative refinement process - the secret sauce of professional prompt engineering! This is how good output becomes great output.
+Iterative refinement is the secret sauce of professional prompt engineering - this is how good output becomes great output.
 
 **First Attempt:**
 Create a social media post about NextMobile's customer service.
@@ -259,8 +256,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Product Comparison Best Practices - https://blog.hubspot.com/marketing/how-to-create-comparison-pages]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've demonstrated the strategic difference between basic prompting and prompt engineering - the foundation of professional AI communication!
+Strategic prompt engineering demonstrates the fundamental difference between basic prompting and professional AI communication.
 
 **Basic Prompt:**
 Compare NextMobile's fiber and cable internet.
@@ -341,8 +337,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Audience Targeting - https://blog.hubspot.com/marketing/target-audience]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Role Prompting - one of the most powerful techniques for creating authentic, audience-specific content! By assigning personas to AI, you unlock dramatically different voices and approaches.
+Role Prompting is one of the most powerful techniques for creating authentic, audience-specific content - by assigning personas to AI, you unlock dramatically different voices and approaches.
 
 **Example Prompt 1 (Technical Expert):**
 As a telecommunications engineer, explain the technical advantages of NextMobile's 5G network.
@@ -417,8 +412,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Platform-Specific Content - https://sproutsocial.com/insights/social-media-content-strategy/]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Style Prompting - the key to maintaining brand voice consistency across all marketing channels while adapting to platform-specific audiences!
+Style Prompting is the key to maintaining brand voice consistency across all marketing channels while adapting to platform-specific audiences.
 
 **Example Prompt (LinkedIn - Professional):**
 Write a professional LinkedIn post announcing NextMobile's new business fiber service. Use a confident, industry-focused tone that emphasizes ROI and competitive advantages for B2B decision-makers.
@@ -502,8 +496,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Table Formatting Guide - https://blog.hubspot.com/marketing/how-to-create-html-table]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Output Formatting - the technique that ensures your AI-generated content is delivered in exactly the structure you need for any marketing channel or purpose!
+Output Formatting ensures your AI-generated content is delivered in exactly the structure you need for any marketing channel or purpose.
 
 **Example Prompt:**
 Create a formatted comparison chart between NextMobile's fiber and cable internet plans. Use a clear table format with the following structure: Feature | Fiber Plan | Cable Plan | Winner. Include at least 5 key comparison points.
@@ -579,7 +572,7 @@ Hello [email],
 
 Welcome to Day 8 of the NextMobile Prompt Engineering Challenge!
 
-You've mastered basic prompting, templates, refinement, roles, and formatting. Now, we introduce a core concept that significantly enhances AI's ability to understand and generate content: In-Context Learning (ICL). ICL means the AI can "learn" from examples you provide directly within the prompt itself, allowing it to pick up patterns, styles, and formats without explicit instructions.
+Building on basic prompting, templates, refinement, roles, and formatting, we now introduce a core concept that significantly enhances AI's ability to understand and generate content: In-Context Learning (ICL). ICL means the AI can "learn" from examples you provide directly within the prompt itself, allowing it to pick up patterns, styles, and formats without explicit instructions.
 
 Challenge:
 Use In-Context Learning to generate NextMobile customer success stories by providing examples within your prompt.
@@ -592,7 +585,7 @@ The NextMobile Team
 #### Challenge (Left Side Content)
 Welcome to Day 8 of the NextMobile Prompt Engineering Challenge!
 
-You've mastered basic prompting, templates, refinement, roles, and formatting. Now, we introduce a core concept that significantly enhances AI's ability to understand and generate content: In-Context Learning (ICL). ICL means the AI can "learn" from examples you provide directly within the prompt itself, allowing it to pick up patterns, styles, and formats without explicit instructions.
+Building on basic prompting, templates, refinement, roles, and formatting, we now introduce a core concept that significantly enhances AI's ability to understand and generate content: In-Context Learning (ICL). ICL means the AI can "learn" from examples you provide directly within the prompt itself, allowing it to pick up patterns, styles, and formats without explicit instructions.
 
 #### Task
 Use In-Context Learning to generate NextMobile customer success stories by providing examples within your prompt.
@@ -603,8 +596,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Customer Story Examples - https://blog.hubspot.com/service/what-is-a-customer-success-story]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've unlocked In-Context Learning (ICL) - a game-changing technique that allows AI to "learn" from examples within your prompt, dramatically improving pattern recognition and consistency!
+In-Context Learning (ICL) is a game-changing technique that allows AI to "learn" from examples within your prompt, dramatically improving pattern recognition and consistency.
 
 **Example Prompt:**
 Generate NextMobile customer success stories using these examples as patterns:
@@ -686,8 +678,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Product Description Examples - https://blog.hubspot.com/marketing/product-description-examples]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Few-Shot Prompting - the technique that gives you precise control over AI output by showing exactly what you want through examples!
+Few-Shot Prompting gives you precise control over AI output by showing exactly what you want through examples.
 
 **Example Prompt:**
 Generate NextMobile product feature descriptions following these examples:
@@ -774,8 +765,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Technical Writing Tips - https://developers.google.com/tech-writing]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Zero-Shot Prompting - the technique that leverages AI's vast training knowledge to generate expert responses without any examples!
+Zero-Shot Prompting leverages AI's vast training knowledge to generate expert responses without any examples.
 
 **Example Prompt:**
 Explain the technical advantages of NextMobile's network infrastructure and why it provides superior performance compared to traditional telecommunications networks.
@@ -862,8 +852,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Testimonial Writing - https://blog.hubspot.com/service/customer-testimonial-page]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've discovered the science behind exemplar quantity - understanding how the number of examples impacts AI output quality and consistency!
+Exemplar quantity science reveals how the number of examples impacts AI output quality and consistency.
 
 **Example Experiment:**
 Testing customer testimonial generation with different example quantities:
@@ -955,8 +944,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Prompt Order Effects - https://www.promptingguide.ai/techniques/fewshot]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've discovered the hidden power of exemplar ordering - how the sequence of examples can subtly influence AI output and create strategic biases!
+Exemplar ordering reveals how the sequence of examples can subtly influence AI output and create strategic biases.
 
 **Example Experiment:**
 Testing social media post generation with different example orders:
@@ -1052,8 +1040,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Structured Prompting - https://www.promptingguide.ai/techniques/fewshot]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered exemplar formatting - the technique that teaches AI your exact structural preferences through consistent example presentation!
+Exemplar formatting teaches AI your exact structural preferences through consistent example presentation.
 
 **Example Experiment:**
 Testing different formatting styles for NextMobile feature descriptions:
@@ -1157,8 +1144,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Content Quality Standards - https://blog.hubspot.com/marketing/content-quality]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered exemplar selection - the critical skill of choosing high-quality, relevant examples that directly determine your AI output success!
+Exemplar selection is the critical skill of choosing high-quality, relevant examples that directly determine your AI output success.
 
 **Example Comparison:**
 Testing customer testimonial generation with different example quality:
@@ -1259,8 +1245,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Logical Reasoning - https://blog.hubspot.com/marketing/logical-reasoning]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've unlocked Chain-of-Thought (CoT) prompting - a technique that makes AI reasoning transparent and dramatically improves accuracy for complex explanations!
+Chain-of-Thought (CoT) prompting makes AI reasoning transparent and dramatically improves accuracy for complex explanations.
 
 **Example Prompt:**
 Explain step-by-step why NextMobile's fiber internet is better for remote workers than cable internet. Think through each advantage carefully.
@@ -1338,8 +1323,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Strategic Thinking - https://blog.hubspot.com/marketing/strategic-thinking]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Zero-Shot Chain-of-Thought - the technique that triggers structured AI reasoning without any examples, perfect for complex strategic explanations!
+Zero-Shot Chain-of-Thought triggers structured AI reasoning without any examples, perfect for complex strategic explanations.
 
 **Example Prompt:**
 Explain NextMobile's pricing strategy step by step. Think through the reasoning behind our competitive positioning and value proposition carefully.
@@ -1442,8 +1426,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Customer Analysis Framework - https://blog.hubspot.com/service/what-is-customer-analysis]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Few-Shot Chain-of-Thought - the advanced technique that teaches AI your exact reasoning process through examples, ensuring consistent and thorough analysis!
+Few-Shot Chain-of-Thought is the advanced technique that teaches AI your exact reasoning process through examples, ensuring consistent and thorough analysis.
 
 **Example Prompt:**
 Analyze customer needs and recommend NextMobile solutions using this reasoning process:
@@ -1556,8 +1539,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Technical Communication - https://developers.google.com/tech-writing]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Step-Back Prompting - the strategic technique that builds comprehensive understanding by establishing broader context before diving into specific details!
+Step-Back Prompting is the strategic technique that builds comprehensive understanding by establishing broader context before diving into specific details.
 
 **Example Prompt:**
 Before explaining NextMobile's specific 5G advantages, first step back and explain the broader evolution of wireless communication technology and why each generation was developed. Then use this context to explain how NextMobile's 5G implementation represents the next logical step in this evolution.
@@ -1660,8 +1642,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Tom's Guide: Step-by-Step Prompting - https://www.tomsguide.com/ai/i-test-chatgpt-for-a-living-7-secrets]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Decomposition - the strategic approach that breaks complex marketing projects into manageable, focused prompts for superior results!
+Decomposition is the strategic approach that breaks complex marketing projects into manageable, focused prompts for superior results.
 
 **Example Decomposition:**
 **Complex Task**: Create a comprehensive content plan for NextMobile's new high-speed internet tier launch
@@ -1766,8 +1747,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Product Comparison Guide - https://blog.hubspot.com/marketing/how-to-create-comparison-pages]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Least-to-Most Prompting - the sequential technique that builds complex solutions step-by-step, with each step informing and enhancing the next!
+Least-to-Most Prompting is the sequential technique that builds complex solutions step-by-step, with each step informing and enhancing the next.
 
 **Example Least-to-Most Sequence:**
 **Goal**: Generate a comprehensive comparison between NextMobile Fiber and Cable plans
@@ -1872,8 +1852,7 @@ Use the following resources to help you complete this challenge:
 - [Link to OpenGenus IQ: Self-Consistency in CoT - https://iq.opengenus.org/different-prompting-techniques]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Program-of-Thoughts (PoT) - a powerful technique that structures AI reasoning like a program with clear, verifiable logical operations!
+Program-of-Thoughts (PoT) is a powerful technique that structures AI reasoning like a program with clear, verifiable logical operations.
 
 **Example Prompt:**
 Calculate the monthly savings for a NextMobile customer switching from a competitor's tiered data plan to our unlimited plan. Use a structured, step-by-step approach:
@@ -1974,8 +1953,7 @@ Use the following resources to help you complete this challenge:
 - [Link to French Wikipedia: Prompt Sketching - https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_de_prompt]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Ensembling - a powerful strategy that generates multiple AI outputs to improve results and provide creative options for your marketing campaigns!
+Ensembling is a powerful strategy that generates multiple AI outputs to improve results and provide creative options for your marketing campaigns.
 
 **Example Prompt:**
 Generate 8 different short, catchy taglines for NextMobile's network reliability campaign. Focus on trust, dependability, and peace of mind. Vary the style and approach for each option.
@@ -2075,8 +2053,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Decision Making Framework - https://blog.hubspot.com/marketing/decision-making-process]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Self-Consistency - the reliability technique that validates AI recommendations by checking for consistent conclusions across multiple reasoning paths!
+Self-Consistency is the reliability technique that validates AI recommendations by checking for consistent conclusions across multiple reasoning paths.
 
 **Example Self-Consistency Check:**
 **Prompt**: Recommend the best NextMobile internet plan for a family of four that streams 4K video daily and plays online games frequently. Provide your top 3 recommendations with brief justifications.
@@ -2184,8 +2161,7 @@ Use the following resources to help you complete this challenge:
 - [Link to i-rather-be-writing: CoT Chaining - https://idratherbewriting.com/ai/prompt-engineering-iterative-chain-of-thought.html]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Self-Criticism - the iterative improvement technique that leverages AI's analytical abilities to critique and enhance its own outputs!
+Self-Criticism is the iterative improvement technique that leverages AI's analytical abilities to critique and enhance its own outputs.
 
 **Example Two-Step Self-Criticism Process:**
 
@@ -2305,8 +2281,7 @@ Use the following resources to help you complete this challenge:
 - [Link to AI Output Consistency - https://blog.hubspot.com/marketing/ai-content-consistency]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've discovered prompt sensitivity - the critical understanding that minor prompt variations can significantly impact AI outputs, essential knowledge for consistent, professional results!
+Prompt sensitivity reveals how minor prompt variations can significantly impact AI outputs - essential knowledge for consistent, professional results.
 
 **Example Sensitivity Test:**
 **Original Prompt:**
@@ -2422,8 +2397,7 @@ Use the following resources to help you complete this challenge:
 - [Link to arXiv: Zero-shot Prompt Optimization - https://arxiv.org/abs/2405.20252]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've developed critical bias awareness - an essential skill for responsible AI usage in marketing! This ensures your content is inclusive, accurate, and represents all customers fairly.
+Critical bias awareness is an essential skill for responsible AI usage in marketing - this ensures your content is inclusive, accurate, and represents all customers fairly.
 
 **Example Prompt (Potentially Problematic):**
 Describe a typical customer profile for someone interested in NextMobile's premium smart home package.
@@ -2519,8 +2493,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Prompt Clarity Best Practices - https://www.promptingguide.ai/introduction/basics]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered ambiguity detection and elimination - the essential skill for writing clear, precise prompts that consistently deliver the results you intend!
+Ambiguity detection and elimination is the essential skill for writing clear, precise prompts that consistently deliver the results you intend.
 
 **Example Ambiguity Analysis:**
 **Ambiguous Prompt:**
@@ -2637,8 +2610,7 @@ Use the following resources to help you complete this challenge:
 - [Link to arXiv: Context-Aware Prompt Templates - https://arxiv.org/html/2506.20815v1]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've mastered Multilingual Prompting - the global marketing technique that enables culturally relevant, linguistically accurate content creation across diverse markets!
+Multilingual Prompting is the global marketing technique that enables culturally relevant, linguistically accurate content creation across diverse markets.
 
 **Example Multilingual Prompt:**
 Write a compelling marketing message in Spanish for NextMobile's new international calling feature that offers great rates to Latin America. Target Spanish-speaking families in the US who want to stay connected with relatives abroad. Use warm, family-focused language and include specific benefits like low per-minute rates and crystal-clear call quality.
@@ -2751,8 +2723,7 @@ Use the following resources to help you complete this challenge:
 - [Link to Future of AI Marketing - https://blog.hubspot.com/marketing/future-of-ai-marketing]
 
 #### Solution (Right Side Content)
-**What You Accomplished:**
-You've explored Multimodal Concepts - the cutting-edge approach that integrates text, images, video, and audio for comprehensive, engaging marketing experiences!
+Multimodal Concepts represent the cutting-edge approach that integrates text, images, video, and audio for comprehensive, engaging marketing experiences.
 
 **Multimodal Prompt Example:**
 **Context**: Video showing someone installing NextMobile Smart Home Security Camera in under 10 minutes
@@ -2827,7 +2798,7 @@ Use the following resources to help you complete this challenge:
 ## Day 30: Your Prompt Engineering Capstone
 
 ### Email
-Subject: Day 30: Congratulations! You've Mastered Prompt Engineering
+Subject: Day 30: Congratulations! You've Completed Prompt Engineering
 
 Pre-header: Complete your prompt engineering journey by synthesizing key lessons and real-world applications.
 
