@@ -1015,12 +1015,6 @@ Test different orderings for NextMobile content:
 - Test different orders for important content
 - Consider your audience's decision-making process
 - Use ordering to guide AI toward your preferred approach
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Prompt Bias Research - https://arxiv.org/abs/2021.07180]
-- [Link to Example Sequencing - https://www.promptingguide.ai/techniques/fewshot]
-
 ---
 
 ## Day 13: Experiment with Exemplar Format
@@ -1126,12 +1120,6 @@ Test these formats for NextMobile plan comparisons:
 - Consider mobile readability in your format choices
 - Test formatted outputs with your target audience
 - Use formatting to guide reader attention to key points
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Formatting Best Practices - https://developers.google.com/tech-writing/one/formatting]
-- [Link to Structured Prompting - https://www.promptingguide.ai/techniques/fewshot]
-
 ---
 
 ## Day 14: Master Exemplar Selection
@@ -1234,12 +1222,6 @@ Evaluate and improve these NextMobile examples:
 - Document examples that consistently produce good results
 - Create templates for common use cases
 - Regularly update examples based on performance data
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Example Quality Guidelines - https://www.promptingguide.ai/techniques/fewshot]
-- [Link to Content Quality Standards - https://blog.hubspot.com/marketing/content-quality]
-
 ---
 
 ## Day 15: Implement Chain-of-Thought
@@ -1537,7 +1519,6 @@ Create Few-Shot CoT examples for:
 ✅ Make reasoning steps clearly numbered or labeled
 ❌ Don't skip intermediate reasoning steps
 ❌ Avoid inconsistent analytical approaches
-
 ---
 
 ## Day 18: Implement Step-Back Prompting
@@ -1642,7 +1623,6 @@ Use Step-Back Prompting for:
 ✅ Use for complex or technical topics
 ✅ Build from general principles to specific applications
 ❌ Don't skip the connecting step between context and specifics
-
 ---
 
 ## Day 19: Master Decomposition
@@ -1749,7 +1729,6 @@ Decompose these complex NextMobile projects:
 ✅ Allow for iteration and refinement of individual pieces
 ❌ Don't make components too small (over-decomposition)
 ❌ Don't forget the integration and synthesis phase
-
 ---
 
 ## Day 20: Implement Least-to-Most Prompting
@@ -1856,12 +1835,6 @@ Use Least-to-Most for:
 - Save outputs from each step to reference in subsequent prompts
 - Allow for iteration within each step before proceeding
 - Use final step to create comprehensive synthesis
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Prompt-Engineered.com: Iteration Best Practices - https://www.prompt-engineered.com/blog/advanced-prompt-engineering-techniques]
-- [Link to Tom's Guide: Refinement Strategy - https://www.tomsguide.com/ai/i-test-chatgpt-for-a-living-7-secrets]
-
 ---
 
 ## Day 21: Implement Program-of-Thoughts
@@ -1964,12 +1937,6 @@ Use PoT to calculate:
 ✅ State assumptions upfront
 ❌ Skip intermediate steps
 ❌ Use vague language
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to PromptingGuide.ai: CoT Evaluation - https://www.promptingguide.ai/techniques/cot]
-- [Link to OpenGenus IQ: Self-Consistency in CoT - https://iq.opengenus.org/different-prompting-techniques]
-
 ---
 
 ## Day 22: Implement Ensembling
@@ -2071,12 +2038,6 @@ After generating multiple options, evaluate based on:
 ✅ Combine best elements from multiple options
 ❌ Don't stop at the first good option
 ❌ Don't generate without selection criteria
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to LevelAct: Prompt Engineering 2.0 - https://levelact.com/prompt-engineering-2-0-role-specific-context-agents]
-- [Link to French Wikipedia: Prompt Sketching - https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_de_prompt]
-
 ---
 
 ## Day 23: Implement Self-Consistency
@@ -2186,12 +2147,6 @@ Test consistency for NextMobile decisions:
 ✅ Document consistent patterns for future reference
 ❌ Don't assume perfect consistency is always necessary
 ❌ Don't ignore meaningful variations in reasoning
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Forbes: Multi-Agent Prompting - https://www.forbes.com/sites/lanceeliot/2025/03/01/prompt-engineering-for-advanced-multi-agent-ai-prompting]
-- [Link to Hugging Face: KaibanJS Framework - https://huggingface.co/blog/darielnoel/llm-prompt-engineering-kaibanjs]
-
 ---
 
 ## Day 24: Implement Self-Criticism
@@ -2313,11 +2268,6 @@ Use Self-Criticism for:
 ❌ Don't accept vague criticism like "could be better"
 ❌ Don't skip the improvement implementation step
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Chinese Wikipedia: Prompt Chaining - https://zh.wikipedia.org/wiki/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B]
-- [Link to i-rather-be-writing: CoT Chaining - https://idratherbewriting.com/ai/prompt-engineering-iterative-chain-of-thought.html]
-
 ---
 
 ## Day 25: Understand Prompt Sensitivity
@@ -2435,11 +2385,6 @@ Test sensitivity for NextMobile content:
 ❌ Don't assume similar words produce similar results
 ❌ Don't ignore unexpected outputs - investigate the cause
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Educative.io: ToT and Graph-of-Thought - https://www.educative.io/blog/advanced-prompt-engineering-pt-1]
-- [Link to arXiv: Hierarchical Prompt Workflows - https://arxiv.org/abs/2405.20252]
-
 ---
 
 ## Day 26: Address Bias and Stereotypes
@@ -2536,11 +2481,6 @@ Audit these prompts for potential bias:
 ❌ Traditional role stereotypes
 ❌ Economic status assumptions
 ❌ Ability/disability stereotypes
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to Educative.io: Auto-CoT and APE - https://www.educative.io/blog/advanced-prompt-engineering-pt-1]
-- [Link to arXiv: Zero-shot Prompt Optimization - https://arxiv.org/abs/2405.20252]
 
 ---
 
@@ -2660,11 +2600,6 @@ Identify ambiguity in these NextMobile prompts:
 ❌ Don't assume AI shares your business context
 ❌ Don't use jargon without explanation
 
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to PromptEngineering.org: Domain Expertise Prompting - https://promptengineering.org/injecting-domain-expertise-in-llms-a-guide-to-fine-tuning-prompting]
-- [Link to TutorialsPoint: Industry-Specific Prompting - https://www.tutorialspoint.com/prompt_engineering/prompt_engineering_prompts_for_specific_domains.htm]
-
 ---
 
 ## Day 28: Implement Multilingual Prompting
@@ -2778,11 +2713,6 @@ Create multilingual NextMobile content for:
 ✅ Consider regional variations within the same language
 ❌ Don't rely solely on AI - always have human cultural review
 ❌ Don't assume direct translation captures cultural nuance
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to GitHub: Duriri Prompt Patterns - https://github.com/duriri/prompt-engineering]
-- [Link to arXiv: Context-Aware Prompt Templates - https://arxiv.org/html/2506.20815v1]
 
 ---
 
@@ -2984,11 +2914,6 @@ You now possess the ability to communicate with AI systems effectively, creating
 The field of prompt engineering evolves rapidly. Stay curious, keep experimenting, and continue pushing the boundaries of what's possible with AI-assisted marketing.
 
 **Welcome to the Future of Marketing Communication!** 🚀
-
-#### Resources
-Use the following resources to help you complete this challenge:
-- [Link to arXiv: PEER Agent Framework - https://arxiv.org/abs/2407.06985]
-- [Link to arXiv: CoMM Agent Collaboration - https://arxiv.org/abs/2404.17729]
 
 ---
 
