@@ -1,4 +1,7 @@
 # Daily Challenge Structure Reference for Prompt30
+## General guidelines
+- HTML references will be used when SQL queries are created to update records in sql database
+
 
 ## Email Flow
 
@@ -56,6 +59,7 @@ Write prompts that assign different roles to the AI to explain NextMobile's 5G n
 
 ### Solution
 - It includes step-by-step solution guide. Sometime multiple example prompt and outputs will be displayed
+- Each solution should have at least Key Insight, Try This Yourself, Common Pitfalls, Pro Tips sub-sections on top of other existing content on the Solution side
 - Maps to field key `_solution` and field id field_64dd1a2d9923a
 - Example prompts and outputs has particular html format like the following
 
