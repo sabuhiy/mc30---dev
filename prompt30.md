@@ -44,6 +44,8 @@ Use the following resources to help you complete this challenge:
 #### Solution (Right Side Content)
 Writing your first prompt demonstrates the power of AI-assisted content creation - this is the foundation of all prompt engineering.
 
+Here's a simple example:
+
 **Example Prompt:**
 Write a short marketing message for NextMobile's new high-speed internet service.
 
@@ -62,6 +64,15 @@ Test these variations and see how small changes affect the output:
 ❌ Being too vague: "Write something about internet"
 ❌ No context: "Create marketing content"
 ✅ Clear and specific: "Write a short marketing message for NextMobile's new high-speed internet service"
+
+**Pro Tips:**
+✅ Start simple and add complexity gradually
+✅ Test your prompt multiple times for consistency
+✅ Save successful prompts as templates
+❌ Don't use jargon without explanation
+
+### Solution CTA
+Stuck? Try this approach. 
 
 ---
 
@@ -103,6 +114,8 @@ Use the following resources to help you complete this challenge:
 #### Solution (Right Side Content)
 Prompt engineering reveals the transformative difference between basic prompting and strategic AI communication - this is where the real power begins.
 
+Let's compare the two approaches:
+
 **Basic Prompt:**
 Write a short marketing message for NextMobile's new high-speed internet service.
 
@@ -129,6 +142,16 @@ Add: audience, tone, format, and specific benefits to highlight.
 ❌ Over-engineering simple tasks
 ❌ Conflicting instructions (formal + casual tone)
 ✅ Clear, specific, aligned requirements
+
+**Pro Tips:**
+✅ Always consider your audience when engineering prompts
+✅ Add context gradually to avoid overwhelming the AI
+✅ Test basic vs engineered prompts to see the difference
+✅ Document what engineering elements work best for your use case
+❌ Don't over-engineer simple tasks
+
+### Solution CTA
+Need clarity? Check this. 
 
 ---
 
@@ -172,6 +195,8 @@ Use the following resources to help you complete this challenge:
 #### Solution (Right Side Content)
 Iterative refinement is the secret sauce of professional prompt engineering - this is how good output becomes great output, especially when addressing customer concerns.
 
+Here's how the refinement process works:
+
 **First Attempt:**
 Create a social media post about NextMobile's customer service improvements.
 
@@ -201,10 +226,15 @@ Start with: "Write about NextMobile's network reliability"
 Refine by adding: acknowledgment of past issues, specific improvements made, customer benefits, and reassuring tone.
 
 **Pro Tips:**
-✅ Always analyze before refining
-✅ Make one improvement at a time
-✅ Test different approaches
-❌ Don't give up after the first attempt
+✅ Save each iteration to track improvement patterns
+✅ Make one change at a time to isolate what works
+✅ Set criteria for "good enough" to avoid endless refinement
+✅ Test refined prompts on similar but different scenarios
+❌ Don't change everything at once
+❌ Don't refine without clear success metrics
+
+### Solution CTA
+Struggling? Use this method. 
 
 ---
 
@@ -246,6 +276,8 @@ Use the following resources to help you complete this challenge:
 #### Solution (Right Side Content)
 Strategic prompt engineering demonstrates the fundamental difference between basic prompting and professional AI communication, especially for business sales content.
 
+Let's see the difference in practice:
+
 **Basic Prompt:**
 Compare NextMobile's fiber and cable internet for businesses.
 
@@ -282,6 +314,16 @@ Add: specific business audience, decision-making criteria, professional format, 
 ❌ Vague or conflicting instructions
 ✅ Clear, specific, aligned requirements
 ✅ Appropriate complexity for the task
+
+**Pro Tips:**
+✅ Match your prompting complexity to the task complexity
+✅ Use engineering for customer-facing content, basic prompts for internal use
+✅ Create templates for each type of prompting approach
+✅ Train your team on when to use which approach
+❌ Don't use basic prompts for complex, multi-stakeholder content
+
+### Solution CTA
+Confused? See the difference. 
 
 ---
 
@@ -326,6 +368,8 @@ Use the following resources to help you complete this challenge:
 #### Solution (Right Side Content)
 Role Prompting is one of the most powerful techniques for creating authentic, audience-specific content - by assigning personas to AI, you unlock dramatically different voices and approaches for NextMobile's diverse customer base.
 
+Let's see how roles transform the same message:
+
 **Example Prompt 1 (Technical Expert):**
 As a NextMobile network engineer, explain the technical advantages of our 5G network to tech-savvy customers who want detailed specifications.
 
@@ -361,6 +405,16 @@ Use role prompting to explain NextMobile's new unlimited data plan as:
 ❌ Vague roles: "As an expert"
 ❌ Conflicting roles: "As a technical salesperson"
 ✅ Specific, clear roles: "As a NextMobile network engineer"
+
+**Pro Tips:**
+✅ Choose roles your audience will trust and relate to
+✅ Be specific about the role's expertise level
+✅ Test different roles for the same content to find the best fit
+✅ Use role prompting consistently across similar content types
+❌ Don't use conflicting roles in the same prompt
+
+### Solution CTA
+Need help? Try roles. 
 
 ---
 
@@ -399,6 +453,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Style Prompting is the key to maintaining brand voice consistency across all marketing channels while adapting to platform-specific audiences and maximizing engagement on each platform.
+
+Here's how to adapt the same message for different platforms:
 
 **Example Prompt (LinkedIn - Professional):**
 Write a professional LinkedIn post announcing NextMobile's new business fiber service launch. Use a confident, industry-focused tone that emphasizes productivity gains, cost efficiency, and competitive advantages for business decision-makers. Include specific technical benefits and a clear call-to-action for B2B engagement.
@@ -445,6 +501,16 @@ Write NextMobile's new unlimited data plan announcement for:
 ✅ Clear, specific style instructions
 ✅ Platform-appropriate adaptations
 
+**Pro Tips:**
+✅ Create style guides for each platform you use
+✅ Test style variations with your actual audience
+✅ Document successful style combinations for reuse
+✅ Adapt style to match platform conventions
+❌ Don't mix conflicting styles in one piece
+
+### Solution CTA
+Style stuck? Check templates. 
+
 ---
 
 ## Day 7: Control AI Output Format
@@ -482,6 +548,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Output Formatting ensures your AI-generated content is delivered in exactly the structure you need for any marketing channel or purpose, especially for customer decision-making tools.
+
+Here's how to structure your formatting request:
 
 **Example Prompt:**
 Create a formatted comparison chart between NextMobile's fiber and cable internet plans for website visitors who are choosing their internet service. Use a clear table format with the following structure: Feature | NextMobile Fiber | NextMobile Cable | Best For. Include key comparison points that matter most to customers: speed, reliability, price, installation, and long-term value. Make it easy to scan and highlight the advantages of each option.
@@ -538,11 +606,15 @@ Create these formatted sales tools for NextMobile:
 ❌ Mix incompatible formats that confuse the buying process
 
 **Pro Tips:**
-- Use "Format as:" to be explicit about customer-facing layout
-- Specify column headers that speak to customer benefits
-- Request consistent styling throughout the customer journey
-- Consider mobile readability for on-the-go shoppers
-- Include visual elements (emojis, symbols) to highlight key advantages
+✅ Always specify exact format requirements upfront
+✅ Test formatted outputs in your actual systems (CMS, email, etc.)
+✅ Create format templates for common content types
+✅ Consider mobile formatting when specifying structure
+❌ Don't assume AI will infer the format you want
+❌ Don't ignore how formatted content will appear to end users
+
+### Solution CTA
+Format issues? Try this. 
 
 ---
 
@@ -581,6 +653,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 In-Context Learning (ICL) is a game-changing technique that allows AI to "learn" from examples within your prompt, dramatically improving pattern recognition and consistency for customer testimonials.
+
+Here's how ICL works in practice:
 
 **Example Prompt:**
 Generate NextMobile customer success stories for our website testimonials section using these high-converting examples as patterns:
@@ -625,6 +699,17 @@ Use ICL to create consistent patterns for:
 ❌ Use contradictory testimonial styles that confuse the pattern
 ❌ Provide too many examples (cognitive overload reduces effectiveness)
 
+**Pro Tips:**
+✅ Use 2-3 high-quality examples for optimal pattern recognition
+✅ Ensure examples are recent and relevant to current goals
+✅ Test ICL vs explicit instruction approaches
+✅ Update examples regularly based on performance
+❌ Don't use outdated examples that no longer represent best practices
+❌ Don't mix examples with conflicting patterns
+
+### Solution CTA
+ICL unclear? Start simple. 
+
 ---
 
 ## Day 9: Implement Few-Shot Prompting
@@ -662,6 +747,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Few-Shot Prompting gives you precise control over AI output by showing exactly what you want through examples, perfect for scaling successful marketing content.
+
+Here's how to use few-shot prompting effectively:
 
 **Example Prompt:**
 Generate NextMobile product feature descriptions for our website redesign following these high-performing examples that drive customer engagement:
@@ -710,6 +797,9 @@ Create few-shot examples for:
 ✅ Include edge cases like technical features and premium services
 ❌ Don't use contradictory examples that confuse brand messaging
 ❌ Avoid too many examples (diminishing returns on pattern recognition)
+
+### Solution CTA
+Few-shot stuck? Try this. 
 
 ---
 
@@ -799,12 +889,12 @@ Zero-Shot Prompting taps into the AI's pre-trained knowledge base, making it ide
 ❌ **Format Assumptions**: Expecting specific formatting without requesting it explicitly
 
 **Pro Tips:**
-✅ **Be Specific**: Ask for exactly what you want instead of generic explanations
-✅ **Set Context**: Always specify your audience (enterprise clients, technical teams, etc.)
-✅ **Request Structure**: Ask for organized responses with headers, bullet points, or numbered lists
-✅ **Include Examples**: Request examples within explanations to make content more concrete
-✅ **Verify Claims**: Always fact-check technical claims and specifications
-✅ **Brand Alignment**: Review output to ensure it aligns with your company's positioning and voice
+✅ Use zero-shot for well-established concepts and general knowledge
+✅ Be extra specific about context since you're not providing examples
+✅ Test zero-shot outputs for accuracy before using
+✅ Combine with your brand voice instructions
+❌ Don't use zero-shot for highly specialized or proprietary information
+❌ Don't assume zero-shot will capture your specific brand nuances
 
 ---
 
@@ -954,12 +1044,16 @@ The customer success team discovered that 3 examples provide the optimal balance
 ✅ **Consistent Testing**: Always test 1 vs 3 examples to find optimal approach
 ✅ **Regular Updates**: Refresh examples based on new customer feedback
 
-**Pro Tips**
-- Start with 1 example for simple requests, use 3 examples for complex scenarios
-- Include negative-turned-positive testimonials for authenticity
-- Test seasonal variations (back-to-school, holiday shopping, tax season)
-- Train AI on your brand voice by including company-specific language patterns
-- Create testimonial templates for common objection-handling scenarios
+**Pro Tips:**
+✅ Start with 3 examples as the sweet spot for most scenarios
+✅ Test 1 vs 3 vs 5 examples for your specific use case
+✅ Use fewer examples for simple tasks, more for complex ones
+✅ Quality matters more than quantity - choose your best examples
+❌ Don't add examples just to reach a number
+❌ Don't use inconsistent quality across your examples
+
+### Solution CTA
+Quantity unclear? Test this. 
 
 ---
 
@@ -1005,6 +1099,8 @@ Example ordering creates predictable bias in AI output - the last example in you
 
 **NextMobile's Social Media Challenge:**
 The social media team's three high-performing 5G posts demonstrate how ordering creates different marketing outcomes:
+
+Let's test different ordering strategies:
 
 **Campaign A: Emotion-First Strategy (for Brand Loyalty)**
 
@@ -1099,12 +1195,17 @@ The last example in your sequence sets the dominant tone for campaign generation
 ❌ **Forgetting Context**: Not considering where examples will appear in customer journey
 ❌ **Over-Complication**: Using complex orderings when simple sequences work better
 
-**Pro Marketing Tips:**
-- End with your campaign's primary objective (awareness, conversion, engagement)
-- Test different orderings with small audience samples before scaling
-- Keep successful ordering templates for similar future campaigns
-- Train your social media team on ordering strategies for consistent messaging
-- Monitor competitor responses to adjust ordering for market positioning
+**Pro Tips:**
+✅ Place your most important style/tone example last
+✅ Test different orderings with the same examples
+✅ Use consistent ordering strategies across similar content
+✅ Document which orderings work best for different goals
+❌ Don't randomly order examples without testing
+❌ Don't ignore the impact of your last example
+
+### Solution CTA
+Order confusing? Try sequence. 
+
 ---
 
 ## Day 13: Experiment with Exemplar Format
@@ -1146,6 +1247,8 @@ Exemplar formatting is the key to achieving consistent website documentation tha
 
 **Website Documentation Challenge:**
 NextMobile's product documentation team needs three different formats for their website's style guide compliance:
+
+Let's test different formatting approaches:
 
 **Format A (Style Guide Card Format):**
 
@@ -1251,12 +1354,17 @@ Website formatting examples become templates that control exactly how AI structu
 - **Conditional Content**: Format changes based on user type or plan
 - **A/B Test Ready**: Multiple format versions for testing
 
-**Pro Website Tips:**
-- Always format examples to match your actual web components
-- Consider your CMS limitations when designing format templates
-- Test formatted outputs in your staging environment
-- Ensure generated content works with your CDN and caching
-- Include metadata requirements in your formatting examples
+**Pro Tips:**
+✅ Match example format to your intended output format exactly
+✅ Test formatted examples in your actual publishing system
+✅ Use consistent formatting across all examples
+✅ Consider how formatting will appear on different devices
+❌ Don't use formatting that doesn't work in your target platform
+❌ Don't mix different formatting styles in the same set of examples
+
+### Solution CTA
+Format stuck? Use templates. 
+
 ---
 
 ## Day 14: Master Exemplar Selection
@@ -1378,6 +1486,9 @@ Evaluate and improve these NextMobile examples:
 ✅ **Quality Over Quantity**: 2 great examples beat 5 mediocre ones
 ✅ **Document Winners**: Save examples that consistently produce excellent results
 
+### Solution CTA
+Selection hard? Apply framework. 
+
 ---
 
 ## Day 15: Think Step by Step
@@ -1414,6 +1525,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Chain-of-Thought (CoT) prompting makes AI reasoning transparent and dramatically improves accuracy for complex explanations.
+
+Here's how CoT works:
 
 **Example Prompt:**
 Explain step-by-step why NextMobile's fiber internet is better for remote workers than cable internet. Think through each advantage carefully.
@@ -1454,6 +1567,17 @@ Use CoT to explain:
 ✅ Problem-solving content
 ❌ Simple, straightforward tasks
 
+**Pro Tips:**
+✅ Use "let's think step by step" as a trigger phrase
+✅ Number your steps clearly for easy following
+✅ Include reasoning for each step, not just conclusions
+✅ Test step-by-step vs direct approaches
+❌ Don't use CoT for simple, straightforward tasks
+❌ Don't skip steps that are obvious to you but not your audience
+
+### Solution CTA
+CoT unclear? Follow guide. 
+
 ---
 
 ## Day 16: Implement Zero-Shot CoT
@@ -1490,6 +1614,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Zero-Shot Chain-of-Thought triggers structured AI reasoning without any examples, perfect for executive-level strategic explanations that require clear logical thinking.
+
+Here's how Zero-Shot CoT works:
 
 **Example Prompt:**
 Explain NextMobile's pricing strategy step by step. Think through the reasoning behind our competitive positioning and value proposition carefully.
@@ -1549,11 +1675,15 @@ Use Zero-Shot CoT to explain:
 - **Risk Analysis**: "Systematically evaluate potential challenges and solutions"
 
 **Pro Tips:**
-✅ Always include reasoning trigger phrases
-✅ Ask for explicit step-by-step breakdown
-✅ Request justification for each step
-✅ Use for complex, multi-factor decisions
-❌ Don't use for simple, straightforward tasks
+✅ Use trigger phrases like "let's think step by step"
+✅ Be specific about the type of reasoning you want
+✅ Test zero-shot CoT for consistency across multiple runs
+✅ Use for strategic analysis and complex problem-solving
+❌ Don't use for simple tasks that don't require step-by-step thinking
+❌ Don't forget to include the reasoning trigger phrases
+
+### Solution CTA
+Zero-shot CoT stuck? Try. 
 
 ---
 
@@ -1591,6 +1721,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Few-Shot Chain-of-Thought teaches AI NextMobile's standardized customer analysis framework through examples, ensuring consistent and thorough reasoning across all customer service interactions.
+
+Here's how to create a standardized reasoning framework:
 
 **Example Prompt:**
 Analyze customer needs and recommend NextMobile solutions using this reasoning process:
@@ -1668,6 +1800,10 @@ Few-Shot CoT teaches AI your specific analytical framework, ensuring consistent 
 ✅ Make reasoning steps clearly numbered or labeled for easy following
 ✅ Test your framework with real customer scenarios before deployment
 ✅ Regular review and update examples based on new customer patterns
+
+### Solution CTA
+Framework unclear? Use examples. 
+
 ---
 
 ## Day 18: Implement Step-Back Prompting
@@ -1704,6 +1840,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Step-Back Prompting builds comprehensive understanding for technical sales by establishing broader context before diving into specific details, making complex technology accessible to enterprise decision-makers.
+
+Here's how to establish proper context:
 
 **Example Prompt:**
 Before explaining NextMobile's specific 5G advantages, first step back and explain the broader evolution of wireless communication technology and why each generation was developed. Then use this context to explain how NextMobile's 5G implementation represents the next logical step in this evolution.
@@ -1772,8 +1910,12 @@ Step-Back Prompting helps AI provide richer, more contextual explanations by fir
 ✅ Ask for clear connections between context and NextMobile specifics
 ✅ Use for complex or technical topics that need foundational understanding
 ✅ Build from general principles to specific applications systematically
-✅ Match context level to your audience's technical sophistication
-✅ End with synthesis showing how specifics fit the broader evolution
+❌ Don't skip the connection between context and specific details
+❌ Don't provide too much context that distracts from your main point
+
+### Solution CTA
+Context missing? Step back. 
+
 ---
 
 ## Day 19: Master Decomposition
@@ -1810,6 +1952,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Decomposition transforms overwhelming marketing projects into manageable, focused prompts that produce superior results for NextMobile Ultra launch content strategy.
+
+Here's how to break down complex tasks:
 
 **Example Decomposition:**
 **Complex Task**: Create a comprehensive content plan for NextMobile's new high-speed internet tier launch
@@ -1885,6 +2029,10 @@ Decompose these complex NextMobile projects:
 ✅ Allow for iteration and refinement of individual pieces
 ❌ Don't make components too small (over-decomposition)
 ❌ Don't forget the integration and synthesis phase
+
+### Solution CTA
+Complex task? Break down. 
+
 ---
 
 ## Day 20: Implement Least-to-Most Prompting
@@ -1921,6 +2069,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Least-to-Most Prompting is the sequential technique that builds complex solutions step-by-step, with each step informing and enhancing the next.
+
+Here's how to build complexity progressively:
 
 **Example Least-to-Most Sequence:**
 **Goal**: Generate a comprehensive comparison between NextMobile Fiber and Cable plans
@@ -1998,6 +2148,10 @@ Use Least-to-Most for:
 ✅ Use final step to create comprehensive synthesis
 ❌ Don't skip logical progression
 ❌ Don't treat each step as independent
+
+### Solution CTA
+Sequential unclear? Build steps. 
+
 ---
 
 ## Day 21: Implement Program-of-Thoughts
@@ -2034,6 +2188,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution
 Program-of-Thoughts (PoT) is a powerful technique that structures AI reasoning like a program with clear, verifiable logical operations.
+
+Here's how to structure logical operations:
 
 **Example Prompt:**
 Calculate the monthly savings for a NextMobile customer switching from a competitor's tiered data plan to our unlimited plan. Use a structured, step-by-step approach:
@@ -2089,6 +2245,10 @@ Use PoT to calculate:
 ✅ State assumptions upfront to avoid confusion
 ❌ Skip intermediate steps that customers can't follow
 ❌ Use vague language instead of specific numbers
+
+### Solution CTA
+Calculations unclear? Structure steps. 
+
 ---
 
 ## Day 22: Implement Ensembling
@@ -2125,6 +2285,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution
 Ensembling is a powerful strategy that generates multiple AI outputs to improve results and provide creative options for your marketing campaigns.
+
+Here's how to generate multiple creative options:
 
 **Example Prompt:**
 Generate 6 different taglines for NextMobile's "5G Freedom" campaign. Focus on liberation, speed, and possibilities. Vary the emotional tone and style for each option.
@@ -2174,6 +2336,10 @@ Use Ensembling for NextMobile campaigns:
 ✅ Combine best elements from multiple options to create hybrid solutions
 ❌ Don't stop at the first good option
 ❌ Don't generate without selection criteria
+
+### Solution CTA
+Options limited? Try ensembling. 
+
 ---
 
 ## Day 23: Implement Self-Consistency
@@ -2210,6 +2376,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Self-Consistency is the reliability technique that validates AI recommendations by checking for consistent conclusions across multiple reasoning paths.
+
+Here's how to test consistency:
 
 **Example Self-Consistency Check:**
 **Prompt**: Recommend the best NextMobile internet plan for a family of four that streams 4K video daily and plays online games frequently. Provide your top 3 recommendations with brief justifications.
@@ -2256,6 +2424,10 @@ Test consistency for NextMobile decisions:
 ✅ Document consistent patterns for future reference
 ❌ Don't assume perfect consistency is always necessary
 ❌ Don't ignore meaningful variations in reasoning
+
+### Solution CTA
+Consistency unclear? Test paths. 
+
 ---
 
 ## Day 24: Implement Self-Criticism
@@ -2291,6 +2463,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Self-Criticism is the iterative improvement technique that leverages AI's analytical abilities to critique and enhance its own outputs.
+
+Here's how to implement self-criticism:
 
 **Example Two-Step Self-Criticism Process:**
 
@@ -2373,6 +2547,9 @@ Use Self-Criticism for:
 ❌ Don't accept vague criticism like "could be better"
 ❌ Don't skip the improvement implementation step
 
+### Solution CTA
+Quality issues? Self-critique. 
+
 ---
 
 ## Day 25: Understand Prompt Sensitivity
@@ -2453,6 +2630,9 @@ Test sensitivity for NextMobile content by comparing these variations:
 ❌ Don't assume similar words produce similar results
 ❌ Don't ignore unexpected outputs - investigate what caused them
 
+### Solution CTA
+Results inconsistent? Check sensitivity. 
+
 ---
 
 ## Day 26: Address Bias and Stereotypes
@@ -2489,6 +2669,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Critical bias awareness is an essential skill for responsible AI usage in marketing - this ensures your content is inclusive, accurate, and represents all customers fairly.
+
+Here's how to identify and address bias:
 
 **NextMobile's Bias Challenge:**
 
@@ -2538,6 +2720,10 @@ AI models can perpetuate societal biases present in their training data. Active 
 ✅ **Use Neutral Language**: Avoid gendered or culturally specific terms unless necessary
 ✅ **Test with Diverse Teams**: Get feedback from colleagues with different backgrounds
 ✅ **Regular Bias Audits**: Periodically review AI outputs for emerging bias patterns
+
+### Solution CTA
+Bias detected? Address it. 
+
 ---
 
 ## Day 27: Address Ambiguity
@@ -2574,6 +2760,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Ambiguity detection and elimination is the essential skill for writing clear, precise prompts that consistently deliver the results you intend.
+
+Here's how to eliminate ambiguity:
 
 **NextMobile's Customer Support Challenge:**
 
@@ -2637,6 +2825,10 @@ Ambiguity occurs when prompts contain words or concepts that can be interpreted 
 ✅ **Include Problem Symptoms**: "Slow speeds during peak hours" vs "speed problems"
 ✅ **Clarify Output Format**: "Step-by-step troubleshooting guide" vs "help article"
 ✅ **Test with Fresh Eyes**: Have colleagues review prompts for clarity before use
+
+### Solution CTA
+Prompts unclear? Remove ambiguity. 
+
 ---
 
 ## Day 28: Implement Multilingual Prompting
@@ -2676,6 +2868,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Multilingual prompting enables NextMobile to create authentic, culturally relevant content that resonates with diverse markets while maintaining brand consistency.
+
+Here's how to create culturally appropriate content:
 
 **NextMobile's International Calling Challenge:**
 
@@ -2724,6 +2918,10 @@ Effective multilingual prompting goes beyond translation to include cultural con
 ✅ **Use Local Examples**: Reference specific countries, cities, or cultural touchpoints
 ✅ **Emphasize Relevant Benefits**: Focus on features that matter to that cultural market
 ✅ **Test with Native Speakers**: Always validate AI output with native speakers before publication
+
+### Solution CTA
+Need localization? Try multilingual. 
+
 ---
 
 ## Day 29: Conceptual Multimodal Prompting
@@ -2763,6 +2961,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Multimodal prompting represents the future of AI marketing - combining visual analysis with text instructions to create contextually perfect content that captures the full story of your media.
+
+Here's how future multimodal prompting works:
 
 **NextMobile's Smart Home Video Challenge:**
 
@@ -2838,6 +3038,10 @@ Multimodal prompting allows AI to "see" the visual story and create content that
 ✅ **Define Emotional Tone**: Ask AI to match the visual energy with written tone
 ✅ **Test Multiple Angles**: Create different multimodal prompts for the same video content
 ✅ **Prepare for the Future**: Start thinking multimodally even with current text-only AI tools
+
+### Solution CTA
+Beyond text? Consider multimodal. 
+
 ---
 
 ## Day 30: Your Prompt Engineering Capstone
@@ -2876,6 +3080,8 @@ Use the following resources to help you complete this challenge:
 
 #### Solution (Right Side Content)
 Master prompt engineering combines multiple techniques strategically to solve complex, real-world marketing challenges with precision and effectiveness.
+
+Here's how to combine multiple techniques:
 
 **NextMobile Plus Campaign Challenge - Master Prompt Strategy:**
 
@@ -2998,6 +3204,9 @@ Master prompt engineering strategically combines multiple techniques to create c
 ✅ **Build Templates**: Create reusable multi-technique prompt frameworks
 ✅ **Monitor Performance**: Track which technique combinations deliver best results
 ✅ **Stay Flexible**: Adapt your approach based on AI model capabilities and updates
+
+### Solution CTA
+Ready to master? Combine techniques. 
 
 ---
 

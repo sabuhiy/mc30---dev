@@ -9,19 +9,15 @@ This repository contains a complete 30-day learning journey that teaches prompt 
 ## 📁 Repository Structure
 
 ```
-├── promp30.md                    # Complete 30-day course document (all content)
-└── README.md                     # This file
+├── promp30.md                      # Complete 30-day course document (all content)
+└── DAILY_CHALLENGE_REFERENCE.md    # Quick reference for content flow
+└── WORDPRESS_LAYOUT_REFERENCE.md   # This reference guide contains HTML patterns for WordPress content.
+└── WORDPRESS_SQL_REFERENCE.md      # This reference guide contains database mapping information extracted from the mc30-20250701.sql database. Use this when creating UPDATE queries for WordPress content.
 ```
-
-## 🎯 Course Content
-
-[To be populated]
 
 ## 🚀 Getting Started
 
-1. **Email Content**: Start with `prompt30-em-day01.md` for the daily email challenges
-2. **Landing Pages**: Use `prompt30-lp-day01.md` for detailed explanations and solutions
-3. **Complete Reference**: See `promp30.md` for the full consolidated content
+**Complete Reference**: See `promp30.md` for the full consolidated content
 
 ## 💼 Target Audience
 
