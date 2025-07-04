@@ -30,8 +30,8 @@ Create a complete prompt engineering strategy for NextMobile's "NextMobile Compl
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Comprehensive AI Campaign Strategy - https://www.promptingguide.ai/applications/integrated-campaigns]
-- [Advanced Prompt Engineering Integration - https://platform.openai.com/docs/guides/prompt-engineering/strategy-capstone-projects]
+- [Comprehensive AI Campaign Strategy - https://www.microsoft.com/en-us/research/publication/large-language-models-in-the-enterprise/]
+- [Advanced AI Marketing Implementation - https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/]
 
 ### Solution (Right Side Content)
 Integrated Prompt Engineering Mastery is incredibly powerful - it combines all 30 days of prompt engineering techniques into a comprehensive campaign strategy that demonstrates professional-level expertise in AI-powered marketing through systematic integration and strategic application.

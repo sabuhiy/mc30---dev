@@ -30,7 +30,7 @@ Transform a basic prompt into a strategically engineered prompt for NextMobile's
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Prompt Engineering vs Basic Prompting - https://www.promptingguide.ai/techniques/basics]
+- [Prompt Engineering vs Basic Prompting - https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback]
 - [Strategic Marketing Message Development - https://blog.hubspot.com/marketing/improve-marketing-messages]
 
 ### Solution (Right Side Content)

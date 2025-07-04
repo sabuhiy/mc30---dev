@@ -28,8 +28,8 @@ Create a few-shot prompt to generate NextMobile product feature descriptions tha
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Few-Shot Prompting Guide for AI - https://www.promptingguide.ai/techniques/fewshot]
-- [Advanced Few-Shot Learning Examples - https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples]
+- [Few-Shot Prompting Guide for AI - https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples]
+- [In-Context Learning Research - https://research.google/pubs/pub49953/]
 
 ### Solution (Right Side Content)
 Few-Shot Prompting is incredibly powerful - it gives you precise control over AI output by showing exactly what you want through examples, perfect for scaling successful marketing content.

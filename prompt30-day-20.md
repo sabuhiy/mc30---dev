@@ -30,8 +30,8 @@ Identify potential bias in NextMobile's AI-generated marketing content and creat
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Bias Detection Guide - https://www.promptingguide.ai/risks/bias]
-- [Inclusive AI Prompting Strategies - https://platform.openai.com/docs/guides/safety-best-practices/adversarial-testing]
+- [AI Bias Detection Guide - https://www.anthropic.com/research/red-teaming-language-models]
+- [Inclusive AI Content Creation - https://www.microsoft.com/en-us/research/publication/fairness-in-machine-learning/]
 
 ### Solution (Right Side Content)
 Bias Detection and Correction is incredibly powerful - it ensures NextMobile's AI-generated content represents all customers fairly and inclusively, strengthening brand trust and expanding market reach.

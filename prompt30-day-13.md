@@ -30,8 +30,8 @@ Test different formatting styles for your examples and observe how they affect t
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Structured Prompting Guide - https://www.promptingguide.ai/techniques/fewshot]
-- [AI Format Control Techniques - https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples]
+- [Structured Prompting Guide - https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples]
+- [Advanced AI Content Structure - https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback]
 
 ### Solution (Right Side Content)
 Exemplar Format Control is incredibly powerful - it allows you to precisely dictate AI output structure and formatting by showing exactly how you want content organized and presented.

@@ -30,8 +30,8 @@ Experiment with different temperature settings for NextMobile's content creation
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Temperature Control Guide - https://www.promptingguide.ai/introduction/settings]
-- [AI Creativity Parameters - https://platform.openai.com/docs/api-reference/completions]
+- [Temperature Control Guide - https://platform.openai.com/docs/api-reference/chat/create#temperature]
+- [AI Creativity Settings - https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback]
 
 ### Solution (Right Side Content)
 Temperature Control is incredibly powerful - it allows marketing teams to strategically balance creativity and consistency, getting reliable outputs for formal communications and innovative ideas for creative campaigns.

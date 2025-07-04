@@ -30,8 +30,8 @@ Develop a comprehensive testing and measurement framework for NextMobile's promp
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Prompt Performance Testing Guide - https://www.promptingguide.ai/techniques/prompt-evaluation]
-- [LLM Output Quality Measurement - https://platform.openai.com/docs/guides/prompt-engineering/strategy-test-prompt-performance]
+- [AI Prompt Performance Testing Guide - https://research.google/blog/evaluating-large-language-models-trained-on-code/]
+- [Testing AI Output Quality - https://platform.openai.com/docs/guides/prompt-engineering/strategy-test-changes-systematically]
 
 ### Solution (Right Side Content)
 Performance Testing & Measurement is incredibly powerful - it transforms prompt engineering from guesswork into a data-driven discipline that continuously improves marketing performance through systematic evaluation and optimization.

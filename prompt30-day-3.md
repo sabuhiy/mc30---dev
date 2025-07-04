@@ -30,8 +30,8 @@ Use iterative refinement to transform a generic social media post about NextMobi
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Iterative Prompt Refinement Guide - https://www.promptingguide.ai/techniques/iterative-prompting](https://www.promptingguide.ai/techniques/iterative-prompting)
-- [AI Output Optimization Techniques - https://platform.openai.com/docs/guides/prompt-engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Iterative Prompt Refinement Guide - https://platform.openai.com/docs/guides/prompt-engineering/strategy-be-clear-and-specific]
+- [AI Content Optimization Strategies - https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback]
 
 ### Solution (Right Side Content)
 Iterative refinement is the systematic improvement process - it transforms good AI output into great output by analyzing results and strategically refining prompts through multiple iterations.

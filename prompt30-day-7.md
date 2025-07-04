@@ -28,7 +28,7 @@ Create a formatted comparison chart between NextMobile's fiber and cable interne
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Content Formatting Best Practices - https://www.promptingguide.ai/techniques/formatting]
+- [AI Content Formatting Best Practices - https://research.google/blog/language-models-perform-reasoning-via-chain-of-thought/]
 - [Structured Output Prompting for AI - https://platform.openai.com/docs/guides/structured-outputs]
 
 ### Solution (Right Side Content)

@@ -30,8 +30,8 @@ Master and apply advanced prompt engineering techniques including meta-prompting
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Advanced Prompt Engineering Techniques - https://www.promptingguide.ai/techniques/advanced]
-- [Meta-Prompting and Self-Correction - https://platform.openai.com/docs/guides/prompt-engineering/strategy-advanced-techniques]
+- [Advanced Prompt Engineering Techniques - https://research.google/blog/chain-of-thought-prompting-elicits-reasoning-in-large-language-models/]
+- [Sophisticated AI Implementation - https://www.microsoft.com/en-us/research/blog/sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4/]
 
 ### Solution (Right Side Content)
 Advanced Prompt Engineering Techniques are incredibly powerful - they enable breakthrough solutions for complex marketing challenges by creating self-improving, adaptive systems that optimize performance automatically through meta-prompting, self-correction, and dynamic optimization.

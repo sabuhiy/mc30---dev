@@ -30,8 +30,8 @@ Create a Chain of Thought prompt that generates step-by-step ROI calculations fo
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Chain of Thought Guide - https://www.promptingguide.ai/techniques/cot]
-- [AI Reasoning and Step-by-Step Prompting - https://platform.openai.com/docs/guides/prompt-engineering/strategy-think-step-by-step]
+- [Chain of Thought Guide - https://research.google/blog/language-models-perform-reasoning-via-chain-of-thought/]
+- [AI Step-by-Step Reasoning - https://platform.openai.com/docs/guides/reasoning]
 
 ### Solution (Right Side Content)
 Chain of Thought Prompting is incredibly powerful - it creates transparent, trustworthy ROI calculations that help business customers understand exactly how NextMobile's services deliver value, increasing sales conversion rates.

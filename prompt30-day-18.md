@@ -30,8 +30,8 @@ Create context-rich prompts for NextMobile's press release that target three dif
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Context in AI Prompting - https://www.promptingguide.ai/techniques/context]
-- [AI Audience Targeting with Context - https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-context]
+- [Context in AI Prompting - https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-context]
+- [Contextual AI Content Generation - https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback]
 
 ### Solution (Right Side Content)
 Contextual Prompting is incredibly powerful - it transforms generic AI output into precisely targeted content that resonates with specific audiences, dramatically improving engagement and media pickup rates.

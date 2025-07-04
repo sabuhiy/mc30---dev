@@ -30,8 +30,8 @@ Create both a basic prompt and a strategically engineered prompt for NextMobile'
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Strategic Prompt Engineering Guide - https://www.promptingguide.ai/techniques/prompt-engineering](https://www.promptingguide.ai/techniques/prompt-engineering)
-- [AI Business Content Creation - https://platform.openai.com/docs/guides/prompt-engineering/strategy](https://platform.openai.com/docs/guides/prompt-engineering/strategy)
+- [Strategic Prompt Engineering Guide - https://research.google/blog/language-models-perform-reasoning-via-chain-of-thought/]
+- [AI Business Content Creation - https://platform.openai.com/docs/guides/prompt-engineering/strategy]
 
 ### Solution (Right Side Content)
 Strategic prompt engineering is the deliberate optimization technique - it transforms simple requests into targeted communications that deliver precisely the business content you need by combining audience, context, format, and goals.

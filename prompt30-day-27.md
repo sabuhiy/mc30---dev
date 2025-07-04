@@ -30,8 +30,8 @@ Develop a future-planning strategy for NextMobile's prompt engineering capabilit
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Technology Future Planning - https://www.promptingguide.ai/applications/future-planning]
-- [Emerging AI Capabilities Strategy - https://platform.openai.com/docs/guides/prompt-engineering/strategy-future-ai-planning]
+- [AI Technology Future Planning - https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/]
+- [Strategic AI Implementation - https://www.microsoft.com/en-us/research/publication/large-language-models-in-the-enterprise/]
 
 ### Solution (Right Side Content)
 Future-Proof AI Strategy is incredibly powerful - it balances current operational excellence with strategic preparation for emerging AI capabilities that will reshape content creation and customer communication through systematic monitoring and adaptation frameworks.

@@ -28,7 +28,7 @@ Use In-Context Learning to generate NextMobile customer success stories that mat
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [In-Context Learning Guide for AI Prompting - https://www.promptingguide.ai/techniques/icl]
+- [In-Context Learning Guide for AI Prompting - https://research.google/pubs/pub49953/]
 - [Few-Shot Learning Examples with AI - https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples]
 
 ### Solution (Right Side Content)

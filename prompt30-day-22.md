@@ -30,8 +30,8 @@ Create video content prompts for NextMobile's YouTube, TikTok, and Instagram pla
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Video Script Generation Guide - https://www.promptingguide.ai/applications/video-script-generation]
-- [Platform-Specific AI Content Strategies - https://platform.openai.com/docs/guides/prompt-engineering/strategy-optimize-for-video-content]
+- [AI Video Script Generation Guide - https://www.microsoft.com/en-us/research/publication/large-language-models-in-the-enterprise/]
+- [Video Content AI Optimization - https://research.google/blog/evaluating-large-language-models-trained-on-code/]
 
 ### Solution (Right Side Content)
 Video Content Optimization is incredibly powerful - it requires platform-specific strategies that account for audience behavior, content format, and engagement patterns unique to each video platform.

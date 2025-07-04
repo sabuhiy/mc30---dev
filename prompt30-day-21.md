@@ -30,8 +30,8 @@ Create multilingual marketing content for NextMobile's expansion into Spanish, P
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Multilingual AI Prompting Guide - https://www.promptingguide.ai/techniques/multilingual]
-- [Cross-Cultural AI Content Strategies - https://platform.openai.com/docs/guides/prompt-engineering/strategy-adapt-for-cultural-context]
+- [Multilingual AI Prompting Guide - https://research.google/blog/google-translate-models-are-trained-on-parallel-text/]
+- [Cross-Cultural AI Content Creation - https://www.microsoft.com/en-us/research/publication/large-language-models-in-the-enterprise/]
 
 ### Solution (Right Side Content)
 Multilingual Content Creation is incredibly powerful - it requires cultural adaptation, not just translation, to create authentic connections with local audiences while maintaining NextMobile's global brand identity.

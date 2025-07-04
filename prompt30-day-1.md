@@ -30,7 +30,7 @@ Write a simple, effective prompt that generates compelling marketing copy for Ne
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Essential Prompt Writing Fundamentals - https://www.promptingguide.ai/introduction/basics]
+- [Essential Prompt Writing Fundamentals - https://platform.openai.com/docs/guides/prompt-engineering]
 - [Marketing AI Prompt Best Practices - https://blog.hubspot.com/marketing/ai-prompts]
 
 ### Solution (Right Side Content)

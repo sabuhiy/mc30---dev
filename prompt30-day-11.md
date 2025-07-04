@@ -30,7 +30,7 @@ Create a comprehensive accuracy verification system for NextMobile's AI-generate
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Hallucination Detection Guide - https://www.promptingguide.ai/risks/hallucination]
+- [Understanding AI Hallucinations - https://research.google/blog/lamda-towards-safe-grounded-and-high-quality-dialog-models/]
 - [Fact-Checking AI Content - https://www.anthropic.com/research/factuality-in-language-models]
 
 ### Solution (Right Side Content)

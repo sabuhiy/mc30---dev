@@ -30,8 +30,8 @@ Create a customer service prompt using delimiters to separate different types of
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Prompt Structure Guide - https://www.promptingguide.ai/techniques/delimiters]
-- [AI Prompt Organization Methods - https://platform.openai.com/docs/guides/prompt-engineering/strategy-use-delimiters]
+- [Prompt Structure Guide - https://platform.openai.com/docs/guides/prompt-engineering/strategy-use-delimiters]
+- [Complex Information Organization - https://www.microsoft.com/en-us/research/publication/large-language-models-in-the-enterprise/]
 
 ### Solution (Right Side Content)
 Delimiter Organization is incredibly powerful - it transforms complex customer service scenarios into clearly structured, processable information that AI can understand and respond to accurately.

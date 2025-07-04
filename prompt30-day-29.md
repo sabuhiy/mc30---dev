@@ -30,8 +30,8 @@ Learn to diagnose and solve NextMobile's most common prompt engineering problems
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Prompt Debugging and Troubleshooting Guide - https://www.promptingguide.ai/techniques/debugging]
-- [AI Output Quality Troubleshooting - https://platform.openai.com/docs/guides/prompt-engineering/strategy-troubleshooting]
+- [Prompt Debugging and Troubleshooting Guide - https://platform.openai.com/docs/guides/prompt-engineering/strategy-test-changes-systematically]
+- [AI Output Quality Improvement - https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback]
 
 ### Solution (Right Side Content)
 Prompt Engineering Troubleshooting is incredibly powerful - it transforms prompt engineering challenges from frustrating roadblocks into solvable problems, ensuring consistent quality and team confidence in AI-generated content through systematic diagnosis and proven solutions.

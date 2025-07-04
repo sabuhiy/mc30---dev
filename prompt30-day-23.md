@@ -30,8 +30,8 @@ Design and build a comprehensive prompt library system for NextMobile's marketin
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Prompt Library Management - https://www.promptingguide.ai/prompts/prompt-management]
-- [Advanced Prompt Organization Strategies - https://platform.openai.com/docs/guides/prompt-engineering/strategy-build-prompt-libraries]
+- [AI Prompt Library Management - https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks]
+- [Prompt Organization Best Practices - https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback]
 
 ### Solution (Right Side Content)
 Advanced Prompt Libraries are incredibly powerful - they transform individual prompt engineering successes into scalable, team-wide capabilities that ensure consistent quality and maximize efficiency.

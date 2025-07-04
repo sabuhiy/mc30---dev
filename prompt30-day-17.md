@@ -30,8 +30,8 @@ Break down NextMobile's competitive analysis into smaller, focused tasks. Create
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Task Decomposition Guide - https://www.promptingguide.ai/techniques/decomposition]
-- [AI Task Breakdown Strategies - https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks]
+- [Task Decomposition Guide - https://www.microsoft.com/en-us/research/blog/sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4/]
+- [AI Complex Task Breakdown - https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks]
 
 ### Solution (Right Side Content)
 Task Decomposition is incredibly powerful - it transforms overwhelming competitive analysis into focused, actionable insights that drive strategic marketing decisions and competitive positioning improvements.

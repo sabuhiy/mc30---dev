@@ -28,8 +28,8 @@ Use style prompting to create platform-specific versions of NextMobile's busines
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Style Control Techniques - https://www.promptingguide.ai/techniques/style-prompting](https://www.promptingguide.ai/techniques/style-prompting)
-- [Tone-Based Prompt Engineering - https://platform.openai.com/docs/guides/prompt-engineering/tone](https://platform.openai.com/docs/guides/prompt-engineering/tone)
+- [AI Style Control Techniques - https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback]
+- [Tone-Based Prompt Engineering - https://platform.openai.com/docs/guides/prompt-engineering/tone]
 
 ### Solution (Right Side Content)
 Style prompting is the brand voice adaptation technique - it maintains brand consistency while adapting tone, vocabulary, and format to maximize engagement on different platforms and with different audiences.

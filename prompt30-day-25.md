@@ -30,8 +30,8 @@ Create a prompt chain for NextMobile's complete campaign development process, fr
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [AI Prompt Chaining Guide - https://www.promptingguide.ai/techniques/prompt-chaining]
-- [Advanced Prompt Chain Automation - https://platform.openai.com/docs/guides/prompt-engineering/strategy-prompt-chaining]
+- [AI Prompt Chaining Guide - https://www.microsoft.com/en-us/research/blog/sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4/]
+- [Advanced AI Workflow Automation - https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks]
 
 ### Solution (Right Side Content)
 Automated Prompt Chains are incredibly powerful - they transform complex marketing workflows into streamlined, consistent campaigns that deliver better results with less effort by connecting multiple AI interactions in sequence.

@@ -30,8 +30,8 @@ Develop a comprehensive scaling framework for NextMobile's organization-wide pro
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Enterprise AI Scaling Strategies - https://www.promptingguide.ai/applications/enterprise-scaling]
-- [AI Operations Management - https://platform.openai.com/docs/guides/prompt-engineering/strategy-scale-ai-operations]
+- [Enterprise AI Scaling Strategies - https://www.microsoft.com/en-us/research/publication/large-language-models-in-the-enterprise/]
+- [AI Implementation at Scale - https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/]
 
 ### Solution (Right Side Content)
 Prompt Engineering Operations Scaling is incredibly powerful - it enables organization-wide success while maintaining quality and brand consistency through systematic frameworks for training, standardization, quality control, and governance.

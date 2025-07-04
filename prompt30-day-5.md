@@ -30,8 +30,8 @@ Use role prompting to create multiple versions of NextMobile's 5G benefits expla
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Role-Based AI Prompting Guide - https://www.promptingguide.ai/techniques/role-prompting](https://www.promptingguide.ai/techniques/role-prompting)
-- [AI Persona Assignment Techniques - https://platform.openai.com/docs/guides/prompt-engineering/persona](https://platform.openai.com/docs/guides/prompt-engineering/persona)
+- [Role-Based AI Prompting Guide - https://platform.openai.com/docs/guides/prompt-engineering/strategy-adopt-a-persona]
+- [AI Persona Assignment Techniques - https://platform.openai.com/docs/guides/prompt-engineering/persona]
 
 ### Solution (Right Side Content)
 Role prompting is the persona assignment technique - it transforms AI communication by assigning specific personas that dramatically change voice, tone, and expertise level to match different audiences and contexts perfectly.

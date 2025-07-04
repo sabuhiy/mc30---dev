@@ -30,7 +30,7 @@ Use Zero-Shot Prompting to generate a comprehensive explanation of NextMobile's 
 
 ### Resources
 Use the following resources to help you complete this challenge:
-- [Zero-Shot Learning Guide - https://www.promptingguide.ai/techniques/zeroshot]
+- [Zero-Shot Learning Guide - https://research.google/blog/zero-shot-learning-with-multimodal-large-language-models/]
 - [AI Zero-Shot Prompting Techniques - https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions]
 
 ### Solution (Right Side Content)
