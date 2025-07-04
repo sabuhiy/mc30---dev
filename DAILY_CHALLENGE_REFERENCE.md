@@ -1,9 +1,8 @@
-# Daily Challenge Structure Reference for Prompt30
-## General guidelines
-- HTML references will be used when SQL queries are created to update records in sql database
+# Daily Challenge Content Structure Reference for Prompt30
 
+*This reference guide contains content patterns for daily challenges.*
 
-## Email Flow
+## Email Content Flow
 
 ### Subject
 Example: Day 1: Your Prompt Engineering Journey Starts Now!
@@ -31,7 +30,8 @@ Ready to get started? Let's go!
 Best,
 Sab
 
-## Landing Page Flow
+## Landing Page Content Flow 
+
 ### Challenge Description 
 - This will be a use case scenario and the same copy appears both on the email and landing page.
 - Maps to field Key `_description` and field Id field_64dd19ca99237
@@ -58,44 +58,42 @@ Write prompts that assign different roles to the AI to explain NextMobile's 5G n
 - Maps to field key `_links` and field id field_64dd1a2199239
 
 ### Solution
-- Each Solution will have the content in this order
-1. Quick summary - Example: Writing your first prompt demonstrates the power of AI-assisted content creation - this is the foundation of all prompt engineering.
-2. One line before prompt ()
+- Each Solution will have the content in this order:
+- Quick summary. Example: 
+	- Writing your first prompt demonstrates the power of AI-assisted content creation - this is the foundation of all prompt engineering.
+- One line before prompt. Example: 
+	- Here's a simple example:
+- Prompt and output based on daily challenge
+	- Example prompt: Write a short marketing message for NextMobile's new high-speed internet service.
+	- Example output: Experience lightning-fast internet with NextMobile's new high-speed service. Stream, game, and work without interruption. Upgrade today and feel the difference!
+- Key Insight. Example: 
+	- A good prompt is clear, specific, and gives the AI enough context to understand what you want. Even simple prompts can generate useful marketing content when they're direct and focused.
+- Try This Yourself. Example: 
+	- Test these variations and see how small changes affect the output:
+	"Write a short marketing message for NextMobile's new high-speed internet service targeting gamers."
+	"Create a brief promotional text about NextMobile's fast internet for social media."
+- Common Pitfalls. Example: 
+	- ❌ Being too vague: "Write something about internet"
+	- ❌ No context: "Create marketing content"
+	- ✅ Clear and specific: "Write a short marketing message for NextMobile's new high-speed internet service"
+- Pro Tips. Example:
+	- ✅ Always analyze before refining
+	- ✅ Make one improvement at a time
+	- ✅ Test different approaches
+	- ❌ Don't give up after the first attempt
+- Solution CTA. Example: 
+	- Stuck? Give this a peek.
+	
+
+
+
 - Each solution should include one or maximum two prompts and outputs based on the use case scenario. One prompt and output is preferred but some use case scenarios may requires multiple prompts and outputs
 - Each solution will have 
 - Each solution should have at least Key Insight, Try This Yourself, Common Pitfalls, Pro Tips sub-sections on top of other existing content on the Solution side
 - Maps to field key `_solution` and field id field_64dd1a2d9923a 
 - Example prompts and outputs has particular html format like the following:
 
-```html
-<p>Writing your first prompt demonstrates the power of AI-assisted content creation - this is the foundation of all prompt engineering.</p>
 
-<p>Here's a simple example:</p>
-
-<div class="p-4 bg-white rounded-4">
-	<div class="bg-light ms-5 p-4 rounded-4">
-		Write a short marketing message for NextMobile's new high-speed internet service.
-	</div>
-	<div class="mt-4">
-		Experience lightning-fast internet with NextMobile's new high-speed service. Stream, game, and work without interruption. Upgrade today and feel the difference!
-	</div>	
-</div>
-
-<h5 class="mt-5">Key Insight</h5>
-<p>A good prompt is clear, specific, and gives the AI enough context to understand what you want. Even simple prompts can generate useful marketing content when they're direct and focused.</p>
-
-<h5 class="mt-5">Try This Yourself</h5>
-<p>Test these variations and see how small changes affect the output:</p>
-<ul>
-<li class="mb-2">"Write a short marketing message for NextMobile's new high-speed internet service targeting gamers."</li>
-<li class="mb-2">"Create a brief promotional text about NextMobile's fast internet for social media."</li>
-</ul>
-
-<h5 class="mt-5">Common Pitfalls</h5>
-<p><span class="text-danger">❌</span> Being too vague: "Write something about internet"</p>
-<p><span class="text-danger">❌</span> No context: "Create marketing content"</p>
-<p><span class="text-success">✅</span> Clear and specific: "Write a short marketing message for NextMobile's new high-speed internet service"</p>
-```
 ### Solution CTA
 - Maps to field key `_solution_cta` and field is field_64df80e52d538
 
