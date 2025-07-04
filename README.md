@@ -35,13 +35,13 @@ This repository contains a complete 30-day learning journey that teaches prompt 
 - **Day 8**: Introduction to ICL - In-Context Learning fundamentals
 - **Day 9**: Implement Few-Shot Prompting - Using examples to guide AI behavior
 - **Day 10**: Master Zero-Shot Prompting - Getting responses without examples
-- **Day 11**: Experiment with Exemplar Quantity - Optimizing number of examples
-- **Day 12**: Experiment with Exemplar Ordering - How example sequence affects output
+- **Day 11**: AI Accuracy Verification - Detecting and preventing AI hallucinations
+- **Day 12**: Multimodal AI Integration - Combining text, images, and video content
 - **Day 13**: Experiment with Exemplar Format - How formatting influences output
 - **Day 14**: Add Structure with Delimiters - Organizing prompt sections for clarity
 
 ### Week 3: Brand Voice and Content (Days 15-21)
-- **Day 15**: Give Your AI a Voice - Establishing consistent brand personality
+- **Day 15**: AI Ethics Frameworks - Implementing responsible AI governance
 - **Day 16**: Master Chain of Thought - Transparent reasoning for ROI and analysis
 - **Day 17**: Break Down Complex Tasks - Decomposing marketing challenges
 - **Day 18**: Add Context for Better Results - Providing relevant background information
