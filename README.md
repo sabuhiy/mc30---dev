@@ -10,6 +10,7 @@ This repository contains a complete 30-day learning journey that teaches prompt 
 
 ```
 ├── promp30.md                      # Complete 30-day course document (all content)
+└── CHALLENGE_TEMPLATE.md           # Use this template as base context for QA-ing daily challenges
 └── DAILY_CHALLENGE_REFERENCE.md    # Quick reference for content flow
 └── WORDPRESS_LAYOUT_REFERENCE.md   # This reference guide contains HTML patterns for WordPress content.
 └── WORDPRESS_SQL_REFERENCE.md      # This reference guide contains database mapping information extracted from the mc30-20250701.sql database. Use this when creating UPDATE queries for WordPress content.
@@ -37,29 +38,29 @@ This repository contains a complete 30-day learning journey that teaches prompt 
 - **Day 11**: Experiment with Exemplar Quantity - Optimizing number of examples
 - **Day 12**: Experiment with Exemplar Ordering - How example sequence affects output
 - **Day 13**: Experiment with Exemplar Format - How formatting influences output
-- **Day 14**: Master Exemplar Selection - Choosing high-quality examples
+- **Day 14**: Add Structure with Delimiters - Organizing prompt sections for clarity
 
-### Week 3: Advanced Reasoning (Days 15-21)
-- **Day 15**: Think Step by Step - Chain-of-Thought prompting
-- **Day 16**: Implement Zero-Shot CoT - Step-by-step reasoning without examples
-- **Day 17**: Implement Few-Shot CoT - Guided reasoning with examples
-- **Day 18**: Implement Step-Back Prompting - Establishing broader context first
-- **Day 19**: Master Decomposition - Breaking complex tasks into manageable parts
-- **Day 20**: Implement Least-to-Most Prompting - Sequential problem-solving
-- **Day 21**: Implement Program-of-Thoughts - Structured, program-like reasoning
+### Week 3: Brand Voice and Content (Days 15-21)
+- **Day 15**: Give Your AI a Voice - Establishing consistent brand personality
+- **Day 16**: Master Chain of Thought - Transparent reasoning for ROI and analysis
+- **Day 17**: Break Down Complex Tasks - Decomposing marketing challenges
+- **Day 18**: Add Context for Better Results - Providing relevant background information
+- **Day 19**: Master Temperature Control - Balancing creativity and consistency
+- **Day 20**: Detect and Correct Bias - Creating inclusive marketing content
+- **Day 21**: Navigate Multilingual Content - Cultural adaptation for global markets
 
-### Week 4: Advanced Techniques (Days 22-28)
-- **Day 22**: Implement Ensembling - Generating multiple options for better results
-- **Day 23**: Implement Self-Consistency - Validating conclusions through consistency
-- **Day 24**: Implement Self-Criticism - AI critiquing its own work
-- **Day 25**: Understand Prompt Sensitivity - How small changes affect outputs
-- **Day 26**: Address Bias and Stereotypes - Creating inclusive content
-- **Day 27**: Address Ambiguity - Eliminating confusion in prompts
-- **Day 28**: Implement Multilingual Prompting - Global content creation
+### Week 4: Advanced Marketing Applications (Days 22-28)
+- **Day 22**: Optimize for Video Content - Platform-specific video content creation
+- **Day 23**: Build Advanced Prompt Libraries - Systematic template development
+- **Day 24**: Test & Measure Performance - Evaluating and improving prompt effectiveness
+- **Day 25**: Automate with Prompt Chains - Connecting prompts for complex workflows
+- **Day 26**: Scale Your Operations - Managing AI content at enterprise level
+- **Day 27**: Plan for the Future - Strategic AI integration roadmaps
+- **Day 28**: Master Advanced Techniques - Sophisticated prompt engineering strategies
 
-### Week 5: Future Applications (Days 29-30)
-- **Day 29**: Conceptual Multimodal Prompting - Future AI interaction with multiple data types
-- **Day 30**: Your Prompt Engineering Capstone - Synthesizing all techniques
+### Week 5: Mastery and Troubleshooting (Days 29-30)
+- **Day 29**: Troubleshoot Common Issues - Diagnosing and solving prompt problems
+- **Day 30**: Your Capstone Challenge - Synthesizing all techniques for complex projects
 
 
 ## 💼 Target Audience
