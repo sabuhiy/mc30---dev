@@ -78,18 +78,14 @@ Chain of Thought prompting creates transparent, trustworthy ROI calculations tha
 2. Show reasoning for productivity improvements with transparent calculations
 3. Break down complex financial benefits into simple, logical steps
 
-**Common Pitfalls:**
-❌ **Skipping logical steps**: Customers need to understand the complete reasoning process
-❌ **Using assumptions without explaining them**: Transparency builds trust
-✅ **Show every step of your reasoning process**: Makes calculations trustworthy
-✅ **Make each step logical and easy to follow**: Builds customer confidence
+**Common Pitfalls ❌ :**
+**Skipping logical steps**: Customers need to understand the complete reasoning process
+**Using assumptions without explaining them**: Transparency builds trust
 
-**Pro Tips:**
-✅ **Show every step of your reasoning process**: Makes calculations trustworthy and transparent
-✅ **Explain assumptions clearly**: Helps customers understand the logic behind numbers
-✅ **Use realistic numbers that customers can verify**: Builds credibility and trust
-❌ **Don't skip logical steps that customers need**: Transparency is key to conversion
-❌ **Don't make calculations too complex to follow**: Keep reasoning accessible
+**Pro Tips ✅ :**
+**Show every step of your reasoning process**: Makes calculations trustworthy and transparent
+**Explain assumptions clearly**: Helps customers understand the logic behind numbers
+**Use realistic numbers that customers can verify**: Builds credibility and trust 
 
 ### Solution CTA
 Unlock Solution 

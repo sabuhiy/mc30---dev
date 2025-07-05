@@ -88,18 +88,14 @@ Exemplar formatting becomes a template that controls exactly how AI structures c
 2. Generate content using each format and test how it imports into your CMS
 3. Apply consistent formatting to create a library of product descriptions
 
-**Common Pitfalls:**
-❌ **Using generic formatting**: Doesn't consider your specific CMS or style guide needs
-❌ **Inconsistent structure across similar content**: Breaks visual consistency
-✅ **Match example format to intended output exactly**: Ensures consistent results
-✅ **Test formatted examples in your actual publishing system**: Verifies compatibility
+**Common Pitfalls ❌ :**
+**Using generic formatting**: Doesn't consider your specific CMS or style guide needs
+**Inconsistent structure across similar content**: Breaks visual consistency
 
-**Pro Tips:**
-✅ **Match example format to your intended output format exactly**: AI will replicate structure precisely
-✅ **Test formatted examples in your actual publishing system**: Ensures compatibility with your tools
-✅ **Use consistent formatting across all examples**: Maintains visual consistency
-❌ **Don't ignore how formatting appears on different devices**: Consider mobile responsiveness
-❌ **Don't use complex formatting that breaks in your CMS**: Keep it compatible with your systems
+**Pro Tips ✅ :**
+**Match example format to your intended output format exactly**: AI will replicate structure precisely
+**Test formatted examples in your actual publishing system**: Ensures compatibility with your tools
+**Use consistent formatting across all examples**: Maintains visual consistency 
 
 ### Solution CTA
-Unlock Solution 
+Verify Now 

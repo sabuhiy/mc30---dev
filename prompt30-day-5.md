@@ -57,19 +57,16 @@ Role prompting allows you to match communication style to your audience and cont
 2. Assign three different roles: technical expert, friendly rep, satisfied customer
 3. Compare how each role transforms the same message for different audiences
 
-**Common Pitfalls:**
-❌ **Using vague roles**: "As an expert" is too generic for effective voice changes
-❌ **Conflicting role assignments**: "Technical salesperson" mixes different communication styles
-❌ **Wrong audience matching**: Using engineer role for general consumer content
-✅ **Specific role definitions**: "NextMobile network engineer" provides clear expertise context
-✅ **Audience-appropriate roles**: Customer service rep for families, engineer for tech users
-✅ **Consistent role application**: Use same role across similar content pieces
+**Common Pitfalls ❌ :**
+**Using vague roles**: "As an expert" is too generic for effective voice changes
+**Conflicting role assignments**: "Technical salesperson" mixes different communication styles
+**Wrong audience matching**: Using engineer role for general consumer content
 
-**Pro Tips:**
-✅ **Match roles to audience trust factors**: Tech audiences trust "network engineer," families prefer "friendly rep"
-✅ **Be specific with role context**: "NextMobile customer service rep" vs generic "expert"
-✅ **Test role variations**: Try different roles for the same content to find optimal voice
-✅ **Maintain role consistency**: Use the same persona across related content pieces
+**Pro Tips ✅ :**
+**Match roles to audience trust factors**: Tech audiences trust "network engineer," families prefer "friendly rep"
+**Be specific with role context**: "NextMobile customer service rep" vs generic "expert"
+**Test role variations**: Try different roles for the same content to find optimal voice
+**Maintain role consistency**: Use the same persona across related content pieces
 
 ### Solution CTA
 Unlock Solution 

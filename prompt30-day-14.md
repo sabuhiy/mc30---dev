@@ -94,18 +94,14 @@ Delimiters transform complex customer service scenarios into organized, processa
 2. Test different delimiter styles (===, ---, ###) for NextMobile scenarios
 3. Compare organized vs unorganized prompt performance
 
-**Common Pitfalls:**
-❌ **Using unclear or inconsistent delimiters**: Confuses AI rather than helping
-❌ **Too many sections that overwhelm**: More sections isn't always better
-✅ **Use consistent delimiters throughout your prompt**: Maintains clear organization
-✅ **Label each section clearly**: Makes purpose obvious to AI
+**Common Pitfalls ❌ :**
+**Using unclear or inconsistent delimiters**: Confuses AI rather than helping
+**Too many sections that overwhelm**: More sections isn't always better
 
-**Pro Tips:**
-✅ **Use consistent delimiters throughout your prompt**: Maintains clear organization structure
-✅ **Label each section clearly**: Makes the purpose obvious to AI processing
-✅ **Keep sections focused and relevant**: Don't create unnecessary divisions
-❌ **Don't mix different delimiter styles in the same prompt**: Stick to one style
-❌ **Don't over-segment simple information**: Use delimiters when complexity requires it
+**Pro Tips ✅ :**
+**Use consistent delimiters throughout your prompt**: Maintains clear organization structure
+**Label each section clearly**: Makes the purpose obvious to AI processing
+**Keep sections focused and relevant**: Don't create unnecessary divisions
 
 ### Solution CTA
 Unlock Solution 

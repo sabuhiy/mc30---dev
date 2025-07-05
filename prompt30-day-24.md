@@ -66,18 +66,14 @@ Systematic testing and measurement transforms prompt engineering from guesswork 
 2. Create A/B tests for your highest-impact prompts using matched variables
 3. Track performance consistently and document learnings for prompt library updates
 
-**Common Pitfalls:**
-❌ **Testing too many variables at once**: Makes it impossible to identify what caused performance differences
-❌ **Not running tests long enough**: Insufficient data leads to unreliable conclusions
-✅ **Test one variable at a time**: Provides clear insights into what drives performance
-✅ **Run tests for sufficient time**: Ensures statistical significance and reliable results
+**Common Pitfalls ❌ :**
+**Testing too many variables at once**: Makes it impossible to identify what caused performance differences
+**Not running tests long enough**: Insufficient data leads to unreliable conclusions
 
-**Pro Tips:**
-✅ **Focus on metrics that align with business goals**: Track what matters for NextMobile's success
-✅ **Document all learnings for future reference**: Build institutional knowledge and improve prompt library
-✅ **Set up regular review and improvement cycles**: Continuous optimization drives long-term success
-❌ **Don't focus on vanity metrics**: Prioritize business impact over engagement numbers alone
-❌ **Don't skip statistical significance testing**: Ensures results are reliable and actionable
+**Pro Tips ✅ :**
+**Focus on metrics that align with business goals**: Track what matters for NextMobile's success
+**Document all learnings for future reference**: Build institutional knowledge and improve prompt library
+**Set up regular review and improvement cycles**: Continuous optimization drives long-term success
 
 ### Solution CTA
 Unlock Solution 

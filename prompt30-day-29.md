@@ -91,18 +91,14 @@ Systematic troubleshooting transforms prompt engineering challenges from frustra
 2. Develop standardized solutions and templates for each problem type
 3. Test solutions systematically and measure improvements before broad implementation
 
-**Common Pitfalls:**
-❌ **Trying to fix symptoms instead of root causes**: Leads to recurring problems and frustration
-❌ **Not testing solutions before implementing broadly**: Can create new problems or worsen existing ones
-✅ **Create systematic diagnosis processes**: Enables consistent problem identification and resolution
-✅ **Test one solution element at a time**: Allows clear identification of what works and what doesn't
+**Common Pitfalls ❌ :**
+**Trying to fix symptoms instead of root causes**: Leads to recurring problems and frustration
+**Not testing solutions before implementing broadly**: Can create new problems or worsen existing ones
 
-**Pro Tips:**
-✅ **Document successful solutions for future reference**: Builds institutional knowledge and prevents recurring issues
-✅ **Build prevention into your prompt creation process**: Quality control prevents problems before they occur
-✅ **Create feedback loops for continuous improvement**: Regular review and optimization maintains quality
-❌ **Don't make too many changes at once**: Gradual improvements are more reliable and manageable
-❌ **Don't ignore team training in troubleshooting**: Consistent problem-solving skills across the team prevent issues
+**Pro Tips ✅ :**
+**Document successful solutions for future reference**: Builds institutional knowledge and prevents recurring issues
+**Build prevention into your prompt creation process**: Quality control prevents problems before they occur
+**Create feedback loops for continuous improvement**: Regular review and optimization maintains quality 
 
 ### Solution CTA
 Unlock Solution 

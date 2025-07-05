@@ -63,18 +63,14 @@ Multimodal AI integration creates cohesive brand experiences where text, images,
 2. Generate coordinated text content and image descriptions that reinforce each other
 3. Test campaign elements together using consistency check prompts before finalizing
 
-**Common Pitfalls:**
-❌ **Creating text and visuals separately without coordination**: Results in disconnected messaging and poor brand cohesion
-❌ **Inconsistent brand elements across different modalities**: Confuses audiences and weakens brand impact
-✅ **Start with unified creative brief for all modalities**: Ensures consistency from the foundation
-✅ **Use text content to guide visual creation**: Creates natural reinforcement between elements
+**Common Pitfalls ❌ :**
+**Creating text and visuals separately without coordination**: Results in disconnected messaging and poor brand cohesion
+**Inconsistent brand elements across different modalities**: Confuses audiences and weakens brand impact
 
-**Pro Tips:**
-✅ **Create detailed scene descriptions in text prompts for visual AI**: Provides clear direction for visual content generation
-✅ **Use specific brand colors and styling in all visual prompts**: Maintains visual consistency across all campaign elements
-✅ **Reference visual elements in text content for cohesion**: Creates natural connections between text and visuals
-❌ **Don't forget to test campaign elements together**: Isolated testing misses integration issues
-❌ **Don't skip consistency checks across modalities**: Quality control ensures unified brand experience
+**Pro Tips ✅ :**
+**Create detailed scene descriptions in text prompts for visual AI**: Provides clear direction for visual content generation
+**Use specific brand colors and styling in all visual prompts**: Maintains visual consistency across all campaign elements
+**Reference visual elements in text content for cohesion**: Creates natural connections between text and visuals 
 
 ### Solution CTA
-Create Together 
+Unlock Solution 

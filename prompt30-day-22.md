@@ -79,18 +79,14 @@ Video content prompting requires platform-specific strategies that account for a
 2. Create hooks that grab attention immediately within each platform's optimal timeframe
 3. Use platform-native language and current trends in your video content prompts
 
-**Common Pitfalls:**
-❌ **Using the same script across all platforms**: Different platforms require different content approaches
-❌ **Weak hooks that don't grab attention**: First few seconds are critical for video engagement
-✅ **Research platform-specific video content best practices**: Understanding each platform's unique requirements
-✅ **Start with strong hooks for each platform**: Grab attention immediately within platform timeframes
+**Common Pitfalls ❌ :**
+**Using the same script across all platforms**: Different platforms require different content approaches
+**Weak hooks that don't grab attention**: First few seconds are critical for video engagement
 
-**Pro Tips:**
-✅ **Use platform-native language and trends**: Makes content feel authentic to each platform
-✅ **Include clear visual direction in scripts**: Helps creators understand exactly what to show
-✅ **Test content performance and iterate**: Use analytics to improve future video content
-❌ **Don't ignore platform-specific features**: Each platform has unique engagement tools to leverage
-❌ **Don't forget strong calls-to-action**: Video content should drive specific actions from viewers
+**Pro Tips ✅ :**
+**Use platform-native language and trends**: Makes content feel authentic to each platform
+**Include clear visual direction in scripts**: Helps creators understand exactly what to show
+**Test content performance and iterate**: Use analytics to improve future video content 
 
 ### Solution CTA
 Unlock Solution 

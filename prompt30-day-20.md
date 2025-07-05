@@ -60,18 +60,14 @@ Bias detection and correction ensures NextMobile's AI-generated content represen
 2. Create inclusive prompts that avoid demographic assumptions and stereotypes
 3. Test bias-free content with diverse audience members for feedback
 
-**Common Pitfalls:**
-❌ **Ignoring subtle bias in seemingly neutral content**: Even neutral language can exclude groups
-❌ **Making assumptions about customer demographics**: Focus on needs, not assumptions
-✅ **Use inclusive language and diverse examples**: Represents all customers fairly
-✅ **Focus on customer needs rather than assumptions**: Universal approach that includes everyone
+**Common Pitfalls ❌ :**
+**Ignoring subtle bias in seemingly neutral content**: Even neutral language can exclude groups
+**Making assumptions about customer demographics**: Focus on needs, not assumptions
 
-**Pro Tips:**
-✅ **Use inclusive language and diverse examples**: Represents all customers fairly and equally
-✅ **Focus on customer needs rather than assumptions**: Universal approach that includes everyone
-✅ **Regularly audit content for bias**: Continuous improvement ensures inclusive messaging
-❌ **Don't ignore subtle bias in seemingly neutral content**: Even neutral language can exclude
-❌ **Don't make assumptions about customer demographics**: Focus on needs and benefits instead
+**Pro Tips ✅ :**
+**Use inclusive language and diverse examples**: Represents all customers fairly and equally
+**Focus on customer needs rather than assumptions**: Universal approach that includes everyone
+**Regularly audit content for bias**: Continuous improvement ensures inclusive messaging 
 
 ### Solution CTA
 Unlock Solution 

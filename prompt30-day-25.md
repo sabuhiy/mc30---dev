@@ -68,18 +68,14 @@ Prompt chaining automates complex marketing workflows, transforming multi-step m
 2. Design prompts that feed outputs into subsequent inputs with clear context preservation
 3. Test the chain end-to-end with a real campaign and refine based on output quality
 
-**Common Pitfalls:**
-❌ **Making chains too complex with too many steps**: Increases failure points and complexity
-❌ **Not preserving context between chain links**: Breaks the logical flow and reduces effectiveness
-✅ **Start with 3-5 step chains before building longer ones**: Ensures manageable complexity and easier debugging
-✅ **Include validation prompts to check output quality**: Maintains consistency and catches issues early
+**Common Pitfalls ❌ :**
+**Making chains too complex with too many steps**: Increases failure points and complexity
+**Not preserving context between chain links**: Breaks the logical flow and reduces effectiveness
 
-**Pro Tips:**
-✅ **Design chains that can be easily modified**: Allows adaptation for different campaigns and scenarios
-✅ **Test chains thoroughly before deploying at scale**: Prevents costly mistakes and ensures reliability
-✅ **Create templates for reusable chains**: Maximizes efficiency and maintains consistency across campaigns
-❌ **Don't skip quality gates between steps**: Validation points ensure output quality throughout the chain
-❌ **Don't make chains too rigid**: Flexibility allows for customization and improvement over time
+**Pro Tips ✅ :**
+**Design chains that can be easily modified**: Allows adaptation for different campaigns and scenarios
+**Test chains thoroughly before deploying at scale**: Prevents costly mistakes and ensures reliability
+**Create templates for reusable chains**: Maximizes efficiency and maintains consistency across campaigns 
 
 ### Solution CTA
 Unlock Solution 

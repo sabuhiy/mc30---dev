@@ -76,18 +76,14 @@ Advanced prompt libraries transform individual prompt engineering successes into
 2. Create categories based on your most common use cases and standardize templates
 3. Implement a system for tracking performance and set up regular update processes
 
-**Common Pitfalls:**
-❌ **Creating too many categories that overlap**: Leads to confusion and duplicate efforts
-❌ **Not including performance metrics and results**: Misses opportunities for improvement
-✅ **Start with your most-used prompt types**: Focus on high-impact organization first
-✅ **Include performance data and success metrics**: Enable data-driven prompt improvements
+**Common Pitfalls ❌ :**
+**Creating too many categories that overlap**: Leads to confusion and duplicate efforts
+**Not including performance metrics and results**: Misses opportunities for improvement
 
-**Pro Tips:**
-✅ **Create clear naming conventions**: Makes prompt library easy to navigate and search
-✅ **Set up regular review and update schedules**: Keeps library current and effective
-✅ **Use standardized template formats**: Ensures consistency across all team members
-❌ **Don't create overly complex categorization**: Keep system simple and user-friendly
-❌ **Don't forget version control**: Track changes and improvements to maintain quality
+**Pro Tips ✅ :**
+**Create clear naming conventions**: Makes prompt library easy to navigate and search
+**Set up regular review and update schedules**: Keeps library current and effective
+**Use standardized template formats**: Ensures consistency across all team members 
 
 ### Solution CTA
 Unlock Solution 

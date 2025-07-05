@@ -58,15 +58,11 @@ Output Formatting transforms raw information into structured, customer-focused c
 2. Design a checklist format for customers preparing for internet service upgrade
 3. Build a pricing grid comparing all NextMobile plans with features
 
-**Common Pitfalls:**
-❌ **Leaving format ambiguous**: Customers need clear structure for decision-making
-❌ **Mixing incompatible formats**: Confuses the buying process and user experience
-✅ **Specify exact structure needed**: Clear formatting guides customer decisions
-✅ **Include headers that guide customers**: Through comparisons and key information
+**Common Pitfalls ❌ :**
+**Leaving format ambiguous**: Customers need clear structure for decision-making
+**Mixing incompatible formats**: Confuses the buying process and user experience
 
-**Pro Tips:**
-✅ **Always specify exact format requirements upfront**: Tell AI exactly what structure you need
-✅ **Test formatted outputs in your actual systems**: CMS, email, website before publishing
-✅ **Create format templates for common content types**: Save time and ensure consistency
-❌ **Don't assume AI will infer the format**: Be explicit about structure requirements
-❌ **Don't ignore mobile formatting**: Consider how content appears on all devices 
+**Pro Tips ✅ :**
+**Always specify exact format requirements upfront**: Tell AI exactly what structure you need
+**Test formatted outputs in your actual systems**: CMS, email, website before publishing
+**Create format templates for common content types**: Save time and ensure consistency 

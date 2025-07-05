@@ -57,19 +57,16 @@ Iterative refinement follows a simple cycle: Generate → Analyze → Improve �
 2. Analyze the first output for missing elements or weak points
 3. Refine by adding specificity, empathy, and customer benefits
 
-**Common Pitfalls:**
-❌ **Making too many changes at once**: Modify one element at a time to track what works
-❌ **Refining without clear goals**: Define success criteria before starting iterations
-❌ **Stopping at first acceptable result**: Great output requires multiple refinements
-✅ **Systematic analysis**: Identify specific weaknesses before refining
-✅ **Document each iteration**: Track what improvements work for future use
-✅ **Set clear success criteria**: Know when you've achieved your goal
+**Common Pitfalls ❌ :**
+**Making too many changes at once**: Modify one element at a time to track what works
+**Refining without clear goals**: Define success criteria before starting iterations
+**Stopping at first acceptable result**: Great output requires multiple refinements
 
-**Pro Tips:**
-✅ **Change one element per iteration**: Modify tone OR format OR audience, not all simultaneously
-✅ **Document each version**: Save iterations to track what improvements work
-✅ **Set success criteria upfront**: Define "good enough" to avoid endless refinement loops
-✅ **Test refined prompts**: Use successful refinements for similar scenarios
+**Pro Tips ✅ :**
+**Change one element per iteration**: Modify tone OR format OR audience, not all simultaneously
+**Document each version**: Save iterations to track what improvements work
+**Set success criteria upfront**: Define "good enough" to avoid endless refinement loops
+**Test refined prompts**: Use successful refinements for similar scenarios
 
 ### Solution CTA
 Unlock Solution 

@@ -60,18 +60,14 @@ Comprehensive AI ethics frameworks transform AI from a potential risk into a sus
 2. Create transparency communications for customer-facing AI systems using clear, non-technical language
 3. Develop governance structures and monitoring systems for ongoing ethical compliance
 
-**Common Pitfalls:**
-❌ **Treating ethics as a one-time implementation rather than ongoing process**: Ethics requires continuous monitoring and improvement
-❌ **Focusing only on legal compliance without considering customer trust**: Trust goes beyond legal requirements
-✅ **Build ethics into AI development from the beginning**: Prevention is easier than remediation
-✅ **Maintain ongoing monitoring and improvement processes**: Continuous oversight ensures sustained ethical compliance
+**Common Pitfalls ❌ :**
+**Treating ethics as a one-time implementation rather than ongoing process**: Ethics requires continuous monitoring and improvement
+**Focusing only on legal compliance without considering customer trust**: Trust goes beyond legal requirements
 
-**Pro Tips:**
-✅ **Start with customer benefit and work backward to implementation**: Customer-first approach ensures ethical alignment
-✅ **Create cross-functional ethics committees with diverse perspectives**: Multiple viewpoints strengthen ethical decision-making
-✅ **Document all decisions and rationale for audit purposes**: Transparency enables accountability and continuous improvement
-❌ **Don't ignore evolving regulations and best practices**: Regular framework updates maintain compliance and effectiveness
-❌ **Don't implement AI without clear governance structures**: Lack of oversight creates ethical and business risks
+**Pro Tips ✅ :**
+**Start with customer benefit and work backward to implementation**: Customer-first approach ensures ethical alignment
+**Create cross-functional ethics committees with diverse perspectives**: Multiple viewpoints strengthen ethical decision-making
+**Document all decisions and rationale for audit purposes**: Transparency enables accountability and continuous improvement
 
 ### Solution CTA
 Lead Ethically 

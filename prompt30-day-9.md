@@ -62,18 +62,14 @@ Few-Shot Prompting teaches the AI through pattern recognition to replicate your 
 2. Generate feature descriptions for different customer segments (residential vs business)
 3. Apply the same pattern to create technical feature explanations that are customer-friendly
 
-**Common Pitfalls:**
-❌ **Using contradictory examples**: Confuses brand messaging and pattern recognition
-❌ **Providing too many examples**: Diminishing returns on pattern recognition
-✅ **Use 2-4 high-performing examples**: Sweet spot for marketing content consistency
-✅ **Maintain consistent conversion-focused structure**: Drives customer engagement
+**Common Pitfalls ❌ :**
+**Using contradictory examples**: Confuses brand messaging and pattern recognition
+**Providing too many examples**: Diminishing returns on pattern recognition
 
-**Pro Tips:**
-✅ **Use 2-4 high-performing examples for optimal results**: Sweet spot for marketing content
-✅ **Make examples diverse but maintain consistent structure**: Covers edge cases while staying on-brand
-✅ **Include technical features and premium services**: Handles complex product descriptions
-❌ **Don't use contradictory examples**: Confuses brand messaging and reduces effectiveness
-❌ **Avoid too many examples**: Cognitive overload reduces pattern clarity
+**Pro Tips ✅ :**
+**Use 2-4 high-performing examples for optimal results**: Sweet spot for marketing content
+**Make examples diverse but maintain consistent structure**: Covers edge cases while staying on-brand
+**Include technical features and premium services**: Handles complex product descriptions
 
 ### Solution CTA
 Unlock Solution 

@@ -74,18 +74,14 @@ The capstone challenge integrates all 30 days of prompt engineering mastery into
 2. Develop audience-specific content samples that demonstrate advanced prompt engineering capabilities
 3. Build quality assurance and performance optimization frameworks using troubleshooting and measurement techniques
 
-**Common Pitfalls:**
-❌ **Trying to use all 30 techniques in every prompt**: Use techniques strategically where they add value
-❌ **Not maintaining brand consistency across complex campaigns**: Integrate brand voice into every prompt systematically
-✅ **Focus on strategic integration of complementary techniques**: Combine techniques that work well together
-✅ **Maintain quality standards throughout complex campaigns**: Use troubleshooting and measurement frameworks consistently
+**Common Pitfalls ❌ :**
+**Trying to use all 30 techniques in every prompt**: Use techniques strategically where they add value
+**Not maintaining brand consistency across complex campaigns**: Integrate brand voice into every prompt systematically
 
-**Pro Tips:**
-✅ **Start with strategic foundation before adding complexity**: Build campaigns systematically from core value propositions
-✅ **Use advanced techniques for complex challenges**: Apply sophistication where it delivers clear business value
-✅ **Create reusable frameworks for future campaigns**: Document successful integration patterns for scaling
-❌ **Don't sacrifice quality for complexity**: Maintain high standards while demonstrating advanced capabilities
-❌ **Don't forget performance measurement**: Include testing and optimization in your capstone demonstration
+**Pro Tips ✅ :**
+**Start with strategic foundation before adding complexity**: Build campaigns systematically from core value propositions
+**Use advanced techniques for complex challenges**: Apply sophistication where it delivers clear business value
+**Create reusable frameworks for future campaigns**: Document successful integration patterns for scaling 
 
 ### Solution CTA
-Master Integration 
+Unlock Solution 

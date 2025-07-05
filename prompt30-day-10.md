@@ -62,18 +62,14 @@ Zero-Shot Prompting taps into the AI's pre-trained knowledge base, making it ide
 2. Create educational content about internet technology for enterprise clients
 3. Develop thought leadership content on telecommunications topics
 
-**Common Pitfalls:**
-❌ **Asking for proprietary information**: AI can't access company secrets or internal processes
-❌ **Being too vague with instructions**: Provide specific context and requirements
-✅ **Use for well-established concepts**: Perfect for general knowledge and technical explanations
-✅ **Be extra specific about context**: Since you're not providing examples, clarity is crucial
+**Common Pitfalls ❌ :**
+**Asking for proprietary information**: AI can't access company secrets or internal processes
+**Being too vague with instructions**: Provide specific context and requirements
 
-**Pro Tips:**
-✅ **Use zero-shot for well-established concepts and general knowledge**: Leverages AI's training effectively
-✅ **Be extra specific about context since you're not providing examples**: Clarity drives better results
-✅ **Test zero-shot outputs for accuracy before using**: Always verify technical information
-❌ **Don't use zero-shot for highly specialized or proprietary information**: AI lacks company-specific knowledge
-❌ **Don't assume zero-shot will capture your specific brand nuances**: May need additional brand voice instructions
+**Pro Tips ✅ :**
+**Use zero-shot for well-established concepts and general knowledge**: Leverages AI's training effectively
+**Be extra specific about context since you're not providing examples**: Clarity drives better results
+**Test zero-shot outputs for accuracy before using**: Always verify technical information
 
 ### Solution CTA
 Unlock Solution 

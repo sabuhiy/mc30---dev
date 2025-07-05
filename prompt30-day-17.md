@@ -75,18 +75,14 @@ Task decomposition transforms overwhelming competitive analysis into focused, ac
 2. Create sequential prompts that build on each other for comprehensive analysis
 3. Test individual components before combining into final strategic recommendations
 
-**Common Pitfalls:**
-❌ **Making subtasks too broad or complex**: Defeats the purpose of decomposition
-❌ **Creating too many tiny tasks that lose context**: Fragments the analysis unnecessarily
-✅ **Each subtask should have a clear, specific goal**: Maintains focus and quality
-✅ **Use outputs from one task to inform the next**: Builds comprehensive understanding
+**Common Pitfalls ❌ :**
+**Making subtasks too broad or complex**: Defeats the purpose of decomposition
+**Creating too many tiny tasks that lose context**: Fragments the analysis unnecessarily
 
-**Pro Tips:**
-✅ **Start with high-level structure, then break down**: Ensures logical flow and coverage
-✅ **Each subtask should have a clear, specific goal**: Maintains focus and quality
-✅ **Test subtasks independently before combining**: Ensures each component works well
-❌ **Don't make subtasks too broad or complex**: Keep them focused and manageable
-❌ **Don't create too many tiny tasks**: Maintain meaningful context and connections
+**Pro Tips ✅ :**
+**Start with high-level structure, then break down**: Ensures logical flow and coverage
+**Each subtask should have a clear, specific goal**: Maintains focus and quality
+**Test subtasks independently before combining**: Ensures each component works well
 
 ### Solution CTA
 Unlock Solution 

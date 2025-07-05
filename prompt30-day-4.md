@@ -68,19 +68,16 @@ Strategic prompt engineering is deliberate, multi-step refinement that considers
 2. Add strategic elements: audience (families vs business), format (decision guide), context (budget concerns)
 3. Compare the basic vs strategic outputs to see the difference
 
-**Common Pitfalls:**
-❌ **Using basic prompts for complex needs**: Simple requests produce generic, unhelpful content
-❌ **Forgetting audience specification**: "Customers" is too broad, "SMBs with 10-50 employees" is strategic
-❌ **Missing business context**: Generic comparisons don't address real decision factors
-✅ **Defining clear audience**: Specific demographics produce targeted content
-✅ **Adding business context**: Including concerns like ROI and productivity drives better output
-✅ **Specifying format requirements**: "Decision guide" creates structured, usable content
+**Common Pitfalls ❌ :**
+**Using basic prompts for complex needs**: Simple requests produce generic, unhelpful content
+**Forgetting audience specification**: "Customers" is too broad, "SMBs with 10-50 employees" is strategic
+**Missing business context**: Generic comparisons don't address real decision factors
 
-**Pro Tips:**
-✅ **Layer strategic elements**: Add audience + context + format + goals for maximum impact
-✅ **Think like your end user**: What concerns and questions does your audience actually have?
-✅ **Include business outcomes**: ROI, productivity, cost-effectiveness resonate with business buyers
-✅ **Test both approaches**: Always compare basic vs strategic prompts to see the transformation
+**Pro Tips ✅ :**
+**Layer strategic elements**: Add audience + context + format + goals for maximum impact
+**Think like your end user**: What concerns and questions does your audience actually have?
+**Include business outcomes**: ROI, productivity, cost-effectiveness resonate with business buyers
+**Test both approaches**: Always compare basic vs strategic prompts to see the transformation
 
 ### Solution CTA
 Unlock Solution 
