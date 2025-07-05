@@ -52,19 +52,16 @@ A good prompt is clear, specific, and gives the AI enough context to understand 
 2. Test it 3 times to check consistency
 3. Refine based on the quality of outputs
 
-**Common Pitfalls:**
-❌ **Being too vague**: "Write something about internet"
-❌ **No context provided**: "Create marketing content"
-❌ **Forgetting to test consistency**: Using untested prompts
-✅ **Clear and specific**: "Write a short marketing message for NextMobile's fiber service"
-✅ **Include relevant context**: Mention product name and target audience
-✅ **Test multiple times**: Ensure reliable, consistent results
+**Common Pitfalls ❌ :**
+**Being too vague**: "Write something about internet"
+**No context provided**: "Create marketing content"
+**Forgetting to test consistency**: Using untested prompts
 
-**Pro Tips:**
-✅ **Be specific about format**: "Write a short marketing message" beats "create content"
-✅ **Include product details**: Always mention the specific service/product by name
-✅ **Test for consistency**: Run your prompt 3 times to ensure reliable results
-✅ **Document successful prompts**: Save effective prompts for future use
+**Pro Tips ✅ :**
+**Be specific about format**: "Write a short marketing message" beats "create content"
+**Include product details**: Always mention the specific service/product by name
+**Test for consistency**: Run your prompt 3 times to ensure reliable results
+**Document successful prompts**: Save effective prompts for future use
 
 ### Solution CTA
 Unlock Solution 

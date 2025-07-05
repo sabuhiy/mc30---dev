@@ -131,15 +131,13 @@ Here's how [technique] works:
 **Try This Yourself:**
 [Simple 1-3 item practice exercise - keep short and actionable]
 
-**Common Pitfalls:**
-❌ **[Specific mistake]**: [Brief explanation]
-❌ **[Another mistake]**: [Brief explanation]
-✅ **[Best practice]**: [Brief explanation]
+**Common Pitfalls ❌ :**
+**[Specific mistake]**: [Brief explanation]
+**[Another mistake]**: [Brief explanation]
 
-**Pro Tips:**
-✅ **[Tip with bold key concept]**: [Specific actionable advice]
-✅ **[Another tip]**: [Specific actionable advice]
-❌ **[Don't do this]**: [Specific advice on what to avoid]
+**Pro Tips ✅ :**
+**[Tip with bold key concept]**: [Specific actionable advice]
+**[Another tip]**: [Specific actionable advice]
 ```
 
 #### Solution CTA

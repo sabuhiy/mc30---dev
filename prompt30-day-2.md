@@ -56,19 +56,16 @@ Prompt engineering involves deliberate refinement and optimization for specific 
 2. Add audience targeting: "for frustrated customers experiencing service issues"
 3. Engineer it with tone and constraints: "empathetic but reassuring, 2-sentence social media response"
 
-**Common Pitfalls:**
-❌ **Over-engineering simple tasks**: Not every prompt needs multiple constraints
-❌ **Conflicting instructions**: "formal yet casual" confuses the AI
-❌ **Vague targeting**: "customers" is too broad, "busy professionals" is specific
-✅ **Clear, specific requirements**: Aligned audience, tone, and format
-✅ **Strategic constraint addition**: Each element serves a specific purpose
-✅ **Testing both versions**: Compare basic vs engineered results
+**Common Pitfalls ❌ :**
+**Over-engineering simple tasks**: Not every prompt needs multiple constraints
+**Conflicting instructions**: "formal yet casual" confuses the AI
+**Vague targeting**: "customers" is too broad, "busy professionals" is specific
 
-**Pro Tips:**
-✅ **Define specific audiences**: "busy professionals" vs "customers" creates different outputs
-✅ **Specify tone clearly**: "professional but enthusiastic" prevents generic corporate speak
-✅ **Add purposeful constraints**: "2-sentence" or "include specific benefits" guides output
-✅ **Test and compare**: Always compare basic vs engineered results to see improvement
+**Pro Tips ✅ :**
+**Define specific audiences**: "busy professionals" vs "customers" creates different outputs
+**Specify tone clearly**: "professional but enthusiastic" prevents generic corporate speak
+**Add purposeful constraints**: "2-sentence" or "include specific benefits" guides output
+**Test and compare**: Always compare basic vs engineered results to see improvement
 
 ### Solution CTA
 Unlock Solution 
