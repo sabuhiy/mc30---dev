@@ -36,11 +36,36 @@ Style prompting is the brand voice adaptation technique - it maintains brand con
 
 Here's how style prompting works:
 
-**Example Prompt:**
+**Example Prompt #1:**
 Write a professional LinkedIn post announcing NextMobile's new business fiber service launch. Use a confident, industry-focused tone that emphasizes productivity gains, cost efficiency, and competitive advantages for business decision-makers. Include specific technical benefits and a clear call-to-action for B2B engagement.
 
-**Example Output:**
-"🚀 NextMobile Business Fiber is transforming how companies connect and compete. With dedicated 10Gbps speeds, 99.9% uptime SLA, and enterprise-grade security, we're empowering businesses to accelerate growth and innovation. Companies report 40% faster file transfers and seamless video conferencing for teams of any size. Ready to leave slow internet in the past? Let's discuss how fiber can drive your competitive advantage. #BusinessFiber #DigitalTransformation #NextMobile"
+**Example Output #1:**
+🚀 NextMobile Business Fiber is transforming how companies connect and compete. With dedicated 10Gbps speeds, 99.9% uptime SLA, and enterprise-grade security, we're empowering businesses to accelerate growth and innovation. Companies report 40% faster file transfers and seamless video conferencing for teams of any size. Ready to leave slow internet in the past? Let's discuss how fiber can drive your competitive advantage. #BusinessFiber #DigitalTransformation #NextMobile
+
+**Analysis:** Professional tone, industry terminology, B2B focus, productivity metrics, formal call-to-action.
+
+**Example Prompt #2:**
+Write a casual Instagram post announcing NextMobile's new business fiber service launch. Use an enthusiastic, relatable tone that appeals to small business owners and entrepreneurs. Include emojis, casual language, and focus on practical benefits that matter to everyday business operations.
+
+**Example Output #2:**
+OMG business owners! 🤯 NextMobile's new fiber is INSANE! 10Gbps = download a movie in 3 seconds ⚡ No more waiting for files to upload while your customers wait! Plus, crystal-clear video calls that actually work (bye bye frozen screens 👋). Your business deserves better internet - upgrade to fiber and watch your productivity skyrocket! 🚀 #SmallBusiness #FiberLife #NextMobile
+
+**Analysis:** Casual tone, emojis, relatable language, practical benefits, informal call-to-action.
+
+**Example Prompt #3:**
+Write a formal email announcement for NextMobile's new business fiber service launch. Use a professional, trustworthy tone suitable for existing customers. Focus on reliability, customer support, and the seamless upgrade process. Include specific details about the transition and support available.
+
+**Example Output #3:**
+Dear Valued NextMobile Customer,
+
+We're excited to announce the launch of our new Business Fiber service, designed to elevate your business connectivity to the next level. With dedicated 10Gbps speeds and 99.9% uptime guarantee, this service ensures your operations remain uninterrupted and efficient.
+
+Our team is ready to guide you through a seamless upgrade process, with dedicated support throughout the transition. We understand that reliable internet is crucial to your business success, and we're committed to providing the exceptional service you've come to expect from NextMobile.
+
+Best regards,
+The NextMobile Team
+
+**Analysis:** Formal tone, customer-focused, emphasis on support and reliability, professional closing.
 
 **Style Comparison Examples:**
 - **LinkedIn Professional**: "NextMobile Business Fiber is transforming how companies connect and compete..."

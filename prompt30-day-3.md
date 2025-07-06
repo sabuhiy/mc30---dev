@@ -38,16 +38,27 @@ Iterative refinement is the systematic improvement process - it transforms good 
 
 Here's how iterative refinement works:
 
-**Example Prompt:**
-Create an empathetic Instagram post acknowledging customer concerns about wait times while highlighting NextMobile's new customer service improvements. Include specific solutions like reduced wait times, expanded support hours, and new callback features. Use a sincere, customer-focused tone and include relevant hashtags.
+**Example Prompt #1:**
+Write a social media response about NextMobile's 24/7 customer service support.
 
-**Example Output:**
+**Example Output #1:**
+NextMobile offers 24/7 customer service support. We're here to help you anytime you need assistance with your service.
+
+**Analysis:** Generic response, doesn't address the specific wait time complaints, no acknowledgment of customer concerns, lacks empathy and specific improvements.
+
+**Example Prompt #2:**
+Write a social media response addressing customer complaints about long wait times while highlighting NextMobile's 24/7 support and recent service improvements. Show empathy for customer concerns.
+
+**Example Output #2:**
+We understand your frustration with long wait times, and we're working hard to improve your experience. NextMobile's 24/7 support team has been expanded, and we've implemented new systems to reduce wait times. We're committed to providing better service for all our customers.
+
+**Analysis:** Better empathy and acknowledgment of the problem, but still lacks specific improvements and could be more engaging for social media.
+
+**Example Prompt #3:**
+Create an empathetic Instagram post addressing customer complaints about long wait times while highlighting NextMobile's specific service improvements. Include concrete solutions like reduced wait times by 60%, expanded support hours, and new callback features. Use a sincere, customer-focused tone and include relevant hashtags. Make it engaging and actionable.
+
+**Example Output #3:**
 We hear you, and we're making changes! 🎧 NextMobile has reduced average wait times by 60% and expanded our support team. New features: instant callback, live chat, and 24/7 priority support for urgent issues. Your time matters to us! 💙 #NextMobile #CustomerFirst #ImprovedService #WeListened
-
-**Refinement Process Shown:**
-- **First Attempt**: "Create a social media post about NextMobile's customer service improvements"
-- **Analysis**: Generic, no acknowledgment of customer concerns, missing specifics
-- **Refined Version**: Added empathy, specific improvements, customer-focused tone, and hashtags
 
 **Key Insight:**
 Iterative refinement follows a simple cycle: Generate → Analyze → Improve → Repeat. Each iteration gets you closer to your ideal output by systematically addressing weaknesses and adding strategic improvements.

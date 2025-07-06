@@ -38,10 +38,18 @@ Strategic prompt engineering is the deliberate optimization technique - it trans
 
 Here's how strategic prompting works:
 
-**Example Prompt:**
+**Example Prompt #1:**
+Compare NextMobile's fiber and cable internet plans.
+
+**Example Output #1:**
+NextMobile offers both fiber and cable internet options. Fiber internet provides faster speeds and better reliability compared to cable. Cable internet is more widely available and often more affordable. Both options include customer support and installation services.
+
+**Analysis:** Generic comparison, no specific audience, lacks business context, missing detailed analysis, no decision-making guidance.
+
+**Example Prompt #2:**
 Create a comprehensive comparison guide between NextMobile's fiber and cable internet plans specifically for small to medium businesses with 10-50 employees. Include detailed analysis of speed, reliability, scalability, cost-effectiveness, and business continuity features. Use professional language that addresses common business concerns like productivity, remote work support, and ROI. Format as a decision-making guide that helps business owners choose the right solution for their specific needs.
 
-**Example Output:**
+**Example Output #2:**
 **NextMobile Business Internet: Fiber vs Cable Comparison Guide**
 
 **For SMBs (10-50 Employees)**

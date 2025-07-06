@@ -38,16 +38,27 @@ Role prompting is the persona assignment technique - it transforms AI communicat
 
 Here's how role prompting works:
 
-**Example Prompt:**
+**Example Prompt #1:**
+As a NextMobile network engineer with 15 years of telecommunications experience, explain our 5G network benefits to a technical audience who understands network infrastructure and wants detailed specifications.
+
+**Example Output #1:**
+NextMobile's 5G network leverages millimeter wave (mmWave) technology operating at 24-39 GHz frequencies, delivering ultra-low latency of under 10ms and peak download speeds of 2Gbps. Our implementation utilizes massive MIMO arrays with 64x64 antenna configurations, enabling simultaneous connections for up to 1 million devices per square kilometer. The network architecture incorporates edge computing nodes to reduce latency for real-time applications, with 99.9% uptime SLA guarantees for enterprise customers.
+
+**Analysis:** Technical language, detailed specifications, professional tone, assumes technical knowledge.
+
+**Example Prompt #2:**
 As a friendly NextMobile customer service representative, explain our 5G benefits to a general consumer who wants to understand practical benefits.
 
-**Example Output:**
+**Example Output #2:**
 I'm excited to tell you about our amazing 5G network! You'll experience incredibly fast downloads - think downloading a movie in under 30 seconds, crystal-clear video calls with no lag, and virtually no waiting time when browsing. It's perfect for streaming, gaming, and staying connected with family, especially when everyone's online at the same time!
 
-**Role Comparison Examples:**
-- **Technical Expert Role**: "NextMobile's 5G network utilizes millimeter wave technology and massive MIMO arrays to deliver ultra-low latency under 10ms..."
-- **Customer Service Role**: "I'm excited to tell you about our amazing 5G network! You'll experience incredibly fast downloads..."
-- **Early Adopter Role**: "OMG, NextMobile's 5G is absolutely game-changing! Just downloaded an entire season in 2 minutes 🤯 #5GLife #NextMobile"
+**Analysis:** Friendly tone, practical benefits, relatable examples, consumer-focused language.
+
+**Example Prompt #3:**
+As a tech-savvy early adopter and social media influencer who loves cutting-edge technology, explain NextMobile's 5G benefits to your followers in an enthusiastic, relatable way.
+
+**Example Output #3:**
+OMG, NextMobile's 5G is absolutely game-changing! 🤯 Just downloaded an entire season of my favorite show in 2 minutes - no joke! The speed is INSANE! Plus, my video calls are so crystal clear, it's like everyone's in the same room. If you're still on 4G, you're missing out on the future! #5GLife #NextMobile #TechGoals #SpeedDemon
 
 **Key Insight:**
 Role prompting allows you to match communication style to your audience and context perfectly. The AI adopts the knowledge level, vocabulary, and tone appropriate for each assigned role, creating authentic, audience-specific content.

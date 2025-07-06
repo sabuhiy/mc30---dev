@@ -36,7 +36,7 @@ In-Context Learning (ICL) is incredibly powerful - it allows AI to "learn" from 
 
 Here's how In-Context Learning works:
 
-**Example Prompt:**
+**Example Prompt #1:**
 Generate NextMobile customer success stories for our website testimonials section using these high-converting examples as patterns:
 
 Story 1: "Sarah, a freelance designer, struggled with slow uploads until NextMobile's fiber internet transformed her workflow. Now she delivers projects 3x faster and has expanded her client base."
@@ -45,11 +45,38 @@ Story 2: "The Martinez family was constantly fighting over bandwidth until NextM
 
 Now create a similar success story for: A small business owner who needed reliable internet for video conferences.
 
-**Example Output:**
+**Example Output #1:**
 "Mike, who runs a consulting firm, was losing clients due to dropped video calls and poor connection quality. Since switching to NextMobile's business fiber, he's closed 40% more deals and his professional reputation has soared."
 
-**Key Insight:**
-ICL enables the AI to recognize and replicate conversion-focused patterns without explicit instructions. The AI learned the testimonial structure (relatable person + specific problem + NextMobile solution + quantifiable outcome) and applied it to create new customer stories that maintain the same persuasive impact.
+**Analysis:** ICL pattern: relatable person + specific problem + NextMobile solution + quantifiable outcome. AI learned testimonial structure without explicit instructions.
+
+**Example Prompt #2:**
+Create NextMobile residential customer testimonials using these emotional, family-focused examples as your guide:
+
+Example 1: "As a mom of three, I was constantly worried about my kids' online safety. NextMobile's parental controls give me peace of mind while keeping everyone connected."
+
+Example 2: "Our family movie nights were ruined by buffering. NextMobile's 5G made streaming seamless - now we actually enjoy our time together."
+
+Generate a similar testimonial for: A family dealing with multiple devices and slow WiFi.
+
+**Example Output #2:**
+"With four teenagers and their devices, our WiFi was a nightmare. NextMobile's whole-home WiFi coverage eliminated dead zones and restored family harmony. Now everyone can stream, game, and study without fighting over bandwidth."
+
+**Analysis:** ICL pattern: family context + relatable problem + emotional benefit + relationship improvement. AI recognized emotional storytelling structure.
+
+**Example Prompt #3:**
+Generate NextMobile business testimonials using these ROI-focused examples as templates:
+
+Template 1: "Downtime was costing us $500/hour. NextMobile's 99.9% uptime guarantee saved us $15,000 last quarter alone."
+
+Template 2: "Our remote team couldn't collaborate effectively. NextMobile's business fiber enabled seamless video conferencing, increasing productivity by 35%."
+
+Create a similar testimonial for: A retail business needing reliable POS systems and customer WiFi.
+
+**Example Output #3:**
+"Our POS system crashes were losing us customers and sales. NextMobile's business internet keeps our registers running smoothly and provides fast WiFi for customers. Sales increased 25% since the upgrade, and customer satisfaction scores are at an all-time high."
+
+**Analysis:** ICL pattern: business problem + financial impact + NextMobile solution + measurable results. AI learned ROI-focused business testimonial structure.
 
 **Try This Yourself:**
 1. Create 2-3 high-converting testimonial examples for NextMobile's residential service

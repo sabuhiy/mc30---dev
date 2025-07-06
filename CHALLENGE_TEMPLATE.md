@@ -168,6 +168,13 @@ Here's how [technique] works:
 - Solution must directly address the challenge scenario
 - Practice exercises should reinforce the core concept
 
+### **Multi-Prompt Requirements**
+- If a challenge solution requires more than one prompt, include multiple prompts
+- Number multiple prompts sequentially: **Example Prompt #1:**, **Example Prompt #2:**
+- Number corresponding outputs: **Example Output #1:**, **Example Output #2:**
+- Each prompt should demonstrate different aspects or variations of the technique
+- Multiple prompts should build complexity or show progression within the same challenge
+
 ### **AI-Focused Requirements**
 - Resource links should emphasize AI applications when possible
 - Content should be specific to prompt engineering, not general marketing
@@ -200,6 +207,14 @@ Here's how [technique] works:
 - [ ] "Try This Yourself" is short and simple
 - [ ] Common pitfalls and pro tips are specific and actionable
 - [ ] Solution CTA is 3 words or fewer
+
+**Multi-Prompt Validation:**
+- [ ] Check challenge description to see if it required multiple prompts
+- [ ] If challenge requires multiple prompts, they are included
+- [ ] Multiple prompts are numbered sequentially (#1, #2, etc.)
+- [ ] Corresponding outputs are numbered to match prompts
+- [ ] Each prompt demonstrates different aspects of the technique
+- [ ] Multiple prompts show progression or complexity within the challenge
 
 **Content Quality:**
 - [ ] Challenge is realistic and relevant to technique

@@ -36,10 +36,10 @@ Output Formatting is incredibly powerful - it transforms raw AI content into per
 
 Here's how Output Formatting works:
 
-**Example Prompt:**
+**Example Prompt #1:**
 Create a formatted comparison chart between NextMobile's fiber and cable internet plans for website visitors who are choosing their internet service. Use a clear table format with the following structure: Feature | NextMobile Fiber | NextMobile Cable | Best For. Include key comparison points that matter most to customers: speed, reliability, price, installation, and long-term value. Make it easy to scan and highlight the advantages of each option.
 
-**Example Output:**
+**Example Output #1:**
 | Feature | NextMobile Fiber | NextMobile Cable | Best For |
 |---------|------------------|------------------|----------|
 | **Download Speed** | Up to 1Gbps | Up to 300Mbps | Heavy users, 4K streaming |
@@ -49,6 +49,58 @@ Create a formatted comparison chart between NextMobile's fiber and cable interne
 | **Monthly Cost** | $79.99 | $59.99 | Budget-conscious customers |
 | **Installation** | Professional setup | Self-install option | Quick setup needs |
 | **Long-term Value** | Future-proof technology | Established infrastructure | Tech enthusiasts vs. stability seekers |
+
+**Analysis:** Clear table structure, side-by-side comparison, scannable format, decision-making focus.
+
+**Example Prompt #2:**
+Create an FAQ format for NextMobile's most common installation questions that customers ask before choosing internet service. Use a Q&A structure with clear, concise answers. Include questions about installation time, technician requirements, equipment needed, and what customers should prepare. Format each answer to be easily readable and actionable.
+
+**Example Output #2:**
+**Q: How long does NextMobile installation take?**
+A: Fiber installation typically takes 2-4 hours, while cable installation takes 1-2 hours. Our technicians will provide an exact timeframe during scheduling.
+
+**Q: Do I need to be home during installation?**
+A: Yes, an adult (18+) must be present for the entire installation. This ensures proper setup and allows you to ask questions about your new service.
+
+**Q: What equipment will NextMobile provide?**
+A: We provide a modem/router combo unit, installation cables, and any necessary wall mounting hardware. No additional equipment purchase required.
+
+**Q: How should I prepare for installation day?**
+A: Clear the installation area, ensure power outlets are accessible, and have your ID ready for technician verification. For fiber installations, ensure access to your home's utility room.
+
+**Analysis:** Q&A structure, customer-focused questions, actionable answers, preparation guidance.
+
+**Example Prompt #3:**
+Create a checklist format for customers preparing for their NextMobile internet service upgrade. Use a structured checklist with checkboxes that customers can follow step-by-step. Include pre-installation tasks, installation day requirements, and post-installation setup steps. Make it easy to track progress and ensure nothing is missed.
+
+**Example Output #3:**
+## NextMobile Internet Installation Checklist
+
+### Pre-Installation (1-2 days before)
+- [ ] Confirm installation appointment time and date
+- [ ] Clear installation area of furniture and obstacles
+- [ ] Ensure power outlets are accessible and working
+- [ ] Have valid photo ID ready for technician
+- [ ] Plan for 2-4 hours of installation time
+- [ ] Notify household members about installation
+
+### Installation Day
+- [ ] Adult (18+) present for entire installation
+- [ ] Technician arrives and shows ID
+- [ ] Installation area is accessible
+- [ ] Ask questions about service features
+- [ ] Test internet connection with technician
+- [ ] Receive equipment and setup instructions
+
+### Post-Installation
+- [ ] Connect devices to new network
+- [ ] Update WiFi passwords on all devices
+- [ ] Test streaming and video calls
+- [ ] Download NextMobile app for account management
+- [ ] Set up automatic bill payments
+- [ ] Contact support if any issues arise
+
+**Analysis:** Step-by-step checklist, time-based organization, actionable items, progress tracking.
 
 **Key Insight:**
 Output Formatting transforms raw information into structured, customer-focused content. The right format helps customers make informed decisions by presenting complex technical information in a scannable, easy-to-understand format that highlights what matters most to them.

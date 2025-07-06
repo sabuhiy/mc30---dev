@@ -11,8 +11,10 @@
 <p class="mb-0">NextMobile business scenario explaining the marketing challenge and what needs to be accomplished. This field contains the main challenge description with HTML formatting.</p>
 ```
 
-### Challenge Task (`_detail` meta field)
+### Challenge Detail (`_detail` meta field)
 ```html
+<p>Learning context and technique explanation that builds on previous days and introduces the current technique. This section provides background information and sets up the learning progression.</p>
+
 <h5>Task</h5>
 <p>Specific task instructions for applying the technique to the NextMobile scenario. Clear, actionable instructions for the challenge.</p>
 ```
@@ -20,8 +22,8 @@
 ### Resources (`_resources` meta field)
 ```html
 <ul>
-<li><a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank">Primary Resource Title - Authority Source</a></li>
-<li><a href="https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback" target="_blank">Secondary Resource Title - Different Authority</a></li>
+<li><a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank"  class="text-secondary">Primary Resource Title - Authority Source</a></li>
+<li><a href="https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback" target="_blank"  class="text-secondary">Secondary Resource Title - Different Authority</a></li>
 </ul>
 ```
 
@@ -31,14 +33,34 @@
 
 <p>Here's how <strong>Technique Name</strong> works:</p>
 
-<div class="p-4 bg-white my-5 rounded-4">
-    <div class="bg-light ms-5 p-4 rounded-4">
-        Detailed example prompt with NextMobile context and specific instructions for AI.
-    </div>
-    <div class="mt-4">
-        AI-generated response showing the technique in action with realistic marketing content.
-    </div>  
+<!-- Prompt Layout starts -->
+<div class="p-5 bg-white my-5 rounded-4 border border-1">
+    <!-- Prompt #1 starts -->
+	<div class="row">
+	  <div class="col-10 offset-2">
+	  	<div class="bg-light p-4 rounded-4">
+			Write a short marketing message for NextMobile's new high-speed fiber internet service that highlights the main benefits for home users.
+		</div>
+	  </div>			
+	</div>
+	<!-- Prompt #1 ends -->
+	<!-- Prompt Output #1 starts -->
+	<div class="row mt-5">
+	  <div class="col-1">
+		<span class="svg-icon svg-icon-sm text-primary" data-bs-toggle="tooltip" data-bs-placement="top" aria-label="abs/abs046.svg" data-bs-original-title="abs/abs046.svg">
+		<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M8 22C7.4 22 7 21.6 7 21V9C7 8.4 7.4 8 8 8C8.6 8 9 8.4 9 9V21C9 21.6 8.6 22 8 22Z" fill="#035A4B"></path>
+		<path opacity="0.3" d="M4 15C3.4 15 3 14.6 3 14V6C3 5.4 3.4 5 4 5C4.6 5 5 5.4 5 6V14C5 14.6 4.6 15 4 15ZM13 19V3C13 2.4 12.6 2 12 2C11.4 2 11 2.4 11 3V19C11 19.6 11.4 20 12 20C12.6 20 13 19.6 13 19ZM17 16V5C17 4.4 16.6 4 16 4C15.4 4 15 4.4 15 5V16C15 16.6 15.4 17 16 17C16.6 17 17 16.6 17 16ZM21 18V10C21 9.4 20.6 9 20 9C19.4 9 19 9.4 19 10V18C19 18.6 19.4 19 20 19C20.6 19 21 18.6 21 18Z" fill="#035A4B"></path>
+		</svg>
+		</span>
+	  </div>
+	  <div class="col-11">
+	  Experience lightning-fast internet with NextMobile's new fiber service. Stream 4K movies, game without lag, and work from home seamlessly. Our fiber connection delivers speeds up to 1GB - that's 10x faster than standard broadband. Upgrade today and feel the difference!
+	  </div>			
+	</div>
+	<!-- Prompt Output #1 ends -->
 </div>
+<!-- Prompt Layout ends -->
 
 <h5>Key Insight</h5>
 <p>One-sentence summary of why this technique is valuable for marketing professionals and how it impacts business results.</p>
@@ -46,24 +68,23 @@
 <h5>Try This Yourself</h5>
 <p>Test these variations and see how small changes affect the output:</p>
 <ul>
-<li class="mb-2">"Specific variation 1 with NextMobile context and different target audience."</li>
-<li class="mb-2">"Specific variation 2 with NextMobile context and different channel focus."</li>
+<li class="mb-1">Specific variation 1 with NextMobile context and different target audience.</li>
+<li class="mb-1">Specific variation 2 with NextMobile context and different channel focus.</li>
 </ul>
 
-<h5>Common Pitfalls</h5>
-<ul class="list-unstyled">
-	<li class="mb-2"><span class="small">❌</span> Being too vague: "Generic bad example"</li>
-	<li class="mb-2"><span class="small">❌</span> No context: "Another common mistake"</li>
-	<li class="mb-2"><span class="small">✅</span> Clear and specific: "Good example with NextMobile context"</li>
-	<li class="mb-2"><span class="small">✅</span> Target specific audiences: "Another best practice example"</li>
+<h5>Common Pitfalls ❌</h5>
+<ul>
+<li class="mb-1"><b>Being too vague:</b> "Write something about internet"</li>
+<li class="mb-1"><b>No context provided:</b> "Create marketing content"</li>
+<li class="mb-1"><b>Forgetting to test consistency:</b> Using untested prompts</li>
 </ul>
 
-<h5>Pro Tips</h5>
-<ul class="list-unstyled">
-	<li class="mb-2"><span class="small">✅</span> Be specific about format: "Write a short marketing message" beats "create content"</li>
-	<li class="mb-2"><span class="small">✅</span> Include product details: "Always mention the specific service/product by name"</li>
-	<li class="mb-2"><span class="small">✅</span> Test for consistency: Run your prompt 3 times to ensure reliable results</li>
-	<li class="mb-2"><span class="small">✅</span> Document successful prompts: Save effective prompts for future use</li>
+<h5>Pro Tips ✅</h5>
+<ul>
+<li class="mb-1"><b>Be specific about format:</b> "Write a short marketing message" beats "create content"</li>
+<li class="mb-1"><b>Include product details:</b> Always mention the specific service/product by name</li>
+<li class="mb-1"><b>Test for consistency:</b> Run your prompt 3 times to ensure reliable results</li>
+<li class="mb-1"><b>Document successful prompts:</b> Save effective prompts for future use</li>
 </ul>
 ```
 
@@ -141,7 +162,7 @@ Day X - Technique Name
 | Content Section | Database Field | Field Type | HTML Structure |
 |----------------|---------------|------------|----------------|
 | Challenge Description | `_description` | wp_postmeta | Simple paragraph with HTML |
-| Task Instructions | `_detail` | wp_postmeta | H5 + paragraph structure |
+| Challenge Detail | `_detail` | wp_postmeta | Paragraph + H5 + paragraph structure |
 | Resource Links | `_resources` | wp_postmeta | Unordered list with links |
 | Solution Content | `_solution` | wp_postmeta | Semantic HTML with headings and lists |
 | Main Description | `post_content` | wp_posts | Plain text with line breaks |
@@ -159,29 +180,56 @@ Day X - Technique Name
 
 ### Example Prompt/Output Structure
 ```html
-<div class="p-4 bg-white my-5 rounded-4">
-    <div class="bg-light ms-5 p-4 rounded-4">
-        [PROMPT_TEXT]
-    </div>
-    <div class="mt-4">
-        [OUTPUT_TEXT]
-    </div>  
+<!-- Prompt Layout starts -->
+<div class="p-5 bg-white my-5 rounded-4 border border-1">
+    <!-- Prompt #1 starts -->
+	<div class="row">
+	  <div class="col-10 offset-2">
+	  	<div class="bg-light p-4 rounded-4">
+			[PROMPT_TEXT]
+		</div>
+	  </div>			
+	</div>
+	<!-- Prompt #1 ends -->
+	<!-- Prompt Output #1 starts -->
+	<div class="row mt-5">
+	  <div class="col-1">
+		<span class="svg-icon svg-icon-sm text-primary" data-bs-toggle="tooltip" data-bs-placement="top" aria-label="abs/abs046.svg" data-bs-original-title="abs/abs046.svg">
+		<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M8 22C7.4 22 7 21.6 7 21V9C7 8.4 7.4 8 8 8C8.6 8 9 8.4 9 9V21C9 21.6 8.6 22 8 22Z" fill="#035A4B"></path>
+		<path opacity="0.3" d="M4 15C3.4 15 3 14.6 3 14V6C3 5.4 3.4 5 4 5C4.6 5 5 5.4 5 6V14C5 14.6 4.6 15 4 15ZM13 19V3C13 2.4 12.6 2 12 2C11.4 2 11 2.4 11 3V19C11 19.6 11.4 20 12 20C12.6 20 13 19.6 13 19ZM17 16V5C17 4.4 16.6 4 16 4C15.4 4 15 4.4 15 5V16C15 16.6 15.4 17 16 17C16.6 17 17 16.6 17 16ZM21 18V10C21 9.4 20.6 9 20 9C19.4 9 19 9.4 19 10V18C19 18.6 19.4 19 20 19C20.6 19 21 18.6 21 18Z" fill="#035A4B"></path>
+		</svg>
+		</span>
+	  </div>
+	  <div class="col-11">
+	  	[OUTPUT_TEXT]
+	  </div>			
+	</div>
+	<!-- Prompt Output #1 ends -->
 </div>
+<!-- Prompt Layout ends -->
 ```
 
 ### Common Pitfalls Section
 ```html
-<h5>Common Pitfalls</h5>
-<ul class="list-unstyled">
-	<li class="mb-2"><span class="small">❌</span> [PITFALL_DESCRIPTION]</li>
-	<li class="mb-2"><span class="small">✅</span> [BEST_PRACTICE_DESCRIPTION]</li>
+<h5>Common Pitfalls ❌</h5>
+<ul>
+	<li class="mb-1">[PITFALL_DESCRIPTION]</li>
+</ul>	
+```
+
+### Pro Tips Section
+```html
+<h5>Pro Tips ✅</h5>
+<ul>
+	<li class="mb-1">[PROTIP_DESCRIPTION]</li>
 </ul>	
 ```
 
 ### Resource List Structure
 ```html
 <ul>
-<li><a href="[URL]" target="_blank">[TITLE] - [SOURCE]</a></li>
+<li><a href="[URL]" target="_blank" class="text-secondary">[TITLE] - [SOURCE]</a></li>
 </ul>
 ```
 
@@ -190,8 +238,8 @@ Day X - Technique Name
 <h5>Try This Yourself</h5>
 <p>Test these variations and see how small changes affect the output:</p>
 <ul>
-<li class="mb-2">"[VARIATION_1]"</li>
-<li class="mb-2">"[VARIATION_2]"</li>
+<li class="mb-1">[VARIATION_1]</li>
+<li class="mb-1">[VARIATION_2]</li>
 </ul>
 ```
 
