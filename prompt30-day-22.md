@@ -38,10 +38,10 @@ Video Content Optimization is incredibly powerful - it requires platform-specifi
 
 Here's how Video Content Optimization works:
 
-**Example Prompt (YouTube):**
+**Example Prompt #1:**
 Create a 3-minute YouTube explainer video script about NextMobile's fiber internet benefits. Target: homeowners considering internet upgrades. Include hook (0-15 seconds), problem identification (15-60 seconds), solution demonstration (60-150 seconds), and call-to-action (150-180 seconds). Use conversational tone and include visual cues.
 
-**Example Output (YouTube):**
+**Example Output #1:**
 **Hook (0-15 seconds):**
 "If you're tired of your family fighting over internet speed, this video will change everything. I'm about to show you how NextMobile fiber eliminates bandwidth battles forever."
 
@@ -54,10 +54,12 @@ Create a 3-minute YouTube explainer video script about NextMobile's fiber intern
 **Call-to-Action (150-180 seconds):**
 "Ready to end your internet frustrations? Click the link below to check if NextMobile fiber is available in your area."
 
-**Example Prompt (TikTok):**
+This YouTube approach uses a structured explainer format with clear time markers, conversational tone, and educational content that appeals to homeowners seeking detailed information about internet upgrades.
+
+**Example Prompt #2:**
 Create a 30-second TikTok video script showing NextMobile's 5G speed. Make it trendy, visual, and shareable with current TikTok trends. Include hook (0-3 seconds), visual demonstration (3-20 seconds), and payoff (20-30 seconds). Use trending audio suggestions and hashtags.
 
-**Example Output (TikTok):**
+**Example Output #2:**
 **Hook (0-3 seconds):**
 "POV: You're still waiting for your old internet to load"
 
@@ -70,6 +72,26 @@ Create a 30-second TikTok video script showing NextMobile's 5G speed. Make it tr
 "When you upgrade to NextMobile 5G and become that person who never has connection problems"
 *Trending audio/music*
 #NextMobile #5G #InternetUpgrade #TechTok
+
+This TikTok approach leverages trending formats, visual comparisons, and platform-specific language to create shareable content that appeals to younger, trend-conscious audiences.
+
+**Example Prompt #3:**
+Create a 15-second Instagram Story script promoting NextMobile's family plans. Use Instagram's vertical format, include interactive elements like polls or questions, and make it feel personal and relatable. Focus on visual storytelling with minimal text.
+
+**Example Output #3:**
+**Visual Setup (0-3 seconds):**
+*Split screen showing family members on different devices*
+
+**Main Message (3-12 seconds):**
+"Your family deserves better internet"
+*Shows speed test comparison*
+"NextMobile keeps everyone connected"
+
+**Interactive Element (12-15 seconds):**
+*Poll sticker: "How many devices does your family use?"*
+"Tap to see if NextMobile is right for your family"
+
+This Instagram Story approach uses vertical storytelling, interactive elements, and personal messaging to create engaging, swipeable content that feels native to Instagram's ephemeral format.
 
 **Key Insight:**
 Video content prompting requires platform-specific strategies that account for audience behavior, content format, and engagement patterns unique to each video platform to create compelling scripts that feel native to each platform while maintaining brand consistency.

@@ -38,7 +38,7 @@ Advanced Prompt Libraries are incredibly powerful - they transform individual pr
 
 Here's how Advanced Prompt Libraries work:
 
-**Example Prompt Library Template (Social Media):**
+**Example Prompt Library Template #1:**
 ```
 [SOCIAL MEDIA - INSTAGRAM]
 Purpose: Product announcement
@@ -48,7 +48,9 @@ Last Updated: [DATE]
 Performance Notes: [RESULTS FROM TESTING]
 ```
 
-**Example Prompt Library Template (Customer Communication):**
+This social media template provides a standardized structure for Instagram content creation, ensuring consistent brand voice and performance tracking across all product announcements.
+
+**Example Prompt Library Template #2:**
 ```
 [CUSTOMER COMMUNICATION - SUPPORT]
 Purpose: Technical troubleshooting
@@ -58,7 +60,9 @@ Last Updated: [DATE]
 Performance Notes: [CUSTOMER FEEDBACK]
 ```
 
-**Example Prompt Library Template (Content Marketing):**
+This customer communication template ensures consistent, empathetic support responses while tracking resolution effectiveness and customer satisfaction metrics.
+
+**Example Prompt Library Template #3:**
 ```
 [CONTENT MARKETING - BLOG]
 Purpose: Educational content
@@ -67,6 +71,8 @@ Success Metrics: Traffic, engagement, conversions
 Last Updated: [DATE]
 Performance Notes: [SEO PERFORMANCE]
 ```
+
+This content marketing template standardizes blog creation while incorporating SEO optimization and performance tracking to improve search visibility and conversions.
 
 **Key Insight:**
 Advanced prompt libraries transform individual prompt engineering successes into scalable, team-wide capabilities that ensure consistent quality and maximize efficiency by providing standardized templates, performance tracking, and systematic organization for proven prompts.
