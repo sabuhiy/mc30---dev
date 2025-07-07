@@ -38,13 +38,10 @@ AI Accuracy Verification is incredibly powerful - it protects businesses from fa
 
 Here's how AI Accuracy Verification works:
 
-**Example Accuracy Verification Prompt:**
+**Example Prompt #1:**
 Review this NextMobile press release for factual accuracy. Identify any specific claims that require verification: statistics and numbers, competitor comparisons, coverage area claims, technical specifications, and timeline commitments. For each claim, indicate: VERIFIED, NEEDS VERIFICATION, or POTENTIALLY FALSE.
 
-**Example NextMobile Press Release Content:**
-"NextMobile's new fiber network delivers 95% coverage across metropolitan area with speeds 50% faster than competitor speeds. Available in Q4 2024 using industry-leading fiber technology."
-
-**Example Verification Output:**
+**Example Output #1:**
 **Claims Analysis:**
 - "95% coverage across metropolitan area" - NEEDS VERIFICATION (requires internal coverage data)
 - "50% faster than competitor speeds" - NEEDS VERIFICATION (requires speed test data)
@@ -56,8 +53,44 @@ Review this NextMobile press release for factual accuracy. Identify any specific
 - Add "according to internal testing" to speed claims
 - Remove "industry-leading" or specify measurable criteria
 
-**Example Hallucination Prevention Prompt:**
+**Analysis:** Systematic fact-checking approach identifies specific claims requiring verification, categorizes risk levels, and provides actionable recommendations for content improvement.
+
+**Example Prompt #2:**
 Create NextMobile marketing content about our fiber internet service. IMPORTANT: Only include factual claims that can be verified. Use hedging language like "up to," "according to testing," or "in many areas" for any performance claims. Avoid superlatives like "fastest" or "best" without specific substantiation.
+
+**Example Output #2:**
+NextMobile's fiber internet service delivers high-speed connectivity for homes and businesses. Our network provides download speeds of up to 1Gbps in many service areas, according to internal testing conducted in 2024. The service features reliable connectivity with 99.9% uptime based on our network monitoring data. Installation typically takes 2-4 hours, depending on location and service requirements. NextMobile's fiber technology offers a modern alternative to traditional cable internet services.
+
+**Analysis:** Hallucination prevention through conservative language, hedging terms, and verifiable claims creates trustworthy content that avoids legal risks while maintaining marketing effectiveness.
+
+**Example Prompt #3:**
+Verify the accuracy of this NextMobile technical specification by cross-referencing with our internal documentation. Check: network speeds, coverage areas, service availability dates, and technical capabilities. If any information cannot be verified, mark it as "UNVERIFIED" and suggest alternative language.
+
+**Example Output #3:**
+**Technical Specification Verification:**
+
+Network Speeds:
+- "Up to 1Gbps download" - VERIFIED (matches internal specs)
+- "Symmetrical upload speeds" - UNVERIFIED (needs confirmation)
+
+Coverage Areas:
+- "Available in 15 major cities" - VERIFIED (confirmed by deployment map)
+- "Expanding to rural areas" - UNVERIFIED (timeline unclear)
+
+Service Availability:
+- "Q4 2024 launch" - VERIFIED (confirmed by project timeline)
+- "24/7 customer support" - VERIFIED (matches current service)
+
+Technical Capabilities:
+- "Fiber-optic infrastructure" - VERIFIED (confirmed by network architecture)
+- "Advanced security protocols" - UNVERIFIED (needs specific details)
+
+**Suggested Revisions:**
+- Replace "symmetrical upload speeds" with "high-speed upload capabilities"
+- Remove "expanding to rural areas" or add specific timeline
+- Replace "advanced security protocols" with "standard security measures"
+
+**Analysis:** Source verification approach systematically checks each claim against internal documentation, identifies unverified information, and provides specific revision recommendations.
 
 **Key Insight:**
 Systematic accuracy verification transforms AI-generated content from potentially risky to trustworthy, protecting NextMobile's reputation and ensuring legal compliance while maintaining efficiency through structured fact-checking processes and verification protocols that catch hallucinations before publication.

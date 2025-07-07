@@ -38,11 +38,10 @@ Multimodal AI Integration is incredibly powerful - it creates cohesive brand exp
 
 Here's how Multimodal AI Integration works:
 
-**Example Unified Creative Brief Prompt:**
+**Example Prompt #1:**
 Create a unified creative brief for NextMobile's 5G launch campaign with these elements: Core message (5G transforms how families connect), Visual theme (warm, connected moments in modern homes), Tone (innovative yet approachable), Key scenes (family video calls, smart home interactions, seamless streaming), Brand colors (NextMobile blue #1E40AF, warm whites, natural wood tones), Emotional goal (excitement about technological possibilities). Then create social media caption, image description, and video script that all reinforce this unified vision.
 
-**Example Coordinated Output:**
-
+**Example Output #1:**
 **Social Media Caption:**
 "Watch the magic happen when your whole family connects seamlessly - from the kids' homework video calls to grandparents joining dinner conversations from across the country. NextMobile 5G makes every moment crystal clear. #FamilyFirst #5GLife"
 
@@ -52,8 +51,49 @@ Create a unified creative brief for NextMobile's 5G launch campaign with these e
 **Video Script Opening:**
 "SCENE: Family gathers around smart TV, seamlessly connecting with grandparents via NextMobile 5G. Multiple devices work simultaneously - tablet, phones, smart home controls - all without lag or interruption."
 
-**Example Multimodal Consistency Check Prompt:**
+**Analysis:** Unified creative brief approach ensures all content elements share the same core message, visual theme, and emotional tone, creating cohesive brand storytelling across all modalities.
+
+**Example Prompt #2:**
+Generate NextMobile 5G campaign content with specific visual-text coordination. Create: 1) A product feature description emphasizing speed and reliability, 2) A corresponding image prompt that visually demonstrates these features, 3) A video scene description that shows the features in action. Ensure all three elements use consistent NextMobile branding and messaging.
+
+**Example Output #2:**
+**Product Description:**
+"NextMobile 5G delivers lightning-fast speeds up to 2Gbps, ensuring your family's devices work flawlessly together. Whether streaming 4K movies, gaming online, or video calling, experience zero buffering and crystal-clear connections that keep everyone connected."
+
+**Image Prompt:**
+"Create a split-screen image showing a modern family room with multiple devices - smart TV streaming 4K content, teenager gaming on console, parent on video call, all connected simultaneously. Use NextMobile blue (#1E40AF) accents and warm lighting. Show speed indicators and connection symbols to emphasize the 5G network's reliability."
+
+**Video Scene:**
+"SCENE: Camera pans across family room showing simultaneous activities - TV streaming 4K movie, teenager gaming without lag, parent on crystal-clear video call, smart home devices responding instantly. Overlay graphics show '2Gbps' and 'Zero Buffering' text. NextMobile logo appears subtly in corner."
+
+**Analysis:** Coordinated content generation ensures visual elements directly support and reinforce textual messaging, creating stronger brand impact through consistent feature demonstration.
+
+**Example Prompt #3:**
 Review this NextMobile campaign for visual and textual consistency: Does the social media caption match the emotional tone of the image description? Do the video scenes support the key message about family connection? Are NextMobile brand colors and themes present across all elements? Identify any disconnects and suggest improvements.
+
+**Example Output #3:**
+**Consistency Analysis:**
+
+**Message Alignment:** ✅ PASS
+- Social caption emphasizes family connection
+- Image shows family video call scenario
+- Video script reinforces family gathering theme
+
+**Brand Consistency:** ✅ PASS
+- NextMobile blue (#1E40AF) mentioned in all elements
+- Warm, approachable tone maintained throughout
+- Family-focused messaging consistent across modalities
+
+**Visual-Text Coordination:** ⚠️ NEEDS IMPROVEMENT
+- Social caption mentions "crystal clear" but image doesn't emphasize video quality
+- Video script mentions "smart home controls" but image description is vague about devices
+
+**Recommended Fixes:**
+- Update image description to emphasize "crystal-clear video call quality"
+- Add specific smart home device details to image prompt
+- Include "seamless connectivity" visual cues in all elements
+
+**Analysis:** Consistency checking approach systematically evaluates multimodal coordination, identifying gaps and ensuring all campaign elements work together harmoniously.
 
 **Key Insight:**
 Multimodal AI integration creates cohesive brand experiences where text, images, and video work together seamlessly, producing more engaging and effective campaigns than isolated content creation by ensuring every element reinforces the same message and brand story through coordinated prompting strategies.

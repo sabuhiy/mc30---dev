@@ -38,7 +38,7 @@ Delimiter Organization is incredibly powerful - it transforms complex customer s
 
 Here's how Delimiter Organization works:
 
-**Example Prompt:**
+**Example Prompt #1 (Triple Equals Delimiters):**
 Handle this NextMobile customer service inquiry:
 
 ===CUSTOMER INFO===
@@ -65,7 +65,7 @@ Needs solution by tomorrow
 
 Create a comprehensive service response.
 
-**Example Output:**
+**Example Output #1:**
 Hi Sarah,
 
 I understand your frustration with the speed drops during peak hours, especially with your video conferences being affected. Here's your immediate action plan:
@@ -86,8 +86,107 @@ As a 2-year Premium customer, I'm adding 1 month service credit and priority sup
 - This week: Network capacity upgrade
 - Follow-up: Service quality check in 3 days
 
-**Key Insight:**
-Delimiters transform complex customer service scenarios into organized, processable information that AI can understand and respond to accurately, reducing confusion and improving response quality for multi-part customer interactions.
+**Analysis:** Triple equals delimiters (===) create strong visual separation that's ideal for complex customer service scenarios with multiple data types, making it easy for AI to distinguish between customer info, technical details, and service requests.
+
+**Example Prompt #2 (Dash Delimiters):**
+Handle this NextMobile customer service inquiry:
+
+---CUSTOMER INFO---
+Name: Sarah Johnson
+Account: Premium Fiber Plan
+Location: Downtown District
+Account Status: Active, 2 years
+
+---SERVICE ISSUE---
+Internet speeds dropping to 50Mbps during peak hours
+Affecting video conferences and streaming
+Started 3 days ago
+
+---TECHNICAL DETAILS---
+Modem: NextMobile FiberMax Pro
+Router: Customer-owned Netgear
+Signal strength: -65dBm
+Last service check: 6 months ago
+
+---CUSTOMER REQUEST---
+Wants immediate resolution
+Considering switching providers
+Needs solution by tomorrow
+
+Create a comprehensive service response.
+
+**Example Output #2:**
+Hi Sarah,
+
+I understand your frustration with the speed drops during peak hours, especially with your video conferences being affected. Here's your immediate action plan:
+
+**Immediate Steps (Today):**
+- Scheduling priority technician visit for tomorrow morning
+- Upgrading your area's network capacity this week
+- Providing temporary mobile hotspot for backup
+
+**Technical Resolution:**
+Your signal strength suggests infrastructure optimization needed. Our technician will check your fiber connection and optimize settings for your customer router.
+
+**Account Protection:**
+As a 2-year Premium customer, I'm adding 1 month service credit and priority support status to your account.
+
+**Timeline:**
+- Tomorrow: Technician visit (8-10 AM)
+- This week: Network capacity upgrade
+- Follow-up: Service quality check in 3 days
+
+**Analysis:** Dash delimiters (---) provide clean, minimal separation that works well for streamlined customer service workflows where you want less visual clutter while maintaining clear section boundaries.
+
+**Example Prompt #3 (Hash Delimiters):**
+Handle this NextMobile customer service inquiry:
+
+### CUSTOMER INFO ###
+Name: Sarah Johnson
+Account: Premium Fiber Plan
+Location: Downtown District
+Account Status: Active, 2 years
+
+### SERVICE ISSUE ###
+Internet speeds dropping to 50Mbps during peak hours
+Affecting video conferences and streaming
+Started 3 days ago
+
+### TECHNICAL DETAILS ###
+Modem: NextMobile FiberMax Pro
+Router: Customer-owned Netgear
+Signal strength: -65dBm
+Last service check: 6 months ago
+
+### CUSTOMER REQUEST ###
+Wants immediate resolution
+Considering switching providers
+Needs solution by tomorrow
+
+Create a comprehensive service response.
+
+**Example Output #3:**
+Hi Sarah,
+
+I understand your frustration with the speed drops during peak hours, especially with your video conferences being affected. Here's your immediate action plan:
+
+**Immediate Steps (Today):**
+- Scheduling priority technician visit for tomorrow morning
+- Upgrading your area's network capacity this week
+- Providing temporary mobile hotspot for backup
+
+**Technical Resolution:**
+Your signal strength suggests infrastructure optimization needed. Our technician will check your fiber connection and optimize settings for your customer router.
+
+**Account Protection:**
+As a 2-year Premium customer, I'm adding 1 month service credit and priority support status to your account.
+
+**Timeline:**
+- Tomorrow: Technician visit (8-10 AM)
+- This week: Network capacity upgrade
+- Follow-up: Service quality check in 3 days
+
+**Analysis:** Hash delimiters (###) create markdown-style headers that are familiar to developers and work well for technical customer service scenarios where the team is comfortable with coding conventions.
 
 **Try This Yourself:**
 1. Create customer service prompts with clear sections using delimiters

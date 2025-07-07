@@ -38,7 +38,7 @@ Exemplar Format Control is incredibly powerful - it allows you to precisely dict
 
 Here's how Exemplar Format Control works:
 
-**Example Prompt (Card Format):**
+**Example Prompt #1 (Card Format):**
 Create a product feature description for NextMobile's Backup Connection service. Use this formatting style:
 
 **5G Ultra Speed**
@@ -47,24 +47,28 @@ Downloads up to 2Gbps • Streaming 4K/8K • Gaming optimized
 Best for: Power users, streamers, businesses
 Available in: Premium, Enterprise plans
 
-**Example Output (Card Format):**
+**Example Output #1 (Card Format):**
 **Backup Connection**
 *Reliability Feature*
 Automatic failover • 99.9% uptime • Zero downtime switching
 Best for: Business users, remote workers, essential services
 Available in: Premium, Enterprise plans
 
-**Example Prompt (FAQ Format):**
+**Analysis:** Card format creates structured, scannable content with clear visual hierarchy using bold headers, italicized categories, and bullet-separated benefits that work well for product comparison pages.
+
+**Example Prompt #2 (FAQ Format):**
 Create a product feature description for NextMobile's Backup Connection service. Use this formatting style:
 
 **Q: What is 5G Ultra Speed?**
 **A:** Our 5G Ultra Speed delivers downloads up to 2Gbps, perfect for 4K/8K streaming and lag-free gaming. Ideal for power users, streamers, and businesses. Available in Premium and Enterprise plans.
 
-**Example Output (FAQ Format):**
+**Example Output #2 (FAQ Format):**
 **Q: What is Backup Connection?**
 **A:** Our Backup Connection provides automatic failover with 99.9% uptime and zero downtime switching. Perfect for business users, remote workers, and essential services. Available in Premium and Enterprise plans.
 
-**Example Prompt (List Format):**
+**Analysis:** FAQ format creates conversational, question-based content that's ideal for customer support pages and knowledge bases, making complex features more accessible through familiar Q&A structure.
+
+**Example Prompt #3 (List Format):**
 Create a product feature description for NextMobile's Backup Connection service. Use this formatting style:
 
 • **Feature:** 5G Ultra Speed
@@ -73,12 +77,14 @@ Create a product feature description for NextMobile's Backup Connection service.
 • **Target Users:** Power users, streamers, businesses
 • **Plans:** Premium, Enterprise
 
-**Example Output (List Format):**
+**Example Output #3 (List Format):**
 • **Feature:** Backup Connection
 • **Category:** Network Reliability
 • **Benefits:** Automatic failover, 99.9% uptime, zero downtime switching
 • **Target Users:** Business users, remote workers, essential services
 • **Plans:** Premium, Enterprise
+
+**Analysis:** List format creates structured, database-friendly content with consistent field labels that's perfect for CMS integration and automated content management systems.
 
 **Key Insight:**
 Exemplar formatting becomes a template that controls exactly how AI structures content for your CMS, ensuring every product description matches your design system and style guide requirements across all platforms.
