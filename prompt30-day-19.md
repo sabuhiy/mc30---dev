@@ -38,27 +38,33 @@ Temperature Control is incredibly powerful - it allows marketing teams to strate
 
 Here's how Temperature Control works:
 
-**Example Prompt (Low Temperature 0.2):**
+**Example Prompt #1:**
 Create a formal explanation of NextMobile's service level agreement for business customers.
 
-**Example Output (Low Temperature):**
+**Example Output #1:**
 NextMobile's Business Service Level Agreement guarantees 99.9% network uptime, with compensation for any downtime exceeding 0.1% monthly. Our commitment includes 24/7 technical support, priority network maintenance, and dedicated account management for all business customers.
 
-**Example Prompt (Medium Temperature 0.6):**
+This low temperature (0.2) output provides consistent, professional language perfect for formal business communications and legal documentation.
+
+**Example Prompt #2:**
 Create a social media post about NextMobile's network reliability.
 
-**Example Output (Medium Temperature):**
+**Example Output #2:**
 "Your connection is only as strong as your provider's commitment. NextMobile's 99.9% uptime isn't just a number - it's our promise that your business never stops, your streams never buffer, and your family stays connected. #ReliableConnection #NextMobile"
 
-**Example Prompt (High Temperature 0.9):**
+This medium temperature (0.6) output balances creativity with consistency, creating engaging social media content while maintaining brand voice and key messaging.
+
+**Example Prompt #3:**
 Brainstorm creative campaign ideas for NextMobile's 5G launch.
 
-**Example Output (High Temperature):**
+**Example Output #3:**
 **"5G Speed of Life" Campaign Ideas:**
 1. "Blink and You'll Miss It" - Ultra-fast download demos
 2. "Future Me" - Show how 5G enables tomorrow's lifestyle today
 3. "5G Crystal Ball" - Predict what becomes possible with ultimate speed
 4. "The Waiting Game is Over" - Eliminate all loading screens from life
+
+This high temperature (0.9) output generates innovative, creative ideas that push boundaries and explore new campaign concepts for maximum creative impact.
 
 **Key Insight:**
 Temperature control allows marketing teams to strategically balance creativity and consistency, getting reliable outputs for formal communications and innovative ideas for creative campaigns by adjusting AI's creative freedom.

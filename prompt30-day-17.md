@@ -38,34 +38,38 @@ Task Decomposition is incredibly powerful - it transforms overwhelming competiti
 
 Here's how Task Decomposition works:
 
-**Example Task Breakdown:**
-
-**Task 1: Pricing Comparison**
+**Example Prompt #1:**
 Compare NextMobile's pricing against Competitor A, B, and C for residential plans. Focus on value proposition and identify pricing advantages.
 
-**Example Output:**
+**Example Output #1:**
 **Pricing Analysis: NextMobile vs. Competitors**
 - NextMobile Essential ($49): 25% below market average
 - Competitor A Basic ($65): Higher price, lower speeds
 - Competitive advantage: Superior value at entry level
 
-**Task 2: Speed Performance Analysis**
+This focused pricing analysis reveals NextMobile's clear value proposition and pricing advantages, making it easier to identify specific talking points for sales conversations.
+
+**Example Prompt #2:**
 Analyze speed offerings across all competitors. Identify NextMobile's technical advantages and areas for improvement.
 
-**Example Output:**
+**Example Output #2:**
 **Speed Comparison Analysis**
 - NextMobile Fiber: Up to 1Gbps (industry-leading)
 - Competitor A: Max 400Mbps (outdated infrastructure)
 - Strategic advantage: Future-ready technology
 
-**Task 3: Coverage Area Assessment**
+The speed analysis highlights NextMobile's technological superiority and identifies specific competitive advantages that can be emphasized in marketing materials.
+
+**Example Prompt #3:**
 Compare coverage maps and expansion plans. Identify market opportunities and competitive threats.
 
-**Example Output:**
+**Example Output #3:**
 **Coverage Analysis**
 - NextMobile: 85% metro coverage, aggressive suburban expansion
 - Competitor B: 95% metro but limited rural presence
 - Opportunity: Rural market penetration
+
+This coverage assessment reveals strategic opportunities and helps NextMobile focus expansion efforts where competitors are weakest.
 
 **Key Insight:**
 Task decomposition transforms overwhelming competitive analysis into focused, actionable insights that drive strategic marketing decisions and competitive positioning improvements by breaking complex analysis into manageable, specific components.

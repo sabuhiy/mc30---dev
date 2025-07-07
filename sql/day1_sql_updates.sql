@@ -62,7 +62,7 @@ SET meta_value = '<p><strong>Basic Prompt Writing</strong> is the fundamental AI
 				Experience lightning-fast internet with NextMobile\'s new fiber service. Stream 4K movies, game without lag, and work from home seamlessly. Our fiber connection delivers speeds up to 1GB - that\'s 10x faster than standard broadband. Upgrade today and feel the difference!
 			</div>			
 		</div>
-    </div>
+	</div>	
 	<!-- Prompt Output #1 ends -->
 </div>
 <!-- Prompt Layout ends -->
@@ -140,7 +140,7 @@ ON DUPLICATE KEY UPDATE meta_value = '15 minutes';
 -- SELECT meta_key, LEFT(meta_value, 100) as meta_preview
 -- FROM wp_postmeta 
 -- WHERE post_id = 789 
--- ORDER BY meta_key;
+-- ORDER BY meta_key; 
 
 -- Check resource links for domain diversity compliance
 -- SELECT meta_value 
