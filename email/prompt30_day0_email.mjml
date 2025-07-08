@@ -1,0 +1,73 @@
+<mjml>
+<mj-head>
+  <mj-title>Your AI Journey Starts Now!</mj-title>
+  <mj-attributes>
+    <mj-all font-family="Arial, Helvetica, sans-serif"/>
+    <mj-text padding="0" font-weight="300" font-size="16px" color="#2C3E50" line-height="145%"/>
+    <mj-section padding="25px 0"/>
+    <mj-image padding="0"/>
+    <mj-button font-family="Arial, Helvetica, sans-serif" background-color="#fdcf40" color="#2C3E50" font-size="16px" font-weight="bold" align="left" padding="0"/>
+  </mj-attributes>  
+</mj-head>
+<mj-body background-color="#FFFFFF">
+
+<!-- Wrapper start -->
+<mj-wrapper padding="0 20px">
+
+  <!-- Logo start -->
+  <mj-section padding="30px 0 10px">
+    <mj-column>
+      <mj-image src="http://cdn.mcauto-images-production.sendgrid.net/0a3859e57ee893c8/236f9ea4-a044-4d1e-a99a-2e62f950d4ca/800x154.png" width="220px" align="left">
+    </mj-column>
+  </mj-section>
+  <!-- Logo end -->
+
+  <!-- Intro start -->
+  <mj-section>
+    <mj-column>
+      <mj-text padding-bottom="10px" font-size="32px">Hi {{ insert first_name 'default=👋' }},</mj-text>
+      <mj-text>I'm thrilled you've decided to join this transformative learning experience. Over the next 30 days, you'll master the art of prompt engineering through hands-on challenges. You'll learn how to craft effective prompts that generate compelling content and how to integrate AI into your daily work.</mj-text>
+      <mj-image padding-top="20px" padding-bottom="20px" src="http://cdn.mcauto-images-production.sendgrid.net/0a3859e57ee893c8/16a8de59-d35e-40e8-a121-5cdf007d7452/1200x274.png" href="https://mc30.nl/ln"/>
+      <mj-text padding-top="10px">Here's what to expect on your prompt engineering journey:</mj-text>
+      <mj-text>
+        <ul>
+          <li style="margin-bottom: 5px;">🗓️ Daily challenges that build progressively - each day's lesson builds on the previous one, so complete them in order for maximum impact.</li>
+          <li style="margin-bottom: 5px;">📚 Comprehensive resources for each challenge - you'll get templates, examples, and guidance to help you succeed.</li>  
+          <li style="margin-bottom: 5px;">💡 Detailed solutions and analysis - learn from expert examples and understand the "why" behind each technique.</li>
+          <li>🏅 Track your progress and earn recognition as you master new prompt engineering skills.</li>  
+        </ul>
+      </mj-text>
+      <mj-text>In a few hours, your first challenge will arrive in your inbox. I'm excited to see your progress over the next 30 days. Share your progress and insights using <a href="https://marketingcloud30.com/challenge/prompt30/" style="color: #00A562">#Prompt30</a> and connect with fellow learners!</mj-text>
+      <mj-text padding-top="15px">
+        Ready to transform how you work with AI?<br><br>
+      </mj-text>  
+      <mj-text padding-top="15px">
+          Best,<br>
+          Sabuhi <a href="https://mc30.nl/ln" text-decoration="none"><img src="http://cdn.mcauto-images-production.sendgrid.net/0a3859e57ee893c8/9c2aba12-bb81-4420-b69f-6cfbc2564dd2/64x64.png" width="16px"/></a> 
+      </mj-text> 
+    </mj-column>
+  </mj-section>
+  <!-- Intro end -->
+
+  <!-- Divider start -->
+  <mj-section padding-bottom="0">
+    <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="#D9D9D9" padding="0"/>
+    </mj-column>
+  </mj-section>
+  <!-- Divider end -->
+
+  <!-- Footer start -->
+  <mj-section>
+    <mj-column>
+      <mj-text padding-bottom="10px" font-size="13px" color="#999999">If you have any feedback or questions about today's challenge, please reply to this email. If you no longer wish to receive the daily challenge emails, you can <a href="{{{unsubscribe_preferences}}}" style="color:#999999;">update your preferences</a>.
+      </mj-text>  
+    </mj-column>
+  </mj-section>
+  <!-- Footer end -->
+
+</mj-wrapper>
+<!-- Wrapper end -->
+
+</mj-body>
+</mjml>
