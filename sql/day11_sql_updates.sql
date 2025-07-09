@@ -5,13 +5,13 @@
 UPDATE wp_posts 
 SET 
     post_title = 'Day 11 - Verify AI Accuracy',
-    post_content = 'Welcome to Day 11 of the Prompt30 30-day Prompt Engineering Challenge!\n\nYesterday you mastered Zero-Shot Prompting by leveraging AI\'s knowledge without examples. Today, we focus on a critical safety topic - AI accuracy verification and hallucination detection to ensure your AI-generated content is trustworthy and legally compliant. Even with advanced prompt engineering skills, preventing AI hallucinations is essential for maintaining business credibility.',
+    post_content = 'Welcome to Day 11 of the NextMobile Prompt Engineering Challenge!\n\nYesterday you mastered Zero-Shot Prompting by leveraging AI\'s knowledge without examples. Today, we focus on a critical safety topic - AI accuracy verification and hallucination detection to ensure your AI-generated content is trustworthy and legally compliant. Even with advanced prompt engineering skills, preventing AI hallucinations is essential for maintaining business credibility.',
     post_excerpt = 'Learn to detect and prevent AI hallucinations for trustworthy content.',
     post_modified = NOW(),
     post_modified_gmt = UTC_TIMESTAMP()
 WHERE ID = 799 AND post_type = 'challenge';
 
--- Update challenge description
+-- Update challenge description (left side content)
 UPDATE wp_postmeta 
 SET meta_value = '<p class="mb-0">NextMobile\'s legal and compliance team has discovered that some AI-generated press releases contained incorrect statistics about network coverage and unverified claims about competitor comparisons. These "hallucinations" - when AI generates false information that sounds credible - could expose NextMobile to legal risks and damage customer trust. Your challenge is to implement systematic fact-checking and accuracy verification processes that ensure all AI-generated content meets NextMobile\'s standards for truthfulness and reliability.</p>'
 WHERE post_id = 799 AND meta_key = '_description';
@@ -24,16 +24,16 @@ SET meta_value = '<p>Yesterday you mastered Zero-Shot Prompting by leveraging AI
 <p>Create a comprehensive accuracy verification system for NextMobile\'s AI-generated content. Develop prompts and processes that detect hallucinations, verify facts, and ensure all claims are substantiated before publication.</p>'
 WHERE post_id = 799 AND meta_key = '_detail';
 
--- Update resources with different domains
+-- Update resources with domain diversity
 UPDATE wp_postmeta 
-SET meta_value = '<ul><li><a href="https://research.google/blog/lamda-towards-safe-grounded-and-high-quality-dialog-models/" target="_blank" class="text-secondary">Understanding AI Hallucinations - Google Research</a></li><li><a href="https://www.anthropic.com/research/factuality-in-language-models" target="_blank" class="text-secondary">Fact-Checking AI Content - Anthropic Research</a></li></ul>'
+SET meta_value = '<ul><li><a href="https://research.google/blog/lamda-towards-safe-grounded-and-high-quality-dialog-models/" target="_blank" class="text-secondary">Understanding AI Hallucinations - Google Research</a></li><li><a href="https://www.anthropic.com/research/factuality-in-language-models" target="_blank" class="text-secondary">Fact-Checking AI Content - Anthropic</a></li></ul>'
 WHERE post_id = 799 AND meta_key = '_resources';
 
--- Update solution content with enhanced structure
+-- Update solution content with enhanced structure and accuracy verification content
 UPDATE wp_postmeta 
 SET meta_value = '<p><strong>AI Accuracy Verification</strong> is incredibly powerful - it protects businesses from false information that could damage reputation, create legal liability, and erode customer trust through systematic fact-checking and hallucination detection processes.</p>
 
-<p>Here\'s how <strong>AI Accuracy Verification</strong> works:</p>
+<p>Here\'s how AI Accuracy Verification works:</p>
 
 <!-- Prompt Layout starts -->
 <div class="p-5 bg-white my-5 rounded-4 border border-1">
@@ -42,6 +42,8 @@ SET meta_value = '<p><strong>AI Accuracy Verification</strong> is incredibly pow
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
 			Review this NextMobile press release for factual accuracy. Identify any specific claims that require verification: statistics and numbers, competitor comparisons, coverage area claims, technical specifications, and timeline commitments. For each claim, indicate: VERIFIED, NEEDS VERIFICATION, or POTENTIALLY FALSE.
+
+			Press Release: "NextMobile announces 95% coverage across metropolitan area with speeds 50% faster than competitors. Industry-leading fiber technology available in Q4 2024."
 		</div>
 	  </div>			
 	</div>
@@ -57,14 +59,15 @@ SET meta_value = '<p><strong>AI Accuracy Verification</strong> is incredibly pow
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>Claims Analysis:</strong><br>
-		- "95% coverage across metropolitan area" - NEEDS VERIFICATION (requires internal coverage data)<br>
-		- "50% faster than competitor speeds" - NEEDS VERIFICATION (requires speed test data)<br>
-		- "Available in Q4 2024" - VERIFIED (confirmed by deployment timeline)<br>
-		- "Industry-leading fiber technology" - POTENTIALLY FALSE (subjective claim without evidence)<br><br>
-		<strong>Recommended Actions:</strong><br>
-		- Replace "95% coverage" with "extensive metropolitan coverage"<br>
-		- Add "according to internal testing" to speed claims<br>
+		<strong>Claims Analysis:</strong>
+		- "95% coverage across metropolitan area" - NEEDS VERIFICATION (requires internal coverage data)
+		- "50% faster than competitor speeds" - NEEDS VERIFICATION (requires speed test data)
+		- "Available in Q4 2024" - VERIFIED (confirmed by deployment timeline)
+		- "Industry-leading fiber technology" - POTENTIALLY FALSE (subjective claim without evidence)
+
+		<strong>Recommended Actions:</strong>
+		- Replace "95% coverage" with "extensive metropolitan coverage"
+		- Add "according to internal testing" to speed claims
 		- Remove "industry-leading" or specify measurable criteria
 	  </div>			
 	</div>
@@ -112,6 +115,8 @@ SET meta_value = '<p><strong>AI Accuracy Verification</strong> is incredibly pow
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
 			Verify the accuracy of this NextMobile technical specification by cross-referencing with our internal documentation. Check: network speeds, coverage areas, service availability dates, and technical capabilities. If any information cannot be verified, mark it as "UNVERIFIED" and suggest alternative language.
+
+			Technical Spec: "NextMobile offers up to 1Gbps download with symmetrical upload speeds. Available in 15 major cities with Q4 2024 launch. Features fiber-optic infrastructure with advanced security protocols and 24/7 customer support."
 		</div>
 	  </div>			
 	</div>
@@ -127,22 +132,27 @@ SET meta_value = '<p><strong>AI Accuracy Verification</strong> is incredibly pow
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>Technical Specification Verification:</strong><br><br>
-		Network Speeds:<br>
-		- "Up to 1Gbps download" - VERIFIED (matches internal specs)<br>
-		- "Symmetrical upload speeds" - UNVERIFIED (needs confirmation)<br><br>
-		Coverage Areas:<br>
-		- "Available in 15 major cities" - VERIFIED (confirmed by deployment map)<br>
-		- "Expanding to rural areas" - UNVERIFIED (timeline unclear)<br><br>
-		Service Availability:<br>
-		- "Q4 2024 launch" - VERIFIED (confirmed by project timeline)<br>
-		- "24/7 customer support" - VERIFIED (matches current service)<br><br>
-		Technical Capabilities:<br>
-		- "Fiber-optic infrastructure" - VERIFIED (confirmed by network architecture)<br>
-		- "Advanced security protocols" - UNVERIFIED (needs specific details)<br><br>
-		<strong>Suggested Revisions:</strong><br>
-		- Replace "symmetrical upload speeds" with "high-speed upload capabilities"<br>
-		- Remove "expanding to rural areas" or add specific timeline<br>
+		<strong>Technical Specification Verification:</strong>
+
+		Network Speeds:
+		- "Up to 1Gbps download" - VERIFIED (matches internal specs)
+		- "Symmetrical upload speeds" - UNVERIFIED (needs confirmation)
+
+		Coverage Areas:
+		- "Available in 15 major cities" - VERIFIED (confirmed by deployment map)
+		- "Expanding to rural areas" - UNVERIFIED (timeline unclear)
+
+		Service Availability:
+		- "Q4 2024 launch" - VERIFIED (confirmed by project timeline)
+		- "24/7 customer support" - VERIFIED (matches current service)
+
+		Technical Capabilities:
+		- "Fiber-optic infrastructure" - VERIFIED (confirmed by network architecture)
+		- "Advanced security protocols" - UNVERIFIED (needs specific details)
+
+		<strong>Suggested Revisions:</strong>
+		- Replace "symmetrical upload speeds" with "high-speed upload capabilities"
+		- Remove "expanding to rural areas" or add specific timeline
 		- Replace "advanced security protocols" with "standard security measures"
 	  </div>			
 	</div>
@@ -188,4 +198,16 @@ ON DUPLICATE KEY UPDATE meta_value = 'Advanced';
 
 INSERT INTO wp_postmeta (post_id, meta_key, meta_value) 
 VALUES (799, '_estimated_time', '30 minutes')
-ON DUPLICATE KEY UPDATE meta_value = '30 minutes'; 
+ON DUPLICATE KEY UPDATE meta_value = '30 minutes';
+
+-- Verify the update was successful
+SELECT 
+    p.post_title,
+    p.post_excerpt,
+    pm.meta_key,
+    LEFT(pm.meta_value, 100) as preview
+FROM wp_posts p
+LEFT JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.ID = 799 
+AND pm.meta_key IN ('_description', '_detail', '_resources', '_solution', '_challenge_order', '_challenge_difficulty', '_estimated_time')
+ORDER BY pm.meta_key; 

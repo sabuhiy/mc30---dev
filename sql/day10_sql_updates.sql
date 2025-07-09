@@ -5,13 +5,13 @@
 UPDATE wp_posts 
 SET 
     post_title = 'Day 10 - Master Zero-Shot Prompting',
-    post_content = 'Welcome to Day 10 of the Prompt30 30-day Prompt Engineering Challenge!\n\nYesterday you mastered Few-Shot Prompting by using examples to guide AI behavior. Today, we explore the opposite approach: Zero-Shot Prompting. This technique tests the AI\'s ability to perform tasks based purely on your instructions and its vast training data, without any specific examples in the prompt.',
+    post_content = 'Welcome to Day 10 of the NextMobile Prompt Engineering Challenge!\n\nYesterday you mastered Few-Shot Prompting by using examples to guide AI behavior. Today, we explore the opposite approach: Zero-Shot Prompting. This technique tests the AI\'s ability to perform tasks based purely on your instructions and its vast training data, without any specific examples in the prompt.',
     post_excerpt = 'Learn to use Zero-Shot Prompting to get AI responses based purely on instructions without examples.',
     post_modified = NOW(),
     post_modified_gmt = UTC_TIMESTAMP()
 WHERE ID = 798 AND post_type = 'challenge';
 
--- Update challenge description
+-- Update challenge description (left side content)
 UPDATE wp_postmeta 
 SET meta_value = '<p class="mb-0">NextMobile\'s technical marketing team needs to create educational content explaining their network infrastructure advantages to potential enterprise clients. The team wants to demonstrate their technological superiority without sharing proprietary details, but they need compelling explanations that showcase their expertise. Your challenge is to use Zero-Shot Prompting to generate comprehensive technical explanations that leverage the AI\'s knowledge base without providing any examples, perfect for creating authoritative content when you need expert-level information.</p>'
 WHERE post_id = 798 AND meta_key = '_description';
@@ -24,16 +24,16 @@ SET meta_value = '<p>Yesterday you mastered Few-Shot Prompting by using examples
 <p>Use Zero-Shot Prompting to generate a comprehensive explanation of NextMobile\'s network technology advantages without providing any examples. Focus on creating authoritative, technical content that demonstrates expertise.</p>'
 WHERE post_id = 798 AND meta_key = '_detail';
 
--- Update resources with different domains
+-- Update resources with domain diversity
 UPDATE wp_postmeta 
 SET meta_value = '<ul><li><a href="https://research.google/blog/zero-shot-learning-with-multimodal-large-language-models/" target="_blank" class="text-secondary">Zero-Shot Learning Guide - Google Research</a></li><li><a href="https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions" target="_blank" class="text-secondary">AI Zero-Shot Prompting Techniques - OpenAI Platform</a></li></ul>'
 WHERE post_id = 798 AND meta_key = '_resources';
 
--- Update solution content with enhanced structure
+-- Update solution content with enhanced structure and technical marketing content
 UPDATE wp_postmeta 
 SET meta_value = '<p><strong>Zero-Shot Prompting</strong> is incredibly powerful - it leverages AI\'s vast training knowledge to generate expert responses without any examples, perfect for creating authoritative content when you need expertise beyond your current knowledge base.</p>
 
-<p>Here\'s how <strong>Zero-Shot Prompting</strong> works:</p>
+<p>Here\'s how Zero-Shot Prompting works:</p>
 
 <!-- Prompt Layout starts -->
 <div class="p-5 bg-white my-5 rounded-4 border border-1">
@@ -57,11 +57,16 @@ SET meta_value = '<p><strong>Zero-Shot Prompting</strong> is incredibly powerful
 		</span>
 	  </div>
 	  <div class="col-11">
-		NextMobile\'s network infrastructure delivers superior performance through several key technological advantages:<br><br>
-		<strong>Advanced Architecture:</strong> Our network utilizes cutting-edge software-defined networking (SDN) and network function virtualization (NFV), enabling dynamic resource allocation and optimized traffic routing.<br><br>
-		<strong>5G Integration:</strong> Unlike legacy networks, NextMobile\'s infrastructure is built from the ground up for 5G, featuring massive MIMO technology, beamforming, and ultra-low latency capabilities under 10ms.<br><br>
-		<strong>Fiber Backbone:</strong> Our extensive fiber-optic backbone provides virtually unlimited bandwidth capacity and eliminates the bottlenecks common in copper-based legacy systems.<br><br>
-		<strong>Edge Computing:</strong> Strategically placed edge servers reduce data travel distance, improving response times and enabling real-time applications like autonomous vehicles and IoT devices.<br><br>
+		NextMobile\'s network infrastructure delivers superior performance through several key technological advantages:
+
+		<strong>Advanced Architecture:</strong> Our network utilizes cutting-edge software-defined networking (SDN) and network function virtualization (NFV), enabling dynamic resource allocation and optimized traffic routing.
+
+		<strong>5G Integration:</strong> Unlike legacy networks, NextMobile\'s infrastructure is built from the ground up for 5G, featuring massive MIMO technology, beamforming, and ultra-low latency capabilities under 10ms.
+
+		<strong>Fiber Backbone:</strong> Our extensive fiber-optic backbone provides virtually unlimited bandwidth capacity and eliminates the bottlenecks common in copper-based legacy systems.
+
+		<strong>Edge Computing:</strong> Strategically placed edge servers reduce data travel distance, improving response times and enabling real-time applications like autonomous vehicles and IoT devices.
+
 		<strong>Redundancy & Reliability:</strong> Multiple pathway routing and automatic failover systems ensure 99.9% uptime, far exceeding industry standards.
 	  </div>			
 	</div>
@@ -93,11 +98,16 @@ SET meta_value = '<p><strong>Zero-Shot Prompting</strong> is incredibly powerful
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>Understanding 5G Technology for Business</strong><br><br>
-		5G represents the fifth generation of wireless technology, offering significant improvements over previous generations:<br><br>
-		<strong>Speed & Capacity:</strong> 5G delivers download speeds up to 100 times faster than 4G, enabling businesses to transfer large files, stream high-quality video, and support multiple devices simultaneously without performance degradation.<br><br>
-		<strong>Low Latency:</strong> With response times under 10 milliseconds, 5G enables real-time applications like remote surgery, autonomous vehicles, and instant financial trading that weren\'t possible with previous technologies.<br><br>
-		<strong>Massive Connectivity:</strong> 5G can support up to 1 million devices per square kilometer, making it ideal for IoT deployments, smart cities, and industrial automation where thousands of sensors need to communicate simultaneously.<br><br>
+		<strong>Understanding 5G Technology for Business</strong>
+
+		5G represents the fifth generation of wireless technology, offering significant improvements over previous generations:
+
+		<strong>Speed & Capacity:</strong> 5G delivers download speeds up to 100 times faster than 4G, enabling businesses to transfer large files, stream high-quality video, and support multiple devices simultaneously without performance degradation.
+
+		<strong>Low Latency:</strong> With response times under 10 milliseconds, 5G enables real-time applications like remote surgery, autonomous vehicles, and instant financial trading that weren\'t possible with previous technologies.
+
+		<strong>Massive Connectivity:</strong> 5G can support up to 1 million devices per square kilometer, making it ideal for IoT deployments, smart cities, and industrial automation where thousands of sensors need to communicate simultaneously.
+
 		<strong>Network Slicing:</strong> This technology allows businesses to create dedicated virtual networks for specific applications, ensuring critical services get priority bandwidth while maintaining security and performance.
 	  </div>			
 	</div>
@@ -129,12 +139,18 @@ SET meta_value = '<p><strong>Zero-Shot Prompting</strong> is incredibly powerful
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>The Future of Telecommunications: Transforming Business Connectivity</strong><br><br>
-		As we approach 2030, telecommunications is undergoing a fundamental transformation that will reshape how businesses operate and compete:<br><br>
-		<strong>AI-Driven Networks:</strong> Artificial intelligence is becoming the backbone of network management, enabling predictive maintenance, automated optimization, and intelligent traffic routing that adapts to usage patterns in real-time.<br><br>
-		<strong>Quantum Communications:</strong> While still in development, quantum networking promises unbreakable encryption and ultra-secure communications that will be essential for financial institutions, healthcare providers, and government agencies.<br><br>
-		<strong>Satellite Internet Integration:</strong> Low-earth orbit satellite networks are creating truly global connectivity, enabling businesses to operate seamlessly anywhere on Earth with consistent, high-speed internet access.<br><br>
-		<strong>6G Development:</strong> The next generation of wireless technology is already in development, promising terabit speeds, holographic communications, and seamless integration between physical and digital worlds.<br><br>
+		<strong>The Future of Telecommunications: Transforming Business Connectivity</strong>
+
+		As we approach 2030, telecommunications is undergoing a fundamental transformation that will reshape how businesses operate and compete:
+
+		<strong>AI-Driven Networks:</strong> Artificial intelligence is becoming the backbone of network management, enabling predictive maintenance, automated optimization, and intelligent traffic routing that adapts to usage patterns in real-time.
+
+		<strong>Quantum Communications:</strong> While still in development, quantum networking promises unbreakable encryption and ultra-secure communications that will be essential for financial institutions, healthcare providers, and government agencies.
+
+		<strong>Satellite Internet Integration:</strong> Low-earth orbit satellite networks are creating truly global connectivity, enabling businesses to operate seamlessly anywhere on Earth with consistent, high-speed internet access.
+
+		<strong>6G Development:</strong> The next generation of wireless technology is already in development, promising terabit speeds, holographic communications, and seamless integration between physical and digital worlds.
+
 		<strong>Sustainability Focus:</strong> Green networking technologies are becoming a priority, with energy-efficient infrastructure and renewable-powered data centers becoming standard requirements for enterprise customers.
 	  </div>			
 	</div>
@@ -180,4 +196,16 @@ ON DUPLICATE KEY UPDATE meta_value = 'Intermediate';
 
 INSERT INTO wp_postmeta (post_id, meta_key, meta_value) 
 VALUES (798, '_estimated_time', '25 minutes')
-ON DUPLICATE KEY UPDATE meta_value = '25 minutes'; 
+ON DUPLICATE KEY UPDATE meta_value = '25 minutes';
+
+-- Verify the update was successful
+SELECT 
+    p.post_title,
+    p.post_excerpt,
+    pm.meta_key,
+    LEFT(pm.meta_value, 100) as preview
+FROM wp_posts p
+LEFT JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.ID = 798 
+AND pm.meta_key IN ('_description', '_detail', '_resources', '_solution', '_challenge_order', '_challenge_difficulty', '_estimated_time')
+ORDER BY pm.meta_key; 

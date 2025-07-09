@@ -195,20 +195,7 @@ VALUES (789, '_estimated_time', '15 minutes')
 ON DUPLICATE KEY UPDATE meta_value = '15 minutes';
 ```
 
-### Batch Update Challenge Titles
-```sql
--- Update challenge titles for optimized content
-UPDATE wp_posts 
-SET post_title = CASE 
-    WHEN ID = 800 THEN 'Day 11 - AI Accuracy Verification'
-    WHEN ID = 801 THEN 'Day 12 - Multimodal AI Integration'
-    WHEN ID = 804 THEN 'Day 15 - AI Ethics Frameworks'
-    ELSE post_title
-END,
-post_modified = NOW(),
-post_modified_gmt = UTC_TIMESTAMP()
-WHERE post_type = 'challenge' AND ID IN (800, 801, 804);
-```
+
 
 ## Content-Specific Query Scenarios
 
@@ -436,6 +423,148 @@ ORDER BY CAST(pm.meta_value AS UNSIGNED);
 13. **Handle email content separately** - do not include in main challenge updates
 14. **Maintain challenge order** consistency (1-30)
 15. **Include learning context** in Challenge Detail sections before Task instructions
+
+## Quality Assurance Checklist
+
+### Pre-Update QA
+- [ ] **Backup database** before making any changes
+- [ ] **Verify post ID** matches challenge number (789-818 range)
+- [ ] **Check post_type** is 'challenge' for all updates
+- [ ] **Confirm challenge order** matches day number (1-30)
+- [ ] **Validate HTML structure** includes all required Bootstrap classes
+- [ ] **Test SQL syntax** in staging environment first
+
+### Content Structure QA
+- [ ] **Description field** includes `class="mb-0"` in opening `<p>` tag
+- [ ] **Challenge Detail** contains learning context paragraph before Task section
+- [ ] **Task section** uses `<h5>Task</h5>` header format
+- [ ] **Resources** include `class="text-secondary"` and `target="_blank"`
+- [ ] **Resource domains** are diverse (no duplicate domains)
+- [ ] **Solution content** uses enhanced prompt/output structure with SVG icons
+- [ ] **Common Pitfalls** section includes ❌ emoji in header
+- [ ] **Pro Tips** section includes ✅ emoji in header
+- [ ] **Try This Yourself** uses `class="mb-1"` for list items
+
+### HTML Structure QA
+- [ ] **Prompt containers** use `p-5 bg-white my-5 rounded-4 border border-1`
+- [ ] **Prompt text** wrapped in `bg-light p-4 rounded-4`
+- [ ] **Output sections** include SVG icon with proper classes
+- [ ] **Grid layout** uses `col-10 offset-2` for prompts, `col-11` for outputs
+- [ ] **SVG icon** includes all required attributes and classes
+- [ ] **Bootstrap classes** are properly applied throughout
+
+### Content Quality QA
+- [ ] **NextMobile branding** is consistent throughout all content
+- [ ] **Learning progression** builds on previous days appropriately
+- [ ] **Examples are realistic** and relevant to telecommunications industry
+- [ ] **Technical accuracy** of prompt engineering concepts
+- [ ] **No broken links** in resource sections
+- [ ] **Proper escaping** of special characters in SQL content
+- [ ] **Consistent tone** matches NextMobile's brand voice
+
+### Post-Update QA
+- [ ] **Verify challenge displays** correctly on frontend
+- [ ] **Test solution unlock** functionality works
+- [ ] **Check mobile responsiveness** of updated content
+- [ ] **Validate HTML rendering** in different browsers
+- [ ] **Confirm cache invalidation** with post_modified updates
+- [ ] **Test email functionality** is not affected by changes
+
+### Database Integrity QA
+- [ ] **No orphaned meta records** after updates
+- [ ] **Challenge order sequence** is complete (1-30)
+- [ ] **Difficulty levels** are appropriate (Beginner/Intermediate/Advanced)
+- [ ] **Estimated times** are realistic (15-45 minutes)
+- [ ] **Post status** remains 'publish' after updates
+- [ ] **Term relationships** are maintained for Prompt30 category
+
+### Common Issues to Check
+- [ ] **Missing mb-0 class** in description paragraphs
+- [ ] **Incorrect post IDs** causing updates to wrong challenges
+- [ ] **Broken HTML tags** from improper escaping
+- [ ] **Duplicate resource domains** reducing credibility
+- [ ] **Missing SVG icons** in output sections
+- [ ] **Inconsistent spacing** in list items
+- [ ] **Missing emojis** in Common Pitfalls and Pro Tips headers
+- [ ] **Incomplete learning context** in Challenge Detail sections
+
+### Performance QA
+- [ ] **Query execution time** is reasonable (< 5 seconds)
+- [ ] **No unnecessary updates** to unchanged content
+- [ ] **Proper indexing** on post_id and meta_key columns
+- [ ] **Efficient WHERE clauses** using indexed columns
+- [ ] **Batch updates** for multiple related changes
+- [ ] **Transaction handling** for complex multi-table updates
+
+### Automated QA Queries
+
+#### Content Completeness Check
+```sql
+-- Verify all challenges have required meta fields
+SELECT p.post_title, p.ID,
+       COUNT(CASE WHEN pm.meta_key = '_description' THEN 1 END) as has_description,
+       COUNT(CASE WHEN pm.meta_key = '_detail' THEN 1 END) as has_detail,
+       COUNT(CASE WHEN pm.meta_key = '_resources' THEN 1 END) as has_resources,
+       COUNT(CASE WHEN pm.meta_key = '_solution' THEN 1 END) as has_solution,
+       COUNT(CASE WHEN pm.meta_key = '_challenge_order' THEN 1 END) as has_order
+FROM wp_posts p
+LEFT JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.post_type = 'challenge' AND p.ID BETWEEN 789 AND 818
+GROUP BY p.ID, p.post_title
+HAVING has_description = 0 OR has_detail = 0 OR has_resources = 0 OR has_solution = 0 OR has_order = 0;
+```
+
+#### HTML Structure Validation
+```sql
+-- Check for missing mb-0 class in descriptions
+SELECT p.post_title, p.ID, pm.meta_value
+FROM wp_posts p
+JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.post_type = 'challenge' 
+AND pm.meta_key = '_description'
+AND pm.meta_value LIKE '<p>%'
+AND pm.meta_value NOT LIKE '%class="mb-0"%'
+AND p.ID BETWEEN 789 AND 818;
+```
+
+#### Resource Link Quality Check
+```sql
+-- Verify resource links have proper formatting
+SELECT p.post_title, p.ID, pm.meta_value
+FROM wp_posts p
+JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.post_type = 'challenge' 
+AND pm.meta_key = '_resources'
+AND (pm.meta_value NOT LIKE '%class="text-secondary"%' 
+     OR pm.meta_value NOT LIKE '%target="_blank"%')
+AND p.ID BETWEEN 789 AND 818;
+```
+
+#### Challenge Order Verification
+```sql
+-- Verify challenge order sequence is complete
+SELECT p.post_title, pm.meta_value as challenge_order
+FROM wp_posts p
+JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.post_type = 'challenge' 
+AND pm.meta_key = '_challenge_order'
+AND p.ID BETWEEN 789 AND 818
+ORDER BY CAST(pm.meta_value AS UNSIGNED);
+```
+
+#### Content Quality Metrics
+```sql
+-- Check for common content issues
+SELECT p.post_title, p.ID,
+       CASE WHEN pm.meta_value LIKE '%❌%' THEN 'Has Pitfalls' ELSE 'Missing Pitfalls' END as pitfalls_status,
+       CASE WHEN pm.meta_value LIKE '%✅%' THEN 'Has Pro Tips' ELSE 'Missing Pro Tips' END as tips_status,
+       CASE WHEN pm.meta_value LIKE '%Try This Yourself%' THEN 'Has Try Section' ELSE 'Missing Try Section' END as try_section_status
+FROM wp_posts p
+JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.post_type = 'challenge' 
+AND pm.meta_key = '_solution'
+AND p.ID BETWEEN 789 AND 818;
+```
 
 ## Database Structure Notes
 

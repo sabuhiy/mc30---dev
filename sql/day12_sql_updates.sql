@@ -59,8 +59,10 @@ SET meta_value = '<p><strong>Multimodal AI Integration</strong> is incredibly po
 	  <div class="col-11">
 		<strong>Social Media Caption:</strong><br>
 		"Watch the magic happen when your whole family connects seamlessly - from the kids\' homework video calls to grandparents joining dinner conversations from across the country. NextMobile 5G makes every moment crystal clear. #FamilyFirst #5GLife"<br><br>
+		
 		<strong>Image Description:</strong><br>
 		"A warm, modern living room with a family of four having a video call with grandparents on a large smart TV. The room has NextMobile blue accents, natural lighting, and visible smart home devices. The family appears engaged and happy, with the video call crystal clear on screen."<br><br>
+		
 		<strong>Video Script Opening:</strong><br>
 		"SCENE: Family gathers around smart TV, seamlessly connecting with grandparents via NextMobile 5G. Multiple devices work simultaneously - tablet, phones, smart home controls - all without lag or interruption."
 	  </div>			
@@ -95,8 +97,10 @@ SET meta_value = '<p><strong>Multimodal AI Integration</strong> is incredibly po
 	  <div class="col-11">
 		<strong>Product Description:</strong><br>
 		"NextMobile 5G delivers lightning-fast speeds up to 2Gbps, ensuring your family\'s devices work flawlessly together. Whether streaming 4K movies, gaming online, or video calling, experience zero buffering and crystal-clear connections that keep everyone connected."<br><br>
+		
 		<strong>Image Prompt:</strong><br>
 		"Create a split-screen image showing a modern family room with multiple devices - smart TV streaming 4K content, teenager gaming on console, parent on video call, all connected simultaneously. Use NextMobile blue (#1E40AF) accents and warm lighting. Show speed indicators and connection symbols to emphasize the 5G network\'s reliability."<br><br>
+		
 		<strong>Video Scene:</strong><br>
 		"SCENE: Camera pans across family room showing simultaneous activities - TV streaming 4K movie, teenager gaming without lag, parent on crystal-clear video call, smart home devices responding instantly. Overlay graphics show \'2Gbps\' and \'Zero Buffering\' text. NextMobile logo appears subtly in corner."
 	  </div>			
@@ -130,17 +134,21 @@ SET meta_value = '<p><strong>Multimodal AI Integration</strong> is incredibly po
 	  </div>
 	  <div class="col-11">
 		<strong>Consistency Analysis:</strong><br><br>
-		<strong>Message Alignment:</strong> <span class="small">✅</span> PASS<br>
+		
+		<strong>Message Alignment:</strong> ✅ PASS<br>
 		- Social caption emphasizes family connection<br>
 		- Image shows family video call scenario<br>
 		- Video script reinforces family gathering theme<br><br>
-		<strong>Brand Consistency:</strong> <span class="small">✅</span> PASS<br>
+		
+		<strong>Brand Consistency:</strong> ✅ PASS<br>
 		- NextMobile blue (#1E40AF) mentioned in all elements<br>
 		- Warm, approachable tone maintained throughout<br>
 		- Family-focused messaging consistent across modalities<br><br>
-		<strong>Visual-Text Coordination:</strong> <span class="small">⚠️</span> NEEDS IMPROVEMENT<br>
+		
+		<strong>Visual-Text Coordination:</strong> ⚠️ NEEDS IMPROVEMENT<br>
 		- Social caption mentions "crystal clear" but image doesn\'t emphasize video quality<br>
 		- Video script mentions "smart home controls" but image description is vague about devices<br><br>
+		
 		<strong>Recommended Fixes:</strong><br>
 		- Update image description to emphasize "crystal-clear video call quality"<br>
 		- Add specific smart home device details to image prompt<br>

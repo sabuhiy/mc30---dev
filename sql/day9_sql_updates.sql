@@ -5,13 +5,13 @@
 UPDATE wp_posts 
 SET 
     post_title = 'Day 9 - Implement Few-Shot Prompting',
-    post_content = 'Welcome to Day 9 of the Prompt30 30-day Prompt Engineering Challenge!\n\nYesterday, you were introduced to In-Context Learning (ICL), the AI\'s ability to learn from examples in the prompt. Today, you\'ll put that into practice with Few-Shot Prompting. By providing a few relevant examples, you give the AI a clear pattern to follow, which is especially useful for tasks requiring a specific format or style.',
+    post_content = 'Welcome to Day 9 of the NextMobile Prompt Engineering Challenge!\n\nYesterday, you were introduced to In-Context Learning (ICL), the AI\'s ability to learn from examples in the prompt. Today, you\'ll put that into practice with Few-Shot Prompting. By providing a few relevant examples, you give the AI a clear pattern to follow, which is especially useful for tasks requiring a specific format or style.',
     post_excerpt = 'Learn to use Few-Shot Prompting by providing examples to guide AI behavior and ensure consistent, formatted outputs.',
     post_modified = NOW(),
     post_modified_gmt = UTC_TIMESTAMP()
 WHERE ID = 797 AND post_type = 'challenge';
 
--- Update challenge description
+-- Update challenge description (left side content)
 UPDATE wp_postmeta 
 SET meta_value = '<p class="mb-0">NextMobile\'s product marketing team is launching a major website redesign and needs to create consistent feature descriptions for over 50 different service features across residential, business, and 5G plans. The current feature descriptions are inconsistent in tone, length, and focus, making it difficult for customers to understand and compare benefits. The team has identified their three most effective feature descriptions that consistently drive customer engagement and conversions, and they need to scale this winning format across all their product features.</p>'
 WHERE post_id = 797 AND meta_key = '_description';
@@ -24,16 +24,16 @@ SET meta_value = '<p>Yesterday, you were introduced to In-Context Learning (ICL)
 <p>Create a few-shot prompt to generate NextMobile product feature descriptions that match the format and tone of your three most successful feature descriptions. Use these high-performing examples to teach the AI the pattern that drives customer engagement and conversions.</p>'
 WHERE post_id = 797 AND meta_key = '_detail';
 
--- Update resources with different domains
+-- Update resources with domain diversity
 UPDATE wp_postmeta 
 SET meta_value = '<ul><li><a href="https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples" target="_blank" class="text-secondary">Few-Shot Prompting Guide for AI - OpenAI Platform</a></li><li><a href="https://research.google/pubs/pub49953/" target="_blank" class="text-secondary">In-Context Learning Research - Google Research</a></li></ul>'
 WHERE post_id = 797 AND meta_key = '_resources';
 
--- Update solution content with enhanced structure
+-- Update solution content with enhanced structure and feature descriptions
 UPDATE wp_postmeta 
 SET meta_value = '<p><strong>Few-Shot Prompting</strong> is incredibly powerful - it gives you precise control over AI output by showing exactly what you want through examples, perfect for scaling successful marketing content.</p>
 
-<p>Here\'s how <strong>Few-Shot Prompting</strong> works:</p>
+<p>Here\'s how Few-Shot Prompting works:</p>
 
 <!-- Prompt Layout starts -->
 <div class="p-5 bg-white my-5 rounded-4 border border-1">
@@ -41,13 +41,17 @@ SET meta_value = '<p><strong>Few-Shot Prompting</strong> is incredibly powerful 
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Generate NextMobile product feature descriptions for our website redesign following these high-performing examples that drive customer engagement:<br><br>
-			Feature: 5G Ultra Speed<br>
-			Description: Experience blazing-fast 5G speeds up to 2Gbps for seamless 4K streaming, instant downloads, and lag-free gaming that keeps you ahead of the competition.<br><br>
-			Feature: 24/7 Expert Support<br>
-			Description: Get immediate help from our certified technical specialists who provide personalized solutions and proactive account monitoring around the clock.<br><br>
-			Feature: Smart Home Integration<br>
-			Description: Connect and control all your devices effortlessly with our advanced compatibility system that works with 200+ smart home brands and voice assistants.<br><br>
+			Generate NextMobile product feature descriptions for our website redesign following these high-performing examples that drive customer engagement:
+
+			Feature: 5G Ultra Speed
+			Description: Experience blazing-fast 5G speeds up to 2Gbps for seamless 4K streaming, instant downloads, and lag-free gaming that keeps you ahead of the competition.
+
+			Feature: 24/7 Expert Support  
+			Description: Get immediate help from our certified technical specialists who provide personalized solutions and proactive account monitoring around the clock.
+
+			Feature: Smart Home Integration
+			Description: Connect and control all your devices effortlessly with our advanced compatibility system that works with 200+ smart home brands and voice assistants.
+
 			Now generate a description for: NextMobile Security Shield
 		</div>
 	  </div>			
@@ -64,8 +68,8 @@ SET meta_value = '<p><strong>Few-Shot Prompting</strong> is incredibly powerful 
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>Feature:</strong> NextMobile Security Shield<br>
-		<strong>Description:</strong> Protect your entire network with enterprise-grade cybersecurity that automatically blocks threats, secures personal data, and provides real-time monitoring for complete peace of mind.
+		Feature: NextMobile Security Shield
+		Description: Protect your entire network with enterprise-grade cybersecurity that automatically blocks threats, secures personal data, and provides real-time monitoring for complete peace of mind.
 	  </div>			
 	</div>
 	<!-- Prompt Output #1 ends -->
@@ -80,13 +84,17 @@ SET meta_value = '<p><strong>Few-Shot Prompting</strong> is incredibly powerful 
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Create NextMobile business feature descriptions using these ROI-focused examples as templates:<br><br>
-			Feature: Business Fiber Network<br>
-			Description: Accelerate your operations with dedicated 10Gbps fiber connections that reduce latency by 90% and increase team productivity through seamless cloud collaboration and video conferencing.<br><br>
-			Feature: Priority Business Support<br>
-			Description: Skip the queue with dedicated account managers and 2-hour response guarantees that minimize downtime and keep your business running smoothly 24/7.<br><br>
-			Feature: Advanced Analytics Dashboard<br>
-			Description: Monitor network performance, usage patterns, and security threats in real-time with comprehensive reporting tools that help optimize costs and improve decision-making.<br><br>
+			Create NextMobile business feature descriptions using these ROI-focused examples as templates:
+
+			Feature: Business Fiber Network
+			Description: Accelerate your operations with dedicated 10Gbps fiber connections that reduce latency by 90% and increase team productivity through seamless cloud collaboration and video conferencing.
+
+			Feature: Priority Business Support
+			Description: Skip the queue with dedicated account managers and 2-hour response guarantees that minimize downtime and keep your business running smoothly 24/7.
+
+			Feature: Advanced Analytics Dashboard
+			Description: Monitor network performance, usage patterns, and security threats in real-time with comprehensive reporting tools that help optimize costs and improve decision-making.
+
 			Now generate a description for: Business WiFi Management
 		</div>
 	  </div>			
@@ -103,8 +111,8 @@ SET meta_value = '<p><strong>Few-Shot Prompting</strong> is incredibly powerful 
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>Feature:</strong> Business WiFi Management<br>
-		<strong>Description:</strong> Control and secure your entire network from a single dashboard with advanced access controls, bandwidth allocation, and device management that scales with your growing business needs.
+		Feature: Business WiFi Management
+		Description: Control and secure your entire network from a single dashboard with advanced access controls, bandwidth allocation, and device management that scales with your growing business needs.
 	  </div>			
 	</div>
 	<!-- Prompt Output #2 ends -->
@@ -119,13 +127,17 @@ SET meta_value = '<p><strong>Few-Shot Prompting</strong> is incredibly powerful 
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Generate technical feature explanations using these customer-friendly examples as guides:<br><br>
-			Feature: Massive MIMO Technology<br>
-			Description: Our advanced antenna system uses multiple signal paths to deliver stronger, more reliable connections even in crowded areas, ensuring consistent performance for all your devices.<br><br>
-			Feature: Edge Computing Integration<br>
-			Description: Process data closer to your location with our distributed network architecture, reducing latency by up to 50% for applications that require real-time responsiveness.<br><br>
-			Feature: Dynamic Spectrum Sharing<br>
-			Description: Automatically optimize your connection by intelligently switching between available frequencies, ensuring you always get the best possible performance regardless of network congestion.<br><br>
+			Generate technical feature explanations using these customer-friendly examples as guides:
+
+			Feature: Massive MIMO Technology
+			Description: Our advanced antenna system uses multiple signal paths to deliver stronger, more reliable connections even in crowded areas, ensuring consistent performance for all your devices.
+
+			Feature: Edge Computing Integration
+			Description: Process data closer to your location with our distributed network architecture, reducing latency by up to 50% for applications that require real-time responsiveness.
+
+			Feature: Dynamic Spectrum Sharing
+			Description: Automatically optimize your connection by intelligently switching between available frequencies, ensuring you always get the best possible performance regardless of network congestion.
+
 			Now generate a description for: Network Slicing Technology
 		</div>
 	  </div>			
@@ -142,8 +154,8 @@ SET meta_value = '<p><strong>Few-Shot Prompting</strong> is incredibly powerful 
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>Feature:</strong> Network Slicing Technology<br>
-		<strong>Description:</strong> Create dedicated virtual networks for different applications and devices, ensuring critical services like video calls get priority bandwidth while maintaining optimal performance for all connected devices.
+		Feature: Network Slicing Technology
+		Description: Create dedicated virtual networks for different applications and devices, ensuring critical services like video calls get priority bandwidth while maintaining optimal performance for all connected devices.
 	  </div>			
 	</div>
 	<!-- Prompt Output #3 ends -->
@@ -187,5 +199,17 @@ VALUES (797, '_challenge_difficulty', 'Intermediate')
 ON DUPLICATE KEY UPDATE meta_value = 'Intermediate';
 
 INSERT INTO wp_postmeta (post_id, meta_key, meta_value) 
-VALUES (797, '_estimated_time', '20 minutes')
-ON DUPLICATE KEY UPDATE meta_value = '20 minutes'; 
+VALUES (797, '_estimated_time', '25 minutes')
+ON DUPLICATE KEY UPDATE meta_value = '25 minutes';
+
+-- Verify the update was successful
+SELECT 
+    p.post_title,
+    p.post_excerpt,
+    pm.meta_key,
+    LEFT(pm.meta_value, 100) as preview
+FROM wp_posts p
+LEFT JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.ID = 797 
+AND pm.meta_key IN ('_description', '_detail', '_resources', '_solution', '_challenge_order', '_challenge_difficulty', '_estimated_time')
+ORDER BY pm.meta_key; 

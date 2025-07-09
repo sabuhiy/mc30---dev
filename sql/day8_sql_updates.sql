@@ -5,13 +5,13 @@
 UPDATE wp_posts 
 SET 
     post_title = 'Day 8 - Introduction to ICL',
-    post_content = 'Welcome to Day 8 of the Prompt30 30-day Prompt Engineering Challenge!\n\nBuilding on basic prompting, templates, refinement, roles, and formatting, we now introduce a core concept that significantly enhances AI\'s ability to understand and generate content: In-Context Learning (ICL). ICL means the AI can "learn" from examples you provide directly within the prompt itself, allowing it to pick up patterns, styles, and formats without explicit instructions.',
+    post_content = 'Welcome to Day 8 of the NextMobile Prompt Engineering Challenge!\n\nBuilding on basic prompting, templates, refinement, roles, and formatting, we now introduce a core concept that significantly enhances AI\'s ability to understand and generate content: In-Context Learning (ICL). ICL means the AI can "learn" from examples you provide directly within the prompt itself, allowing it to pick up patterns, styles, and formats without explicit instructions.',
     post_excerpt = 'Learn In-Context Learning (ICL) to enhance AI understanding by providing examples directly within your prompts for better pattern recognition.',
     post_modified = NOW(),
     post_modified_gmt = UTC_TIMESTAMP()
 WHERE ID = 796 AND post_type = 'challenge';
 
--- Update challenge description
+-- Update challenge description (left side content)
 UPDATE wp_postmeta 
 SET meta_value = '<p class="mb-0">NextMobile\'s marketing team needs to create dozens of customer success stories for their new website testimonials section, but they want to ensure all stories follow a consistent format and tone that converts visitors into customers. The team has a few great examples of successful customer stories that performed well, but they need to scale this content creation while maintaining the same compelling structure and emotional impact that drives conversions.</p>'
 WHERE post_id = 796 AND meta_key = '_description';
@@ -24,16 +24,16 @@ SET meta_value = '<p>Building on basic prompting, templates, refinement, roles, 
 <p>Use In-Context Learning to generate NextMobile customer success stories that match the format and tone of your best-performing testimonials. Provide examples of successful stories within your prompt to teach the AI the pattern that converts website visitors into customers.</p>'
 WHERE post_id = 796 AND meta_key = '_detail';
 
--- Update resources with different domains
+-- Update resources with domain diversity
 UPDATE wp_postmeta 
 SET meta_value = '<ul><li><a href="https://research.google/pubs/pub49953/" target="_blank" class="text-secondary">In-Context Learning Guide for AI Prompting - Google Research</a></li><li><a href="https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples" target="_blank" class="text-secondary">Few-Shot Learning Examples with AI - OpenAI Platform</a></li></ul>'
 WHERE post_id = 796 AND meta_key = '_resources';
 
--- Update solution content with enhanced structure
+-- Update solution content with enhanced structure and customer success stories
 UPDATE wp_postmeta 
 SET meta_value = '<p><strong>In-Context Learning (ICL)</strong> is incredibly powerful - it allows AI to "learn" from examples within your prompt, dramatically improving pattern recognition and consistency without explicit instructions.</p>
 
-<p>Here\'s how <strong>In-Context Learning</strong> works:</p>
+<p>Here\'s how In-Context Learning works:</p>
 
 <!-- Prompt Layout starts -->
 <div class="p-5 bg-white my-5 rounded-4 border border-1">
@@ -41,9 +41,12 @@ SET meta_value = '<p><strong>In-Context Learning (ICL)</strong> is incredibly po
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Generate NextMobile customer success stories for our website testimonials section using these high-converting examples as patterns:<br><br>
-			Story 1: "Sarah, a freelance designer, struggled with slow uploads until NextMobile\'s fiber internet transformed her workflow. Now she delivers projects 3x faster and has expanded her client base."<br><br>
-			Story 2: "The Martinez family was constantly fighting over bandwidth until NextMobile\'s unlimited 5G solved their streaming and gaming conflicts. Now everyone\'s happy and connected."<br><br>
+			Generate NextMobile customer success stories for our website testimonials section using these high-converting examples as patterns:
+
+			Story 1: "Sarah, a freelance designer, struggled with slow uploads until NextMobile\'s fiber internet transformed her workflow. Now she delivers projects 3x faster and has expanded her client base."
+
+			Story 2: "The Martinez family was constantly fighting over bandwidth until NextMobile\'s unlimited 5G solved their streaming and gaming conflicts. Now everyone\'s happy and connected."
+
 			Now create a similar success story for: A small business owner who needed reliable internet for video conferences.
 		</div>
 	  </div>			
@@ -75,9 +78,12 @@ SET meta_value = '<p><strong>In-Context Learning (ICL)</strong> is incredibly po
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Create NextMobile residential customer testimonials using these emotional, family-focused examples as your guide:<br><br>
-			Example 1: "As a mom of three, I was constantly worried about my kids\' online safety. NextMobile\'s parental controls give me peace of mind while keeping everyone connected."<br><br>
-			Example 2: "Our family movie nights were ruined by buffering. NextMobile\'s 5G made streaming seamless - now we actually enjoy our time together."<br><br>
+			Create NextMobile residential customer testimonials using these emotional, family-focused examples as your guide:
+
+			Example 1: "As a mom of three, I was constantly worried about my kids\' online safety. NextMobile\'s parental controls give me peace of mind while keeping everyone connected."
+
+			Example 2: "Our family movie nights were ruined by buffering. NextMobile\'s 5G made streaming seamless - now we actually enjoy our time together."
+
 			Generate a similar testimonial for: A family dealing with multiple devices and slow WiFi.
 		</div>
 	  </div>			
@@ -109,9 +115,12 @@ SET meta_value = '<p><strong>In-Context Learning (ICL)</strong> is incredibly po
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Generate NextMobile business testimonials using these ROI-focused examples as templates:<br><br>
-			Template 1: "Downtime was costing us $500/hour. NextMobile\'s 99.9% uptime guarantee saved us $15,000 last quarter alone."<br><br>
-			Template 2: "Our remote team couldn\'t collaborate effectively. NextMobile\'s business fiber enabled seamless video conferencing, increasing productivity by 35%."<br><br>
+			Generate NextMobile business testimonials using these ROI-focused examples as templates:
+
+			Template 1: "Downtime was costing us $500/hour. NextMobile\'s 99.9% uptime guarantee saved us $15,000 last quarter alone."
+
+			Template 2: "Our remote team couldn\'t collaborate effectively. NextMobile\'s business fiber enabled seamless video conferencing, increasing productivity by 35%."
+
 			Create a similar testimonial for: A retail business needing reliable POS systems and customer WiFi.
 		</div>
 	  </div>			
@@ -138,7 +147,7 @@ SET meta_value = '<p><strong>In-Context Learning (ICL)</strong> is incredibly po
 <p><strong>Analysis:</strong> ICL pattern: business problem + financial impact + NextMobile solution + measurable results. AI learned ROI-focused business testimonial structure.</p>
 
 <h5>Key Insight</h5>
-<p>ICL enables the AI to recognize and replicate conversion-focused patterns without explicit instructions. The AI learned the testimonial structure (relatable person + specific problem + NextMobile solution + quantifiable outcome) and applied it to create new customer stories that maintain the same persuasive impact.</p>
+<p>In-Context Learning allows the AI to understand your preferred communication style and patterns through examples, creating more consistent and authentic content that matches your brand voice without needing explicit instructions.</p>
 
 <h5>Try This Yourself</h5>
 <p>Test these variations and see how small changes affect the output:</p>
@@ -173,4 +182,16 @@ ON DUPLICATE KEY UPDATE meta_value = 'Intermediate';
 
 INSERT INTO wp_postmeta (post_id, meta_key, meta_value) 
 VALUES (796, '_estimated_time', '20 minutes')
-ON DUPLICATE KEY UPDATE meta_value = '20 minutes'; 
+ON DUPLICATE KEY UPDATE meta_value = '20 minutes';
+
+-- Verify the update was successful
+SELECT 
+    p.post_title,
+    p.post_excerpt,
+    pm.meta_key,
+    LEFT(pm.meta_value, 100) as preview
+FROM wp_posts p
+LEFT JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.ID = 796 
+AND pm.meta_key IN ('_description', '_detail', '_resources', '_solution', '_challenge_order', '_challenge_difficulty', '_estimated_time')
+ORDER BY pm.meta_key; 

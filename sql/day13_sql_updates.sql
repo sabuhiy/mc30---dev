@@ -5,13 +5,13 @@
 UPDATE wp_posts 
 SET 
     post_title = 'Day 13 - Experiment with Exemplar Format',
-    post_content = 'Welcome to Day 13 of the Prompt30 30-day Prompt Engineering Challenge!\n\nYesterday you learned how example ordering influences AI behavior and output style. Today, we focus on their format - the way you structure the input and output within your examples can signal to the AI how to interpret information and what kind of output structure you expect.',
+    post_content = 'Welcome to Day 13 of the NextMobile Prompt Engineering Challenge!\n\nYesterday you learned how example ordering influences AI behavior and output style. Today, we focus on their format - the way you structure the input and output within your examples can signal to the AI how to interpret information and what kind of output structure you expect.',
     post_excerpt = 'Discover how the structure and formatting of examples influences AI output format and style.',
     post_modified = NOW(),
     post_modified_gmt = UTC_TIMESTAMP()
 WHERE ID = 801 AND post_type = 'challenge';
 
--- Update challenge description
+-- Update challenge description (left side content)
 UPDATE wp_postmeta 
 SET meta_value = '<p class="mb-0">NextMobile\'s product documentation team needs to create consistent feature descriptions across their website, but they\'re struggling with formatting inconsistencies. They have the same content but when they structure the examples differently in their prompts - sometimes as bullet points, sometimes as structured lists, sometimes as conversational descriptions - the AI generates completely different output formats. The web design team needs specific formatting to match their site\'s style guide, and the team wants to understand how example formatting directly controls AI output structure. Your challenge is to experiment with different formatting styles for your examples and discover how structure signals exactly what kind of output format you want from the AI.</p>'
 WHERE post_id = 801 AND meta_key = '_description';
@@ -24,16 +24,16 @@ SET meta_value = '<p>Yesterday you learned how example ordering influences AI be
 <p>Test different formatting styles for your examples and observe how they affect the AI\'s output structure. Create at least three different format variations and analyze how each influences the AI\'s response format.</p>'
 WHERE post_id = 801 AND meta_key = '_detail';
 
--- Update resources with different domains
+-- Update resources with domain diversity
 UPDATE wp_postmeta 
-SET meta_value = '<ul><li><a href="https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples" target="_blank" class="text-secondary">Structured Prompting Guide - OpenAI Platform</a></li><li><a href="https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback" target="_blank" class="text-secondary">Advanced AI Content Structure - Anthropic Research</a></li></ul>'
+SET meta_value = '<ul><li><a href="https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-examples" target="_blank" class="text-secondary">Structured Prompting Guide - OpenAI Platform</a></li><li><a href="https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback" target="_blank" class="text-secondary">Advanced AI Content Structure - Anthropic</a></li></ul>'
 WHERE post_id = 801 AND meta_key = '_resources';
 
--- Update solution content with enhanced structure
+-- Update solution content with enhanced structure and exemplar format content
 UPDATE wp_postmeta 
 SET meta_value = '<p><strong>Exemplar Format Control</strong> is incredibly powerful - it allows you to precisely dictate AI output structure and formatting by showing exactly how you want content organized and presented.</p>
 
-<p>Here\'s how <strong>Exemplar Format Control</strong> works:</p>
+<p>Here\'s how Exemplar Format Control works:</p>
 
 <!-- Prompt Layout starts -->
 <div class="p-5 bg-white my-5 rounded-4 border border-1">
@@ -41,11 +41,12 @@ SET meta_value = '<p><strong>Exemplar Format Control</strong> is incredibly powe
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Create a product feature description for NextMobile\'s Backup Connection service. Use this formatting style:<br><br>
-			<strong>5G Ultra Speed</strong><br>
-			<em>Network Feature</em><br>
-			Downloads up to 2Gbps • Streaming 4K/8K • Gaming optimized<br>
-			Best for: Power users, streamers, businesses<br>
+			Create a product feature description for NextMobile\'s Backup Connection service. Use this formatting style:
+
+			**5G Ultra Speed**
+			*Network Feature*
+			Downloads up to 2Gbps • Streaming 4K/8K • Gaming optimized
+			Best for: Power users, streamers, businesses
 			Available in: Premium, Enterprise plans
 		</div>
 	  </div>			
@@ -62,10 +63,10 @@ SET meta_value = '<p><strong>Exemplar Format Control</strong> is incredibly powe
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>Backup Connection</strong><br>
-		<em>Reliability Feature</em><br>
-		Automatic failover • 99.9% uptime • Zero downtime switching<br>
-		Best for: Business users, remote workers, essential services<br>
+		**Backup Connection**
+		*Reliability Feature*
+		Automatic failover • 99.9% uptime • Zero downtime switching
+		Best for: Business users, remote workers, essential services
 		Available in: Premium, Enterprise plans
 	  </div>			
 	</div>
@@ -81,9 +82,10 @@ SET meta_value = '<p><strong>Exemplar Format Control</strong> is incredibly powe
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Create a product feature description for NextMobile\'s Backup Connection service. Use this formatting style:<br><br>
-			<strong>Q: What is 5G Ultra Speed?</strong><br>
-			<strong>A:</strong> Our 5G Ultra Speed delivers downloads up to 2Gbps, perfect for 4K/8K streaming and lag-free gaming. Ideal for power users, streamers, and businesses. Available in Premium and Enterprise plans.
+			Create a product feature description for NextMobile\'s Backup Connection service. Use this formatting style:
+
+			**Q: What is 5G Ultra Speed?**
+			**A:** Our 5G Ultra Speed delivers downloads up to 2Gbps, perfect for 4K/8K streaming and lag-free gaming. Ideal for power users, streamers, and businesses. Available in Premium and Enterprise plans.
 		</div>
 	  </div>			
 	</div>
@@ -99,8 +101,8 @@ SET meta_value = '<p><strong>Exemplar Format Control</strong> is incredibly powe
 		</span>
 	  </div>
 	  <div class="col-11">
-		<strong>Q: What is Backup Connection?</strong><br>
-		<strong>A:</strong> Our Backup Connection provides automatic failover with 99.9% uptime and zero downtime switching. Perfect for business users, remote workers, and essential services. Available in Premium and Enterprise plans.
+		**Q: What is Backup Connection?**
+		**A:** Our Backup Connection provides automatic failover with 99.9% uptime and zero downtime switching. Perfect for business users, remote workers, and essential services. Available in Premium and Enterprise plans.
 	  </div>			
 	</div>
 	<!-- Prompt Output #2 ends -->
@@ -115,12 +117,13 @@ SET meta_value = '<p><strong>Exemplar Format Control</strong> is incredibly powe
 	<div class="row">
 	  <div class="col-10 offset-2">
 	  	<div class="bg-light p-4 rounded-4">
-			Create a product feature description for NextMobile\'s Backup Connection service. Use this formatting style:<br><br>
-			• <strong>Feature:</strong> 5G Ultra Speed<br>
-			• <strong>Category:</strong> Network Performance<br>
-			• <strong>Benefits:</strong> Downloads up to 2Gbps, 4K/8K streaming, gaming optimized<br>
-			• <strong>Target Users:</strong> Power users, streamers, businesses<br>
-			• <strong>Plans:</strong> Premium, Enterprise
+			Create a product feature description for NextMobile\'s Backup Connection service. Use this formatting style:
+
+			• **Feature:** 5G Ultra Speed
+			• **Category:** Network Performance
+			• **Benefits:** Downloads up to 2Gbps, 4K/8K streaming, gaming optimized
+			• **Target Users:** Power users, streamers, businesses
+			• **Plans:** Premium, Enterprise
 		</div>
 	  </div>			
 	</div>
@@ -136,11 +139,11 @@ SET meta_value = '<p><strong>Exemplar Format Control</strong> is incredibly powe
 		</span>
 	  </div>
 	  <div class="col-11">
-		• <strong>Feature:</strong> Backup Connection<br>
-		• <strong>Category:</strong> Network Reliability<br>
-		• <strong>Benefits:</strong> Automatic failover, 99.9% uptime, zero downtime switching<br>
-		• <strong>Target Users:</strong> Business users, remote workers, essential services<br>
-		• <strong>Plans:</strong> Premium, Enterprise
+		• **Feature:** Backup Connection
+		• **Category:** Network Reliability
+		• **Benefits:** Automatic failover, 99.9% uptime, zero downtime switching
+		• **Target Users:** Business users, remote workers, essential services
+		• **Plans:** Premium, Enterprise
 	  </div>			
 	</div>
 	<!-- Prompt Output #3 ends -->
@@ -184,5 +187,17 @@ VALUES (801, '_challenge_difficulty', 'Intermediate')
 ON DUPLICATE KEY UPDATE meta_value = 'Intermediate';
 
 INSERT INTO wp_postmeta (post_id, meta_key, meta_value) 
-VALUES (801, '_estimated_time', '20 minutes')
-ON DUPLICATE KEY UPDATE meta_value = '20 minutes'; 
+VALUES (801, '_estimated_time', '25 minutes')
+ON DUPLICATE KEY UPDATE meta_value = '25 minutes';
+
+-- Verify the update was successful
+SELECT 
+    p.post_title,
+    p.post_excerpt,
+    pm.meta_key,
+    LEFT(pm.meta_value, 100) as preview
+FROM wp_posts p
+LEFT JOIN wp_postmeta pm ON p.ID = pm.post_id
+WHERE p.ID = 801 
+AND pm.meta_key IN ('_description', '_detail', '_resources', '_solution', '_challenge_order', '_challenge_difficulty', '_estimated_time')
+ORDER BY pm.meta_key; 

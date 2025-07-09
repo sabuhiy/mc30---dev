@@ -1,0 +1,107 @@
+<mjml>
+<mj-head>
+  <mj-title>Day 2️⃣2️⃣: Create Compelling Video Content</mj-title>
+  <mj-attributes>
+    <mj-all font-family="Arial, Helvetica, sans-serif"/>
+    <mj-text padding="0" font-weight="300" font-size="16px" color="#2C3E50" line-height="145%"/>
+    <mj-section padding="25px 0"/>
+    <mj-image padding="0"/>
+    <mj-button font-family="Arial, Helvetica, sans-serif" background-color="#02A550" color="#FFFFFF" font-size="16px" font-weight="bold" align="left" padding="0"/>
+  </mj-attributes>  
+</mj-head>
+<mj-body background-color="#FFFFFF">
+
+<mj-raw>
+<div style="font-size:0px;line-height:1px;mso-line-height-rule:exactly;display:none;max-width:0px;max-height:0px;opacity:0;overflow:hidden;mso-hide:all;">
+Learn to create engaging video scripts and content that captures audience attention.
+</div>
+</mj-raw>
+
+<!-- Wrapper start -->
+<mj-wrapper padding="0 20px">
+
+  <!-- Logo start -->
+  <mj-section padding="30px 0 10px">
+    <mj-column>
+      <mj-image src="http://cdn.mcauto-images-production.sendgrid.net/0a3859e57ee893c8/236f9ea4-a044-4d1e-a99a-2e62f950d4ca/800x154.png" width="200px" align="left">
+    </mj-column>
+  </mj-section>
+  <!-- Logo end -->
+
+  <!-- Intro start -->
+  <mj-section>
+    <mj-column>
+      <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
+      <mj-text>Welcome to Day 22 of the 30-day Prompt Engineering Challenge!</mj-text>
+      <mj-text padding-top="10px">Welcome to Day 22! Yesterday's challenge focused on multilingual content; today, you'll build on that by diving into video content optimization for engaging scripts and platform-specific strategies.</mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Intro end -->
+
+  <!-- Challenge Title start -->
+  <mj-section padding-top="0px" padding-bottom="0px">
+    <mj-column background-color="#1A326F" border-radius="20px 20px 0 0">
+      <mj-text padding="10px 20px" color="white" font-size="20px" line-height="30px" font-weight="bold">🗻 Day 22 Challenge</mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Challenge Title end -->
+
+  <!-- Challenge Description start -->
+  <mj-section padding-top="0px" padding-bottom="0px">
+    <mj-column background-color="#EFF6FF" border-radius="0 0 20px 20px">
+      <mj-text padding="20px 20px">NextMobile's video marketing team is struggling to create engaging content that performs well across different video platforms. They need scripts for YouTube explainer videos, TikTok promotional content, and Instagram Stories that feel native to each platform while maintaining NextMobile's brand voice. The team has discovered that video content requires different prompting strategies than written content - it needs to be more dynamic, engaging, and platform-specific. Your challenge is to master video content prompting that creates compelling scripts and content for different video platforms.</mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- Challenge Description end -->
+
+  <!-- Solution CTA start -->
+  <mj-section>
+    <mj-column>
+      <mj-button href="https://marketingcloud30.com/c/c4v8da" target="_blank" border-radius="25px">
+        Unlock Solution
+      </mj-button>
+    </mj-column>
+  </mj-section>
+  <!-- Solution CTA end -->
+
+  <!-- Closing start -->
+  <mj-section padding-top="0">
+    <mj-column>
+      <mj-text>You completed Day 22—great work! Today, in Day 23, we'll tackle building advanced prompt libraries for maximum efficiency and quality.</mj-text> 
+    </mj-column>
+  </mj-section>
+  <!-- Closing end -->
+
+  <!-- Signature start -->
+  <mj-section  padding-top="0">
+    <mj-column>
+      <mj-text padding-top="15px">
+          Best,<br>
+          Sabuhi <a href="https://mc30.nl/ln" text-decoration="none"><img src="http://cdn.mcauto-images-production.sendgrid.net/0a3859e57ee893c8/9c2aba12-bb81-4420-b69f-6cfbc2564dd2/64x64.png" width="16px"/></a> 
+      </mj-text>   
+    </mj-column>
+  </mj-section>
+  <!-- Signature end -->
+
+  <!-- Divider start -->
+  <mj-section padding-bottom="0">
+    <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="#D9D9D9" padding="0"/>
+    </mj-column>
+  </mj-section>
+  <!-- Divider end -->
+
+  <!-- Footer start -->
+  <mj-section>
+    <mj-column>
+      <mj-text padding-bottom="10px" font-size="13px" color="#999999">Questions or feedback? Just reply to this email. Need to update your email preferences? <a href="{{{unsubscribe_preferences}}}" style="color:#999999;">Change Preferences</a> or <a href="{{{unsubscribe}}}" style="color:#999999;">Unsubscribe</a>.
+      </mj-text>   
+    </mj-column>
+  </mj-section>
+  <!-- Footer end -->
+
+</mj-wrapper>
+<!-- Wrapper end -->
+
+</mj-body>
+</mjml> 

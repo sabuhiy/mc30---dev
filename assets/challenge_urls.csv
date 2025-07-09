@@ -1,31 +1,31 @@
-Day,Title,URL,Post_ID
-1,Day 1 - Craft Your First Prompt,https://marketingcloud30.com/c/k7m9x3,789
-2,Day 2 - Master Prompt Templates,https://marketingcloud30.com/c/p8q2v5,790
-3,Day 3 - Implement Role-Based Prompting,https://marketingcloud30.com/c/r3n8k4,791
-4,Day 4 - Master Stylistic Prompting,https://marketingcloud30.com/c/w5t9m2,792
-5,Day 5 - Implement Output Formatting,https://marketingcloud30.com/c/b7n4k9,793
-6,Day 6 - Master Output Formatting Advanced,https://marketingcloud30.com/c/x8q3v6,794
-7,Day 7 - Implement In-Context Learning,https://marketingcloud30.com/c/f2j8n5,795
-8,Day 8 - Master In-Context Learning,https://marketingcloud30.com/c/h9d6m1,796
-9,Day 9 - Implement Few-Shot Prompting,https://marketingcloud30.com/c/k7m2n9,797
-10,Day 10 - Master Zero-Shot Prompting,https://marketingcloud30.com/c/q3w8r5,798
-11,Day 11 - Experiment with Exemplar Quantity,https://marketingcloud30.com/c/h9j4k2,799
-12,Day 12 - Experiment with Exemplar Ordering,https://marketingcloud30.com/c/m5n7p1,800
-13,Day 13 - Experiment with Exemplar Format,https://marketingcloud30.com/c/x6z9b3,801
-14,Day 14 - Master Exemplar Selection,https://marketingcloud30.com/c/c4v8d2,802
-15,Day 15 - Implement Chain-of-Thought,https://marketingcloud30.com/c/f7g1h4,803
-16,Day 16 - Implement Zero-Shot CoT,https://marketingcloud30.com/c/b9x3m6,804
-17,Day 17 - Implement Few-Shot CoT,https://marketingcloud30.com/c/v4n8k1,805
-18,Day 18 - Implement Step-Back Prompting,https://marketingcloud30.com/c/j2s7w4,806
-19,Day 19 - Master Decomposition,https://marketingcloud30.com/c/r8t5q3,807
-20,Day 20 - Implement Least-to-Most Prompting,https://marketingcloud30.com/c/y6u9p2,808
-21,Day 21 - Implement Program-of-Thoughts,https://marketingcloud30.com/c/a3d7n5,809
-22,Day 22 - Implement Ensembling,https://marketingcloud30.com/c/l4m8x9,810
-23,Day 23 - Implement Self-Consistency,https://marketingcloud30.com/c/w7e2i6,811
-24,Day 24 - Implement Self-Criticism,https://marketingcloud30.com/c/g5h1k8,812
-25,Day 25 - Understand Prompt Sensitivity,https://marketingcloud30.com/c/s9f3v7,813
-26,Day 26 - Address Bias and Stereotypes,https://marketingcloud30.com/c/p4t6r1,814
-27,Day 27 - Address Ambiguity,https://marketingcloud30.com/c/z8c4n2,815
-28,Day 28 - Implement Multilingual Prompting,https://marketingcloud30.com/c/o3i7u5,816
-29,Day 29 - Conceptual Multimodal Prompting,https://marketingcloud30.com/c/k6l9m3,817
-30,Day 30 - Your Prompt Engineering Capstone,https://marketingcloud30.com/c/x1y4z7,818 
+Day,URL,Post_ID
+1,https://marketingcloud30.com/c/k7m9x3,789
+2,https://marketingcloud30.com/c/p8q2v5,790
+3,https://marketingcloud30.com/c/r3n8k4,791
+4,https://marketingcloud30.com/c/w5t9m2,792
+5,https://marketingcloud30.com/c/b7n4k9,793
+6,https://marketingcloud30.com/c/x8q3v6,794
+7,https://marketingcloud30.com/c/f2j8n5,795
+8,https://marketingcloud30.com/c/h9d6m1,796
+9,https://marketingcloud30.com/c/k7m2n9,797
+10,https://marketingcloud30.com/c/q3w8r5,798
+11,https://marketingcloud30.com/c/h9j4k2,799
+12,https://marketingcloud30.com/c/m5n7p1,800
+13,https://marketingcloud30.com/c/x6z9b3,801
+14,https://marketingcloud30.com/c/c4v8d2,802
+15,https://marketingcloud30.com/c/f7g1h4,803
+16,https://marketingcloud30.com/c/b9x3m6,804
+17,https://marketingcloud30.com/c/v4n8k1,805
+18,https://marketingcloud30.com/c/j2s7w4,806
+19,https://marketingcloud30.com/c/r8t5q3,807
+20,https://marketingcloud30.com/c/y6u9p2,808
+21,https://marketingcloud30.com/c/a3d7n5,809
+22,https://marketingcloud30.com/c/l4m8x9,810
+23,https://marketingcloud30.com/c/w7e2i6,811
+24,https://marketingcloud30.com/c/g5h1k8,812
+25,https://marketingcloud30.com/c/s9f3v7,813
+26,https://marketingcloud30.com/c/p4t6r1,814
+27,https://marketingcloud30.com/c/z8c4n2,815
+28,https://marketingcloud30.com/c/o3i7u5,816
+29,https://marketingcloud30.com/c/k6l9m3,817
+30,https://marketingcloud30.com/c/x1y4z7,818
