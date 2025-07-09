@@ -1,6 +1,6 @@
 <mjml>
 <mj-head>
-  <mj-title>Day 3️⃣: The Secret to Perfect AI Output</mj-title>
+  <mj-title>Day 6️⃣: Perfect Brand Voice Control</mj-title>
   <mj-attributes>
     <mj-all font-family="Arial, Helvetica, sans-serif"/>
     <mj-text padding="0" font-weight="300" font-size="16px" color="#2C3E50" line-height="145%"/>
@@ -13,7 +13,7 @@
 
 <mj-raw>
 <div style="font-size:0px;line-height:1px;mso-line-height-rule:exactly;display:none;max-width:0px;max-height:0px;opacity:0;overflow:hidden;mso-hide:all;">
-Learn the iterative approach that pros use!
+Master Style Prompting to control tone, voice, and style for perfect brand alignment across different marketing channels.
 </div>
 </mj-raw>
 
@@ -32,7 +32,7 @@ Learn the iterative approach that pros use!
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>You completed Day 2—great work! Today, in Day 3, we’ll tackle one of the most powerful techniques: iterative refinement.</mj-text>
+      <mj-text>Welcome to Day 6! Yesterday's challenge focused on role prompting; today, you'll build on that by learning to create a consistent brand voice with persona prompting.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -40,7 +40,7 @@ Learn the iterative approach that pros use!
   <!-- Challenge Title start -->
   <mj-section padding-top="0px" padding-bottom="0px">
     <mj-column background-color="#1A326F" border-radius="20px 20px 0 0">
-      <mj-text padding="10px 20px" color="white" font-size="20px" line-height="30px" font-weight="bold">🗻 Day 3 Challenge</mj-text>
+      <mj-text padding="10px 20px" color="white" font-size="20px" line-height="30px" font-weight="bold">🗻 Day 6 Challenge</mj-text>
     </mj-column>
   </mj-section>
   <!-- Challenge Title end -->
@@ -48,7 +48,7 @@ Learn the iterative approach that pros use!
   <!-- Challenge Description start -->
   <mj-section padding-top="0px" padding-bottom="0px">
     <mj-column background-color="#EFF6FF" border-radius="0 0 20px 20px">
-      <mj-text padding="20px 20px">NextMobile's customer service team has been receiving complaints about long wait times, but the first AI-generated social media responses about their 24/7 support aren't resonating with customers. The community manager needs to refine the messaging to better address customer concerns and highlight specific service improvements. Your challenge is to use iterative refinement to transform a generic social media post into compelling content that addresses customer pain points and showcases NextMobile's superior customer service.</mj-text>
+      <mj-text padding="20px 20px">NextMobile's social media team manages multiple platforms and needs to maintain brand consistency while adapting content for each platform's unique audience and style. The same product announcement about their new business fiber service needs to work on professional LinkedIn and casual Instagram, but the tone and approach must be completely different. Your challenge is to use style prompting to create platform-specific versions of NextMobile's business fiber announcement that maintain brand voice while fitting each platform's communication style.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Challenge Description end -->
@@ -56,7 +56,7 @@ Learn the iterative approach that pros use!
   <!-- Solution CTA start -->
   <mj-section>
     <mj-column>
-      <mj-button href="https://marketingcloud30.com/c/r3n8k4" target="_blank" border-radius="25px">
+      <mj-button href="https://marketingcloud30.com/c/x8q3v6" target="_blank" border-radius="25px">
         Ready to start?
       </mj-button>
     </mj-column>
@@ -66,7 +66,7 @@ Learn the iterative approach that pros use!
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Tomorrow we'll master stylistic prompting to control AI's tone, voice, and writing style.</mj-text> 
+      <mj-text>Tomorrow we'll tackle output formatting to control the structure and style of AI responses.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->
