@@ -60,7 +60,7 @@
   <!-- Footer start -->
   <mj-section>
     <mj-column>
-      <mj-text padding-bottom="10px" font-size="13px" color="#999999">If you have any feedback or questions about today's challenge, please reply to this email. If you no longer wish to receive the daily challenge emails, you can <a href="{{{unsubscribe_preferences}}}" style="color:#999999;">update your preferences</a>.
+      <mj-text padding-bottom="10px" font-size="13px" color="#999999">Questions or feedback? Just reply to this email. Need to update your email preferences? <a href="{{{unsubscribe_preferences}}}" style="color:#999999;">Change Preferences</a> or <a href="{{{unsubscribe}}}" style="color:#999999;">Unsubscribe</a>.
       </mj-text>  
     </mj-column>
   </mj-section>
