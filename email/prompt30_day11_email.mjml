@@ -32,8 +32,7 @@ Learn to detect and prevent AI hallucinations for trustworthy content.
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 11 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">You completed Day 10—great work! Today, in Day 11, we'll tackle prompt templates for efficiency and consistency.</mj-text>
+      <mj-text padding-top="10px">Day 11 brings us to prompt templates - essential tools for maintaining efficiency and consistency in your AI interactions.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to detect and prevent AI hallucinations for trustworthy content.
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>As you finish Day 11, get ready for Day 12: you'll discover how to use prompt variables for dynamic, reusable prompts.</mj-text> 
+      <mj-text>Looking ahead to tomorrow, we'll explore prompt variables that let you create dynamic, reusable prompts.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

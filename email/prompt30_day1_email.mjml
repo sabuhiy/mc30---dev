@@ -32,7 +32,7 @@ Learn the fundamentals of prompt engineering today!
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 1! Today, we're diving into the fundamentals: understanding what a prompt is and how to write a simple, effective one.</mj-text>
+      <mj-text>Welcome to Day 1! We're kicking off by exploring the fundamentals: what exactly is a prompt and how can you craft simple yet effective ones?</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +67,7 @@ Learn the fundamentals of prompt engineering today!
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Tomorrow we'll explore a crucial distinction: the difference between simple prompting and strategic prompt engineering.</mj-text> 
+      <mj-text>Coming tomorrow, discover the key differences between basic prompting and strategic prompt engineering for enhanced results.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

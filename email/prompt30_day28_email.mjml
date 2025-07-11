@@ -32,8 +32,7 @@ Learn cutting-edge prompt engineering techniques that separate experts from begi
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 28 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">As you finish Day 27, get ready for Day 28: we'll explore advanced prompt engineering techniques that separate experts from beginners.</mj-text>
+      <mj-text padding-top="10px">We're almost there! Day 28 introduces advanced prompt engineering techniques that separate true experts from beginners in the field.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn cutting-edge prompt engineering techniques that separate experts from begi
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Day 29 is here! Building on what you learned in Day 28, today's focus is troubleshooting common issues to ensure consistently great results.</mj-text> 
+      <mj-text>We're dedicating tomorrow to exploring troubleshooting methods to ensure consistently great results.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

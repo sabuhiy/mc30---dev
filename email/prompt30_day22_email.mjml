@@ -32,8 +32,7 @@ Learn to create engaging video scripts and content that captures audience attent
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 22 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">Welcome to Day 22! Yesterday's challenge focused on multilingual content; today, you'll build on that by diving into video content optimization for engaging scripts and platform-specific strategies.</mj-text>
+      <mj-text padding-top="10px">Day 22 has arrived! After yesterday's multilingual content exploration, today we're diving into video content optimization for engaging scripts and platform-specific strategies.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to create engaging video scripts and content that captures audience attent
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>You completed Day 22—great work! Today, in Day 23, we'll tackle building advanced prompt libraries for maximum efficiency and quality.</mj-text> 
+      <mj-text>Tomorrow we'll dive into building advanced prompt libraries designed for maximum efficiency and quality.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

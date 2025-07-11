@@ -32,8 +32,7 @@ Learn to create effective multilingual content that resonates across cultures an
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 21 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">Day 21 is here! Building on what you learned in Day 20, today's focus is multilingual content creation to resonate across cultures and languages.</mj-text>
+      <mj-text padding-top="10px">It's Day 21! Our focus shifts to multilingual content creation strategies that help your message resonate across diverse cultures and languages.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to create effective multilingual content that resonates across cultures an
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Welcome to Day 22! Yesterday's challenge focused on multilingual content; today, you'll build on that by diving into video content optimization for engaging scripts and platform-specific strategies.</mj-text> 
+      <mj-text>We're dedicating tomorrow to exploring video content optimization, creating engaging scripts and developing platform-specific strategies.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

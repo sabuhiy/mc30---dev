@@ -32,7 +32,7 @@ Master Output Formatting to ensure AI-generated text is delivered in the exact s
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>You completed Day 6—great work! Today, in Day 7, we'll tackle output formatting to control the structure and style of AI responses.</mj-text>
+      <mj-text>For Day 7, we're focusing on output formatting techniques that give you precise control over the structure and style of AI responses.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -66,7 +66,7 @@ Master Output Formatting to ensure AI-generated text is delivered in the exact s
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Tomorrow we'll explore In-Context Learning to enhance AI understanding by providing examples directly within your prompts.</mj-text> 
+      <mj-text>Looking ahead to tomorrow, we'll explore In-Context Learning - the art of enhancing AI comprehension by embedding examples in your prompts.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

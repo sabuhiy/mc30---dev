@@ -32,8 +32,7 @@ Learn to implement comprehensive AI ethics including privacy, transparency, and 
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 15 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">You completed Day 14—great work! Today, in Day 15, we'll tackle comprehensive AI ethics and governance frameworks for responsible innovation.</mj-text>
+      <mj-text padding-top="10px">For Day 15, we're addressing comprehensive AI ethics and governance frameworks necessary for responsible innovation.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to implement comprehensive AI ethics including privacy, transparency, and 
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>As you finish Day 15, get ready for Day 16: we'll explore Chain of Thought prompting to get AI to show its reasoning process step by step.</mj-text> 
+      <mj-text>Tomorrow we'll dive into Chain of Thought prompting, where we'll learn how to get AI to show its reasoning process step by step.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

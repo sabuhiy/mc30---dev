@@ -32,7 +32,7 @@ Master Style Prompting to control tone, voice, and style for perfect brand align
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 6! Yesterday's challenge focused on role prompting; today, you'll build on that by learning to create a consistent brand voice with persona prompting.</mj-text>
+      <mj-text>Day 6 has arrived! Following yesterday's exploration of role prompting, today you'll learn to establish consistent brand voice through effective persona prompting.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -66,7 +66,7 @@ Master Style Prompting to control tone, voice, and style for perfect brand align
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Tomorrow we'll tackle output formatting to control the structure and style of AI responses.</mj-text> 
+      <mj-text>Tomorrow we'll dive into powerful methods to shape both the format and style of AI-generated content.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

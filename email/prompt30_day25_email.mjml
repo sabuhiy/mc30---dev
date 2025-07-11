@@ -32,8 +32,7 @@ Learn to create automated prompt chains that handle complex, multi-step marketin
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 25 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">Day 25 is here! Building on what you learned in Day 24, today's focus is prompt chaining to automate complex, multi-step marketing tasks.</mj-text>
+      <mj-text padding-top="10px">Welcome to Day 25! Today we're exploring prompt chaining - a powerful technique for automating complex, multi-step marketing tasks with AI.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -65,7 +64,7 @@ Learn to create automated prompt chains that handle complex, multi-step marketin
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Welcome to Day 26! Yesterday's challenge focused on prompt chaining; today, you'll build on that by scaling prompt engineering operations across teams and departments.</mj-text> 
+      <mj-text>Our focus tomorrow is transforming prompt engineering operations by scaling across teams and departments.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

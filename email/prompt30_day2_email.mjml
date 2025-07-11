@@ -32,7 +32,7 @@ Understand prompting vs. prompt engineering for better results!
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 2! Yesterday’s challenge focused on writing your first prompt; today, you’ll build on that by exploring the crucial distinction between simple prompting and strategic prompt engineering.</mj-text>
+      <mj-text>Ready for Day 2? Building on yesterday's introduction to basic prompting, today you'll discover the critical difference between simple prompts and strategic prompt engineering techniques.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -66,7 +66,7 @@ Understand prompting vs. prompt engineering for better results!
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Tomorrow we'll dive into role-based prompting - transforming your AI into specialized experts for any task.</mj-text> 
+      <mj-text>Our focus tomorrow is transforming AI into specialized experts through effective role-based prompting techniques.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

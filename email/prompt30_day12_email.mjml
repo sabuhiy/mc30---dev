@@ -32,8 +32,7 @@ Learn to integrate visual AI with text for comprehensive multimodal content crea
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 12 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">As you finish Day 11, get ready for Day 12: you'll discover how to use prompt variables for dynamic, reusable prompts.</mj-text>
+      <mj-text padding-top="10px">Exciting news for Day 12: you'll discover the power of prompt variables to create dynamic, reusable prompts that adapt to different scenarios.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to integrate visual AI with text for comprehensive multimodal content crea
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Day 13 is here! Building on what you learned in Day 12, today's focus is how example format signals to the AI what output structure you expect.</mj-text> 
+      <mj-text>Tomorrow's topic is controlling output structure through example formatting to signal exactly what you expect from the AI.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

@@ -32,8 +32,7 @@ Learn to systematically test and measure prompt performance for continuous impro
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 24 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">As you finish Day 23, get ready for Day 24: we'll focus on testing and measuring prompt performance for continuous improvement.</mj-text>
+      <mj-text padding-top="10px">Day 24 brings practical methods for testing and measuring prompt performance, enabling continuous improvement in your AI interactions.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to systematically test and measure prompt performance for continuous impro
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Day 25 is here! Building on what you learned in Day 24, today's focus is prompt chaining to automate complex, multi-step marketing tasks.</mj-text> 
+      <mj-text>Coming tomorrow, discover prompt chaining to automate complex, multi-step marketing tasks.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

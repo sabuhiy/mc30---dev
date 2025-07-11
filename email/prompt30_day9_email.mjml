@@ -32,8 +32,7 @@ Learn to use Few-Shot Prompting by providing examples to guide AI behavior and e
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 9 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">Day 9 is here! Building on what you learned in Day 8, today's focus is learning to use negative examples to prevent unwanted AI behaviors.</mj-text>
+      <mj-text padding-top="10px">Welcome to Day 9! Today we're exploring how to use negative examples effectively to prevent unwanted AI behaviors and responses.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to use Few-Shot Prompting by providing examples to guide AI behavior and e
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Welcome to Day 10! Yesterday's challenge focused on negative examples; today, you'll build on that by mastering prompt iteration to refine and improve your results.</mj-text> 
+      <mj-text>Coming tomorrow, discover the power of prompt iteration to refine and improve your results by building on your foundation.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

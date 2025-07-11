@@ -32,7 +32,7 @@ Learn the iterative approach that pros use!
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>You completed Day 2—great work! Today, in Day 3, we’ll tackle one of the most powerful techniques: iterative refinement.</mj-text>
+      <mj-text>It's Day 3, and we're diving into one of prompt engineering's most powerful techniques: iterative refinement.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -66,7 +66,7 @@ Learn the iterative approach that pros use!
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Tomorrow we'll master stylistic prompting to control AI's tone, voice, and writing style.</mj-text> 
+      <mj-text>Tomorrow's topic is controlling AI's communication style, tone, and voice with precision through stylistic prompting.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

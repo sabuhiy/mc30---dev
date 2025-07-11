@@ -32,7 +32,7 @@ Learn to assign roles for dramatically different outputs!
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Day 5 is here! Building on what you learned in Day 4, today’s focus is mastering role prompting to transform your AI into a specialized expert for any task.</mj-text>
+      <mj-text>Hello Day 5! Our focus today is mastering role prompting - a powerful method to transform AI into a specialized expert for any task you need to accomplish.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -66,7 +66,7 @@ Learn to assign roles for dramatically different outputs!
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Tomorrow we'll advance to sophisticated formatting techniques for complex structures and professional standards.</mj-text> 
+      <mj-text>We're dedicating tomorrow to exploring advanced formatting techniques for handling complex data structures and professional requirements.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

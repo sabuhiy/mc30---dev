@@ -32,8 +32,7 @@ Learn to adapt your prompt engineering strategy for emerging AI technologies and
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 27 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">You completed Day 26—great work! Today, in Day 27, we'll tackle planning for the future and adapting your strategy for emerging AI technologies.</mj-text>
+      <mj-text padding-top="10px">Day 27 focuses on future planning - developing adaptable strategies that evolve alongside emerging AI technologies.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to adapt your prompt engineering strategy for emerging AI technologies and
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>As you finish Day 27, get ready for Day 28: we'll explore advanced prompt engineering techniques that separate experts from beginners.</mj-text> 
+      <mj-text>Coming up next on challenges tomorrow, master advanced prompt engineering techniques that distinguish experts from beginners.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

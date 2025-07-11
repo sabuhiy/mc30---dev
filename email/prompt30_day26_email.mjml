@@ -32,8 +32,7 @@ Learn to scale prompt engineering operations across teams and departments.
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 26 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">Welcome to Day 26! Yesterday's challenge focused on prompt chaining; today, you'll build on that by scaling prompt engineering operations across teams and departments.</mj-text>
+      <mj-text padding-top="10px">You've reached Day 26! Building on yesterday's prompt chaining lessons, today you'll learn strategies for scaling prompt engineering operations across teams and departments.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn to scale prompt engineering operations across teams and departments.
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>You completed Day 26—great work! Today, in Day 27, we'll tackle planning for the future and adapting your strategy for emerging AI technologies.</mj-text> 
+      <mj-text>Tomorrow's topic is controlling your strategy for emerging AI technologies through effective planning for the future.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

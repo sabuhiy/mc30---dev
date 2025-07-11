@@ -32,7 +32,7 @@ Solidify your understanding of strategic AI communication!
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>As you finish Day 3, get ready for Day 4: we’ll solidify your understanding by clearly defining the difference between basic prompting and prompt engineering.</mj-text>
+      <mj-text>Today's exercise will sharpen your understanding of prompt engineering by clearly distinguishing between basic prompting approaches and advanced strategic techniques.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -66,7 +66,7 @@ Solidify your understanding of strategic AI communication!
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Tomorrow we'll learn output formatting to ensure AI delivers exactly the structure you need.</mj-text> 
+      <mj-text>Coming up next on challenges tomorrow, master output formatting strategies to receive AI responses exactly how you need them structured.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->

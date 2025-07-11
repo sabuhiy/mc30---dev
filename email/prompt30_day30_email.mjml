@@ -33,7 +33,7 @@ Put all your prompt engineering skills to the test in our ultimate capstone chal
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
       <mj-text>Congratulations! You've reached Day 30 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">Welcome to Day 30! Yesterday's challenge focused on troubleshooting; today, you'll build on that by putting all your skills to the test in our ultimate capstone challenge.</mj-text>
+      <mj-text padding-top="10px">Congratulations on reaching Day 30 of the Prompt Engineering Challenge! For your final challenge, you'll integrate all your newly acquired skills in our comprehensive capstone project.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->

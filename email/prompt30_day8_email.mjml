@@ -32,8 +32,7 @@ Learn In-Context Learning (ICL) to enhance AI understanding by providing example
   <mj-section>
     <mj-column>
       <mj-text padding-bottom="10px">Hi  {{ insert first_name 'default=👋' }},</mj-text>
-      <mj-text>Welcome to Day 8 of the 30-day Prompt Engineering Challenge!</mj-text>
-      <mj-text padding-top="10px">As you finish Day 7, get ready for Day 8: you'll explore few-shot prompting to guide AI with multiple examples.</mj-text>
+      <mj-text padding-top="10px">On Day 8, you'll master few-shot prompting - a technique that guides AI behavior through multiple strategic examples.</mj-text>
     </mj-column>
   </mj-section>
   <!-- Intro end -->
@@ -67,7 +66,7 @@ Learn In-Context Learning (ICL) to enhance AI understanding by providing example
   <!-- Closing start -->
   <mj-section padding-top="0">
     <mj-column>
-      <mj-text>Day 9 is here! Building on what you learned in Day 8, today's focus is learning to use negative examples to prevent unwanted AI behaviors.</mj-text> 
+      <mj-text>Tomorrow we'll focus on using negative examples to prevent unwanted AI behaviors.</mj-text> 
     </mj-column>
   </mj-section>
   <!-- Closing end -->
