@@ -9,12 +9,12 @@ SET
     post_excerpt = 'Learn to create automated prompt chains that handle complex, multi-step marketing tasks.',
     post_modified = NOW(),
     post_modified_gmt = UTC_TIMESTAMP()
-WHERE ID = 814 AND post_type = 'challenge';
+WHERE ID = 830 AND post_type = 'challenge';
 
 -- Update challenge description (left side content)
 UPDATE wp_postmeta 
 SET meta_value = '<p class="mb-0">NextMobile\'s marketing team has mastered individual prompts, but they\'re struggling with complex, multi-step marketing tasks that require several AI interactions. Creating a complete campaign involves market research, content creation, audience targeting, and performance planning - tasks that need to work together seamlessly. The team wants to learn how to chain prompts together, where the output of one prompt becomes the input for the next, creating automated workflows that handle complex marketing challenges from start to finish.</p>'
-WHERE post_id = 814 AND meta_key = '_description';
+WHERE post_id = 830 AND meta_key = '_description';
 
 -- Update challenge detail with learning context and task
 UPDATE wp_postmeta 
@@ -22,12 +22,12 @@ SET meta_value = '<p>Yesterday you learned performance testing and measurement t
 
 <h5>Task</h5>
 <p>Create a prompt chain for NextMobile\'s complete campaign development process, from market research through content creation to performance planning. Design the chain to handle a new 5G service launch.</p>'
-WHERE post_id = 814 AND meta_key = '_detail';
+WHERE post_id = 830 AND meta_key = '_detail';
 
 -- Update resources with domain diversity
 UPDATE wp_postmeta 
 SET meta_value = '<ul><li><a href="https://www.microsoft.com/en-us/research/blog/sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4/" target="_blank" class="text-secondary">AI Prompt Chaining Guide - Microsoft Research</a></li><li><a href="https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks" target="_blank" class="text-secondary">Advanced AI Workflow Automation - OpenAI Platform</a></li></ul>'
-WHERE post_id = 814 AND meta_key = '_resources';
+WHERE post_id = 830 AND meta_key = '_resources';
 
 -- Update solution content with enhanced structure and prompt chain examples
 UPDATE wp_postmeta 
@@ -194,19 +194,19 @@ SET meta_value = '<p><strong>Automated Prompt Chains</strong> are incredibly pow
 <li class="mb-1"><b>Test chains thoroughly before deploying at scale:</b> Prevents costly mistakes and ensures reliability</li>
 <li class="mb-1"><b>Create templates for reusable chains:</b> Maximizes efficiency and maintains consistency across campaigns</li>
 </ul>'
-WHERE post_id = 814 AND meta_key = '_solution';
+WHERE post_id = 830 AND meta_key = '_solution';
 
 -- Update challenge management fields
 INSERT INTO wp_postmeta (post_id, meta_key, meta_value) 
-VALUES (814, '_challenge_order', '25')
+VALUES (830, '_challenge_order', '25')
 ON DUPLICATE KEY UPDATE meta_value = '25';
 
 INSERT INTO wp_postmeta (post_id, meta_key, meta_value) 
-VALUES (814, '_challenge_difficulty', 'Advanced')
+VALUES (830, '_challenge_difficulty', 'Advanced')
 ON DUPLICATE KEY UPDATE meta_value = 'Advanced';
 
 INSERT INTO wp_postmeta (post_id, meta_key, meta_value) 
-VALUES (814, '_estimated_time', '45 minutes')
+VALUES (830, '_estimated_time', '45 minutes')
 ON DUPLICATE KEY UPDATE meta_value = '45 minutes';
 
 -- Verify the update was successful
@@ -217,6 +217,6 @@ SELECT
     LEFT(pm.meta_value, 100) as preview
 FROM wp_posts p
 LEFT JOIN wp_postmeta pm ON p.ID = pm.post_id
-WHERE p.ID = 814 
+WHERE p.ID = 830 
 AND pm.meta_key IN ('_description', '_detail', '_resources', '_solution', '_challenge_order', '_challenge_difficulty', '_estimated_time')
 ORDER BY pm.meta_key; 

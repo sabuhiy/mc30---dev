@@ -9,7 +9,7 @@ Hello [email],
 
 Welcome to Day 16 of the Prompt30 30-day Prompt Engineering Challenge!
 
-Yesterday you learned how persona prompting creates consistent brand voice across all AI-generated content. Today, we explore Chain of Thought (CoT) prompting - a technique that encourages AI to break down complex problems into logical steps, showing its reasoning process. This is particularly valuable for calculations, analysis, and decision-making scenarios.
+Yesterday you learned how to implement AI ethics frameworks to ensure responsible AI use and build customer trust. Today, we explore Chain of Thought (CoT) prompting - a technique that encourages AI to break down complex problems into logical steps, showing its reasoning process. This is particularly valuable for calculations, analysis, and decision-making scenarios.
 
 NextMobile's sales team needs to create compelling ROI calculations for potential business customers, but they want the AI to show the complete reasoning process behind each calculation. When customers see the step-by-step logic of how NextMobile's services save money and increase productivity, they're more likely to trust the numbers and make a purchase decision. The team wants to use Chain of Thought prompting to generate transparent, logical explanations that walk customers through the financial benefits of switching to NextMobile's business internet services.
 
@@ -23,7 +23,7 @@ Best, Sab
 NextMobile's sales team needs to create compelling ROI calculations for potential business customers, but they want the AI to show the complete reasoning process behind each calculation. When customers see the step-by-step logic of how NextMobile's services save money and increase productivity, they're more likely to trust the numbers and make a purchase decision. The team wants to use Chain of Thought prompting to generate transparent, logical explanations that walk customers through the financial benefits of switching to NextMobile's business internet services.
 
 ### Challenge Detail
-Yesterday you learned how persona prompting creates consistent brand voice across all AI-generated content. Today, we explore Chain of Thought (CoT) prompting - a technique that encourages AI to break down complex problems into logical steps, showing its reasoning process. This is particularly valuable for calculations, analysis, and decision-making scenarios.
+Yesterday you learned how to implement AI ethics frameworks to ensure responsible AI use and build customer trust. Today, we explore Chain of Thought (CoT) prompting - a technique that encourages AI to break down complex problems into logical steps, showing its reasoning process. This is particularly valuable for calculations, analysis, and decision-making scenarios.
 
 ### Task
 Create a Chain of Thought prompt that generates step-by-step ROI calculations for NextMobile's business internet services. Show how the AI walks through the logic of cost savings and productivity gains.
